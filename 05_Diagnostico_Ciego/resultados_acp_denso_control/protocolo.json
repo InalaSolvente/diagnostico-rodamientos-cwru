@@ -1,0 +1,18 @@
+{
+  "codigo": "9baf04373f5ce456b8060e9e4ff6f9df2e0788fec05f1db0d503542ee9254c02",
+  "preparador": "0e1ddac88804fbab7f1cf6fe5afd90dc4c2489080fc99a3268e01037b4472ca4",
+  "nucleo": "952c0b1e890c8466473e035961909d8cd918d3f7b7ee9f59bc928592551ae966",
+  "rasgos": "8619d8ed4529fbd04d68dbdd8a7ae8ef1a40ce07cea663fcb1f08382c0d101e7",
+  "crudos": "250c02cccf0c933d71b5ad5336c5622fa6539467bce3bfe14adef2485a04595a",
+  "modelo": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+  "controlador": "d2855724181efb4b69a9754807615f3eaf57095d16c94ae62d03c644a3fbf216",
+  "receta": "LDA shrinkage auto, doce vistas, crudo2021+coherencia densa990",
+  "entrenamiento_fallas": 52,
+  "exclusiones": "tipo+tamaño completos, todas las posiciones OR juntas",
+  "variantes": "dos recetas completas: con controles históricos y sin forzar tipo",
+  "comparacion": "solo clasificación de tipo; no calcular grados ni usar la segunda mitad para puntuar bandas",
+  "objetivo": "como máximo 5 tipos incorrectos entre los mismos 105 registros con paper",
+  "exploratorio": true,
+  "validacion_externa": false,
+  "variante": "resultados_acp_denso_control"
+}

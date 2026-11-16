@@ -1,0 +1,2194 @@
+[
+  {
+    "grupo_exterior": "B007",
+    "train": [
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.7083333333333334,
+      "svm": 0.5861111111111111
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "B014",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6611111111111111,
+      "svm": 0.6361111111111111
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "B021",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6148148148148147,
+      "svm": 0.5564814814814815
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "B028",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6749999999999999,
+      "svm": 0.6416666666666667
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR007",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "svm",
+    "scores_internos": {
+      "lda": 0.7122507122507122,
+      "svm": 0.8076923076923078
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR014",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6209207459207459,
+      "svm": 0.6208236208236207
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR021",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6752136752136751,
+      "svm": 0.5993589743589743
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR028",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR028",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.7863247863247863,
+      "svm": 0.7094017094017094
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "OR007",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR007",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6677655677655677,
+      "svm": 0.6217338217338217
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR014",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR014",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo": "svm",
+    "scores_internos": {
+      "lda": 0.693162393162393,
+      "svm": 0.7277777777777777
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR021"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR021",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat"
+    ],
+    "modelo": "lda",
+    "scores_internos": {
+      "lda": 0.6455433455433456,
+      "svm": 0.5537240537240538
+    },
+    "internos": [
+      {
+        "grupo_interno_fuera": "B007",
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B014",
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "B028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR021",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "IR028",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR007",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR014"
+        ]
+      },
+      {
+        "grupo_interno_fuera": "OR014",
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007"
+        ]
+      }
+    ]
+  }
+]

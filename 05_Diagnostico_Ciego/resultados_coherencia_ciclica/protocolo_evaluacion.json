@@ -1,0 +1,18 @@
+{
+  "codigo": "ec9d9f51e0b27bbe252fa24999994d173aac61d1ca70e78d18176157a346b55d",
+  "preparador": "6cf5515be72e548bd265bff61052b8cc94a4cca19c9dfeae9d59e2fc6b53b5c5",
+  "rasgos": "6705b6c6e6d6c6396f914e9e1da70c8a9db7ace6d2b8a615ff0b3021d1476c52",
+  "muestra": "9aabee2f9195a5bedb55fa6f5c6b8bb93e90ffbaee8c63092496c146d26b4f89",
+  "modelos": "e088374eb1bf98d640923349b781ad820c8497dbb6b39738356c0e3a6644421c",
+  "seleccion": "42d33715d9633c5b4dbf8476fb7f296f252870c53449868245f63f17a1cad188",
+  "puntuador": "d96298dd12e60538c8f16fea8cb938edf7e0511e9348300c0a9ba50ae27c7509",
+  "candidatos": "LDA shrinkage, SVM RBF C1 balanced o peine físico fijo",
+  "criterio": "exactitud equilibrada interna, desempate por exactitud y orden fijo",
+  "particiones": "exterior e interior por tipo+tamaño; OR completo, cargas, sensores y muestreos fuera",
+  "detector": "mismo detector crudo con grupos completos",
+  "controles": "ninguno sobrescribe el tipo",
+  "grados": "banco57 y mismo juez, dos ramas fijadas en selección",
+  "entrenamiento_fallas": 52,
+  "exploratorio": true,
+  "validacion_externa": false
+}

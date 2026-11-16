@@ -1,0 +1,8 @@
+{
+  "estado": "clasificacion_completa_grados_interrumpidos",
+  "tipo_correcto": 81,
+  "total": 105,
+  "grados_completados": false,
+  "protocolo_sha256": "7a485ca4c8a9ff59786115819e0fa24405f2cd687073a625b26b4c8dab86b07a",
+  "motivo": "interrupcion por pausa del usuario; no usar como evaluacion completa"
+}

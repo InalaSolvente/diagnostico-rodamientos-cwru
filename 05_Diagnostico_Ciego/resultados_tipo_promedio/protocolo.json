@@ -1,0 +1,12 @@
+{
+  "version": "tipo_promedio_fijo_v1",
+  "hipotesis": "ajustar covarianza sobre registros promediados como en inferencia",
+  "entrenamiento": "un promedio por registro; LDA lsqr shrinkage auto, solo B/IR/OR",
+  "exterior": "condicion completa fuera, ambos sensores y todas las ventanas juntos",
+  "seleccion": "una variante fija; no se cambian detector, juez ni filtros",
+  "limitacion": "desarrollo ya reutilizado; evidencia exploratoria",
+  "codigo": "792a501e7ff581f95df65b8fcdab039b73168427be708b00985b315471fbae4d",
+  "rasgos": "c3e4fc1865cd2008774d137342bb6caa2171c7c13656232dcfa0dfad1d01bc5b",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339",
+  "detector": "a0e890c58290a86363b60d4e6f5955cb42e082847e438f6a7d25d12763fc4b22"
+}

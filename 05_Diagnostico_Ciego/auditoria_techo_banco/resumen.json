@@ -1,0 +1,10 @@
+{
+  "tipo": "cota optimista, no resultado de diagnostico",
+  "total": 105,
+  "techo_banco31": 100,
+  "casos_imposibles_con_banco_y_juez_actuales": 5,
+  "regla": "grado final de cada rama <= grado en seleccion <= mejor grado de seleccion para la familia verdadera",
+  "alcance": "banco31, envolvente amplitud/cuadrada, H6, mismo umbral; no aplica a otros preprocesados",
+  "codigo": "3470504abc6ba963323ffbdbcb4ef8a56d0a78cc8f02731737922ff964aa1641",
+  "elecciones_sha256": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359"
+}

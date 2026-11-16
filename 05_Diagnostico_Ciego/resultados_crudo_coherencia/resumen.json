@@ -1,0 +1,19 @@
+{
+  "total": 105,
+  "mejoran": 13,
+  "iguales": 69,
+  "empeoran": 3,
+  "tipo_incorrecto": 20,
+  "sin_retroceso": 82,
+  "conteo_ND_emitido": {
+    "total": 105,
+    "mejoran": 13,
+    "iguales": 69,
+    "empeoran": 3,
+    "tipo_incorrecto": 20,
+    "sin_retroceso": 82
+  },
+  "normales_correctos": 4,
+  "validacion_externa": false,
+  "desplegado": false
+}

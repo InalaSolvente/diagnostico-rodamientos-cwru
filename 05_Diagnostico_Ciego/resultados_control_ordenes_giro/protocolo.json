@@ -1,0 +1,13 @@
+{
+  "version": "D_persistente_sin_alias_giro_v1",
+  "regla": "conservar el tipo base si todas las armonicas que justifican corregir tambien admiten ordenes de giro",
+  "tolerancia": 0.02,
+  "ajuste": "ninguno; misma tolerancia que el juez",
+  "entradas": "catalogo completo y evidencia de primera mitad; sin verificacion ni etiqueta verdadera",
+  "limitacion": "regla motivada por errores inspeccionados; exploratoria, sin validacion externa",
+  "codigo": "276842db398c0441a93c3498d5b92d05ed3bdc2268313ed5c0031a05b505c803",
+  "fuente": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359",
+  "base": "23ea7932a2212e09e2664dd8eab70c2333ea7641e6c542f282cc1b983fc672d1",
+  "control_giro": "d6526ec0a9dacb6f539292a17e31de03f6aba7effed0381e162a783959f5e8cf",
+  "regla_d": "1458e37924adcb717d0ff19a113e0787d334e9bc1390e248f4f81c5d1c9b6321"
+}

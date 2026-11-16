@@ -1,0 +1,14 @@
+{
+  "total": 105,
+  "mejoran": 8,
+  "iguales": 70,
+  "empeoran": 7,
+  "tipo_incorrecto": 20,
+  "sin_retroceso": 78,
+  "normales_correctos": 4,
+  "normales": 4,
+  "fallas_48k_tipo_correcto": 18,
+  "fallas_48k": 24,
+  "desarrollo_52_reproducido": true,
+  "validacion_externa": false
+}

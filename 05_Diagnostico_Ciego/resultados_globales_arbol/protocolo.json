@@ -1,0 +1,14 @@
+{
+  "version": "arbol_mas_globales_2021_v1",
+  "representacion": "1953 rasgos de árbol existentes + 68 estadísticas y PSD globales del mismo extractor",
+  "modelo": "StandardScaler + LDA lsqr shrinkage auto, parámetros fijos; cuatro ventanas por registro",
+  "control": "mismo detector y control D sin alias de giro",
+  "entradas": "primeros 2.5 s, fs y catálogo completo",
+  "validacion": "52 fallas de desarrollo, condición completa excluida en ambos sensores y muestreos",
+  "limitacion": "experimento sobre datos ya inspeccionados; sin validación externa",
+  "codigo": "bd8780eb64ef7d433d9254101e77cd57a34eff6d53dd3df40d68a62f32355192",
+  "base": "23ea7932a2212e09e2664dd8eab70c2333ea7641e6c542f282cc1b983fc672d1",
+  "arbol": "479b8c5f104b52fdac12d0ffcb40ec78c97c748f52731b5e90be831ee6d31775",
+  "extractor": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "control_giro": "276842db398c0441a93c3498d5b92d05ed3bdc2268313ed5c0031a05b505c803"
+}

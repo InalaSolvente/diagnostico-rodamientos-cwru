@@ -1,0 +1,17 @@
+{
+  "casos": 133,
+  "referencia": 105,
+  "OOF_completo_reproducido": true,
+  "correcciones_PD_recalculadas": 6,
+  "futuro_independiente": true,
+  "modelo_sha256": "3d5b3578e433a0235fd71f43e67f94a86b242feda21f2bb945dae7880e6ab553",
+  "predictor_sha256": "cf79954e16789e551dc5024e03299127822b7e280207b17567677d7f3189c877",
+  "resumen": {
+    "total": 105,
+    "mejoran": 16,
+    "iguales": 72,
+    "empeoran": 5,
+    "tipo_incorrecto": 12,
+    "sin_retroceso": 88
+  }
+}

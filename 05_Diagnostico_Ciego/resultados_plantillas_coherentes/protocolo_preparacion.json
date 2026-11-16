@@ -1,0 +1,15 @@
+{
+  "version": "curvas_81_724_v1",
+  "rasgos": "momentos4 + curvas de soporte simple/doble/fundamental, con y sin especificidad de giro, maximo/media sobre portadoras",
+  "frecuencia": "mismo desplazamiento relativo para todas las armonicas de una familia; 81 puntos en +/-2%",
+  "resolucion": "prefijo fijo 2.5 s a 12 kHz, periodograma Hann y suavizado fijo de un bin",
+  "giro": "rasgo continuo por distancia a orden de giro en unidades de resolucion; no elimina picos del juez",
+  "bandas": "31; envolvente amplitud y cuadrada; seis armonicas para TODAS las cinco familias",
+  "entrada": "solo señal, fs y catalogo completo; ninguna etiqueta o identidad como rasgo",
+  "codigo": "3bffcb02293c62c331f18b5d590c77df672070a6048b5ecf0d71c31f895a487e",
+  "base": "671d08a21e0eacb80d5fe8b3219f2b8db8b96b109c320001f1c066497be82fad",
+  "extractor": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "ventanas": "3ed208a3597316ba57ecd9d4e6cced6ded8078764004628f88a84e2303ae222e",
+  "bandas_fuente": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "giro_fuente": "d6526ec0a9dacb6f539292a17e31de03f6aba7effed0381e162a783959f5e8cf"
+}

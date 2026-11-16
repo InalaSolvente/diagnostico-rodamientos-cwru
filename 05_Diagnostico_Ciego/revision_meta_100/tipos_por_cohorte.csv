@@ -1,0 +1,4 @@
+cohorte,total,tipo_correcto,sin_diagnostico
+fallas_12k_con_paper,105,88,0
+fallas_48k_sin_paper,24,18,1
+normales,4,4,0

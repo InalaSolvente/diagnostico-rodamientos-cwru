@@ -1,0 +1,74 @@
+{
+  "codigo": "96348d9b0d8f2e1927f128997e06858f4b56cfaa6c222c328f59a2721f3a4429",
+  "mismos_133_archivos_y_105_referencias": true,
+  "conteos_recalculados": true,
+  "cotas_verificadas": "6f07aaf5a7faf9d23467193b898db376bbbbceb38cba716bf30bdb8888a39ff8",
+  "verificacion_ACP": "6d43b4bdd977f55860e22ade92ba8a59f0495917dc14fdffe3e4e0bcd70319cd",
+  "verificacion_temporal": "3c918c880fe83fe0f3cb0f11fedfc1796fde5d81e4db73f1d5e19653ff3a514f",
+  "verificacion_juez84": "1f864f628b447798ac2ca03f44940b7127a162f067f2e8708d9cadf4737f6067",
+  "cache_banco57_catalogo_senal_fs_y_codigo_verificados": true,
+  "fuentes": [
+    {
+      "carpeta": "resultados_grupos_por_defecto",
+      "sha256_comparacion": "671d08a21e0eacb80d5fe8b3219f2b8db8b96b109c320001f1c066497be82fad"
+    },
+    {
+      "carpeta": "resultados_preblanqueo_ar",
+      "sha256_comparacion": "f01ff0393fe03d94cba466827e86754420bcbc63851e787337187a063ca508aa"
+    },
+    {
+      "carpeta": "resultados_plantillas_coherentes",
+      "sha256_comparacion": "cd3cf858acc1be5669b140eb80d9f74127e627b2cd3f52e620317ab07c92c955"
+    },
+    {
+      "carpeta": "resultados_plantillas_ranking_anidado",
+      "sha256_comparacion": "f1b236d8f3574fb3dd735f4b146e48e3c540f94d2dd1764dc7a092728e91ffc0"
+    },
+    {
+      "carpeta": "resultados_plantillas_modulacion",
+      "sha256_comparacion": "71e91877342f94015df05df33fef6887c80574d0bd7a126c1b1f090565f6817b"
+    },
+    {
+      "carpeta": "resultados_ranker_fisico",
+      "sha256_comparacion": "6641fd174784833f78e9788b222e16b7681ea82b3ba930f6ecc72b3f34d3b774"
+    },
+    {
+      "carpeta": "resultados_sin_control_PD",
+      "sha256_comparacion": "3e637e40b720448fc933bdcf7197b0e70d650842217cc5e5d1022369bd6d03f6"
+    },
+    {
+      "carpeta": "resultados_sin_forzar_tipo",
+      "sha256_comparacion": "9180910472ab26ed19275c49953fdd2d867e2be62277ece7d4fd3ed2ac3f55d1"
+    },
+    {
+      "carpeta": "resultados_invariancia_portadora",
+      "sha256_comparacion": "0310e3264e57670006f0f30397d803c0722aa60e6dae47aaccb67df9eaab270c"
+    },
+    {
+      "carpeta": "resultados_selector_controles_anidado",
+      "sha256_comparacion": "ce3b27b2dc996982560d211c6356a1b57285536d97082b573220f30ba2d07171"
+    },
+    {
+      "carpeta": "resultados_banco_desplazado",
+      "sha256_comparacion": "07b38c02b1a89b0334ffaab3c9ce06dc841536ea093d0fc6bbdc980ba5bc3fb8"
+    },
+    {
+      "carpeta": "resultados_coherencia_ciclica",
+      "sha256_comparacion": "5e08eba034e92acafc01454e2c2354c9e3a618be070ea8872a82180cd74371d6"
+    },
+    {
+      "carpeta": "resultados_crudo_coherencia",
+      "sha256_comparacion": "87cdb9678b8ffe118b253607d7eb631f25afd66509c4d56b8966d1cf7eff70bc"
+    },
+    {
+      "carpeta": "resultados_temporales_acp",
+      "sha256_comparacion": "a471b862d2acc0c52eb1d58fd40151f73c2a8be3d37c68286c4902ff7be21574"
+    },
+    {
+      "carpeta": "resultados_juez_aprendido_acp",
+      "sha256_comparacion": "967583b3ccb86fcfebdf7900b5449b5c77333ffa92fb2a17a345723be94e5ec7"
+    }
+  ],
+  "objetivo_alcanzado": false,
+  "modelos_sustituidos": false
+}

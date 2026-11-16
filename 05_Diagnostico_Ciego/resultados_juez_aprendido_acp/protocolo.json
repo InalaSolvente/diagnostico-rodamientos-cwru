@@ -1,0 +1,20 @@
+{
+  "codigo": "40b228438f672ab40448edbd2626566c9fc8da714258480bbb26f5a33f925a0e",
+  "fuente": "87cdb9678b8ffe118b253607d7eb631f25afd66509c4d56b8966d1cf7eff70bc",
+  "crudos": "016fb09c63edb4ca825b26c45a5ed1dee0b34b46f488bcdb7feb3a063ed9ffae",
+  "coherencia": "6705b6c6e6d6c6396f914e9e1da70c8a9db7ace6d2b8a615ff0b3021d1476c52",
+  "evidencia_fuente": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359",
+  "extractor_juez": "9775b994620042dbf539850005e4b1362b56895909f0f48125f314d09deb8fa9",
+  "modelo": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+  "puntuador": "d96298dd12e60538c8f16fea8cb938edf7e0511e9348300c0a9ba50ae27c7509",
+  "receta": "LDA shrinkage auto, 2021 crudos +600 ACP +84 evidencias de selección",
+  "evidencia": "tres familias, potencias relativas, significancia, márgenes y persistencia de primera mitad",
+  "tipos": "solo clasificador; no se sobrescriben mediante controles D/PD",
+  "grado": "mismo juez D/PD/ND y dos ramas banco57",
+  "detector": "mismo detector estricto",
+  "entrenamiento_fallas": 52,
+  "exclusiones": "tipo+tamaño completos, todas las posiciones OR juntas",
+  "ajuste": "solo etiqueta de tipo en entrenamiento; nunca grado del paper",
+  "exploratorio": true,
+  "validacion_externa": false
+}

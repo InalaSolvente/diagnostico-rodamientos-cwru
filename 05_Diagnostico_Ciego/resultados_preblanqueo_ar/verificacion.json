@@ -1,0 +1,16 @@
+{
+  "casos": 133,
+  "referencia": 105,
+  "futuro_independiente": true,
+  "grupos_completos": true,
+  "resultado": {
+    "total": 105,
+    "mejoran": 9,
+    "iguales": 64,
+    "empeoran": 2,
+    "tipo_incorrecto": 30,
+    "sin_retroceso": 73,
+    "normales_correctos": 3
+  },
+  "adoptado": false
+}

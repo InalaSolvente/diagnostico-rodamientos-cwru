@@ -1,0 +1,14 @@
+{
+  "total_objetivo": 105,
+  "tipo_incorrecto": 27,
+  "tipo_correcto": 78,
+  "meta_tipos": 5,
+  "meta_tipos_alcanzada": false,
+  "total_archivos": 133,
+  "tipo_incorrecto_133": 34,
+  "normales_correctos": 4,
+  "sin_diagnostico": 1,
+  "entrenamiento_fallas": 52,
+  "grados_evaluados": false,
+  "validacion_externa": false
+}

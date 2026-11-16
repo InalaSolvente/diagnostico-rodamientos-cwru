@@ -1,0 +1,20 @@
+{
+  "codigo": "841cd788d3afa12399688622a258596853667ed2751beaa97b9b3f6cf5dd12a2",
+  "fuente": "8aff2a85f1ac74b1653b94199035e374fca315b5e5921acd78fcb00cc5794376",
+  "rasgos_crudos": "016fb09c63edb4ca825b26c45a5ed1dee0b34b46f488bcdb7feb3a063ed9ffae",
+  "rasgos_coherencia": "6705b6c6e6d6c6396f914e9e1da70c8a9db7ace6d2b8a615ff0b3021d1476c52",
+  "preparador": "6cf5515be72e548bd265bff61052b8cc94a4cca19c9dfeae9d59e2fc6b53b5c5",
+  "modelo": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+  "controlador": "d2855724181efb4b69a9754807615f3eaf57095d16c94ae62d03c644a3fbf216",
+  "puntuador": "d96298dd12e60538c8f16fea8cb938edf7e0511e9348300c0a9ba50ae27c7509",
+  "alternativas": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359",
+  "receta": "LDA shrinkage auto sobre 2021+600, cuatro ventanas por registro; ACP común del prefijo 2.5 s",
+  "controles": "D sin alias de giro y PD maxmin, sin cambios",
+  "entrenamiento_fallas": 52,
+  "exclusiones": "tipo+tamaño completos, todas las posiciones OR juntas",
+  "detector": "mismo detector estricto",
+  "grado": "banco57, mismo juez y dos ramas fijadas antes de verificar",
+  "seleccion_de_configuracion": "receta única fijada antes de abrir grados futuros",
+  "exploratorio": true,
+  "validacion_externa": false
+}

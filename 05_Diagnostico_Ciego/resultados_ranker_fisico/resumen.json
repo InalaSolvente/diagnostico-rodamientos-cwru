@@ -1,0 +1,20 @@
+{
+  "total": 105,
+  "mejoran": 9,
+  "iguales": 64,
+  "empeoran": 3,
+  "tipo_incorrecto": 29,
+  "sin_retroceso": 73,
+  "conteo_ND_emitido": {
+    "total": 105,
+    "mejoran": 9,
+    "iguales": 64,
+    "empeoran": 3,
+    "tipo_incorrecto": 29,
+    "sin_retroceso": 73
+  },
+  "criterio_principal": "tipo exigido en ND, como matrices recientes; consulta al usuario pendiente",
+  "normales_correctos": 4,
+  "validacion_externa": false,
+  "desplegado": false
+}

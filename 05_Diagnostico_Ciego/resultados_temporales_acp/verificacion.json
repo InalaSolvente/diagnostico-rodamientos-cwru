@@ -1,0 +1,19 @@
+{
+  "codigo": "0a33ac8869e6c6593fcdd3e83a115bf1074ad3ba8532bee3bd736b3f489155df",
+  "ajustes_reproducidos": 22,
+  "archivos_recalculados": 132,
+  "vistas_por_archivo": 12,
+  "nuevas_vistas_sin_futuro": true,
+  "futuro_invariante": [
+    12000,
+    48000
+  ],
+  "grados_recalculados": 10,
+  "fuente84": "1f864f628b447798ac2ca03f44940b7127a162f067f2e8708d9cadf4737f6067",
+  "entrenamiento_52_grupos_completos": true,
+  "comparacion_pareada": {
+    "recuperados": 4,
+    "perdidos": 2
+  },
+  "sin_retroceso": 84
+}

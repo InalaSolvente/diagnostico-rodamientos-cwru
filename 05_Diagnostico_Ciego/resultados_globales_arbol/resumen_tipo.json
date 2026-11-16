@@ -1,0 +1,9 @@
+{
+  "total": 105,
+  "tipo_correcto": 91,
+  "tipo_correcto_desarrollo": 45,
+  "total_desarrollo": 52,
+  "normales_correctos": 4,
+  "calidad_pendiente": true,
+  "desplegado": false
+}

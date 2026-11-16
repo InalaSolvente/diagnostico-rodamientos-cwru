@@ -1,0 +1,20 @@
+{
+  "codigo": "c2ea92a4dcec58dba73c70f9ef74d3416e93b7f4d7ef6342f5b9f9cf05c1f4db",
+  "temporales": "250c02cccf0c933d71b5ad5336c5622fa6539467bce3bfe14adef2485a04595a",
+  "metadata": "a471b862d2acc0c52eb1d58fd40151f73c2a8be3d37c68286c4902ff7be21574",
+  "evidencia_fuente": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359",
+  "rasgos84": "4d4d2d5f73ff3e7db15073fa150c67a7b6225d6152203422f162256eaa0bc0d7",
+  "extractor84": "9775b994620042dbf539850005e4b1362b56895909f0f48125f314d09deb8fa9",
+  "metrica": "9baf04373f5ce456b8060e9e4ff6f9df2e0788fec05f1db0d503542ee9254c02",
+  "receta": "HistGradientBoosting, parámetros fijos; media temporal2621 +84 de selección",
+  "entrenamiento": "52 archivos con falla; un ejemplo por archivo; pesos equilibrados por tipo",
+  "etiquetas": "solo y_train en ajuste; ningún grado de paper ni frecuencia verdadera en inferencia",
+  "exclusiones": "tipo+tamaño completos, todas las posiciones OR/cargas/sensores/muestreos",
+  "rasgos84_independientes_del_gate": true,
+  "detector": "mismo detector por grupo completo",
+  "variantes": "con controles D/PD históricos o sin forzar tipo; ambas fijadas antes de puntuar",
+  "solo_tipo": true,
+  "exploratorio": true,
+  "validacion_externa": false,
+  "variante": "resultados_hist_temporal_control"
+}

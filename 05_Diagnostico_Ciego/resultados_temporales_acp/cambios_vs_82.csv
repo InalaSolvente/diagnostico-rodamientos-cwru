@@ -1,0 +1,8 @@
+archivo,real,paper,prediccion,grado,prediccion_previa,grado_previo,acierto_previo,acierto_ahora
+12k_DE/B007_0.mat,B,ND,B,D,OR,PD,False,True
+12k_DE/B021_0.mat,B,D,B,PD,OR,PD,False,False
+12k_DE/B021_2.mat,B,ND,B,PD,OR,D,False,True
+12k_DE/OR021@12_3.mat,OR,D,OR,D,B,PD,False,True
+12k_FE/B007_2.mat,B,D,B,D,OR,PD,False,True
+12k_FE/B021_3.mat,B,PD,OR,PD,B,D,True,False
+12k_FE/IR021_2.mat,IR,D,B,PD,IR,D,True,False

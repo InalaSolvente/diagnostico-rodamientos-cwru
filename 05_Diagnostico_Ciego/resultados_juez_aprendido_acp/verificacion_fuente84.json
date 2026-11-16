@@ -1,0 +1,13 @@
+{
+  "codigo": "b729ab4dfd9f04de3a702aad6e25b160cb09a552dc150553f84960c19ccd6622",
+  "extractor": "9775b994620042dbf539850005e4b1362b56895909f0f48125f314d09deb8fa9",
+  "selector": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+  "rasgos_guardados": "4f56d85d644b9c277ea45e82cefe646f4410486868982a612f4cd0ac30522e13",
+  "registros_recalculados": 127,
+  "hipotesis_por_registro": 3,
+  "diferencia_maxima": 0.0,
+  "etiqueta_o_tipo_predicho_para_elegir": false,
+  "tramo": "solo primera mitad",
+  "verificado": true
+}

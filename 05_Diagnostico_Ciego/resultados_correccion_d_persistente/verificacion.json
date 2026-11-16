@@ -1,0 +1,11 @@
+{
+  "casos": 133,
+  "referencia": 105,
+  "correcciones_recalculadas": 11,
+  "recupera": 6,
+  "pierde": 3,
+  "neto": 3,
+  "independencia_futuro_probada": true,
+  "predictor_sha256": "dacb06699a4f58c41ec6ca7c5ffe1ddf95853893bb00759d13b4e7ab183bdfed",
+  "protocolo_sha256": "bf469100cd8cd264978a6272de585db22851104b3cdaa9f01361adb5d67416fd"
+}

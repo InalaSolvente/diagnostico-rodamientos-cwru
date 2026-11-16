@@ -1,0 +1,124 @@
+{
+  "codigo": "1ed5a099780e9db8cd93ed8fb1d5ddbb03144c3b0854aed0ad5dbe6105b3b927",
+  "grupos_exteriores_e_interiores_excluidos": true,
+  "mismo_entrenamiento_52": true,
+  "tipos_banco57_sin_cambios": true,
+  "geometria_y_multiplicidad_correctas": true,
+  "evidencias_D_comprobadas": 303,
+  "banco57_reproducido_y_futuro_invariante": [
+    "12k_DE/B007_0.mat",
+    "48k_DE/B007_0.mat"
+  ],
+  "cota_reproducida": [
+    {
+      "archivo": "12k_DE/B007_3.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B007_3.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B007_3.mat",
+      "banco": 57,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B021_0.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B021_0.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B021_0.mat",
+      "banco": 57,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B021_1.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B021_1.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B021_1.mat",
+      "banco": 57,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B028_0.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/B028_0.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR014@6_0.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR014@6_0.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR014@6_0.mat",
+      "banco": 57,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR021@12_0.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR021@12_0.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR021@12_2.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR021@12_2.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_DE/OR021@12_2.mat",
+      "banco": 57,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_FE/IR007_1.mat",
+      "banco": 31,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_FE/IR007_1.mat",
+      "banco": 63,
+      "grado": "PD"
+    },
+    {
+      "archivo": "12k_FE/IR007_1.mat",
+      "banco": 57,
+      "grado": "PD"
+    }
+  ]
+}

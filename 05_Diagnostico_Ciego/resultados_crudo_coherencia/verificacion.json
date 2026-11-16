@@ -1,0 +1,20 @@
+{
+  "codigo": "12d67f502977427f611b4f1678431fc203ceeb678a77a918b6d89f1afe81cb21",
+  "coherencia": "6cf5515be72e548bd265bff61052b8cc94a4cca19c9dfeae9d59e2fc6b53b5c5",
+  "extractor_crudo": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "giro": "d6526ec0a9dacb6f539292a17e31de03f6aba7effed0381e162a783959f5e8cf",
+  "ajustes_reproducidos": 22,
+  "rasgos_desde_MAT": 132,
+  "grados_recalculados_para_todos_los_tipos_nuevos": 12,
+  "futuro_invariante": [
+    12000,
+    48000
+  ],
+  "entrenamiento_52_y_grupos_excluidos": true,
+  "comparacion_pareada": {
+    "recuperados": 6,
+    "perdidos": 4
+  },
+  "normal_correctos": 4,
+  "objetivo_alcanzado": false
+}

@@ -1,0 +1,18 @@
+{
+  "codigo": "7122c48a50ff8b78ad436a2e327c03d5ddeddcd813c9db022081a2aa740a54c8",
+  "plantillas_desde_MAT": 127,
+  "grados_reproducidos": 3,
+  "evidencias_D_comprobadas": 327,
+  "ajustes_prior_uniforme_reproducidos": 11,
+  "futuro_invariante": [
+    12000,
+    48000
+  ],
+  "origen_fs48_no_divisible_por_4": true,
+  "controles_nulos": 18,
+  "D_nulos": 0,
+  "tipos_iguales_a_referencia": true,
+  "recuperados": 0,
+  "perdidos": 0,
+  "sin_retroceso": 84
+}

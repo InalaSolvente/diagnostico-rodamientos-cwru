@@ -1,0 +1,20 @@
+{
+  "version": "tipo_cuadrada_agregados_v1",
+  "hipotesis": "incluir en el tipo la envolvente cuadrada ya disponible en el selector",
+  "representacion": "arbol original + maximo, mediana y media de 31 bandas de envolvente cuadrada",
+  "modelo": "LDA lsqr shrinkage auto; cuatro ventanas por registro; solo B/IR/OR",
+  "detector": "OOF historico sin modificar",
+  "exterior": "condicion completa fuera en ambos sensores y todas las ventanas",
+  "seleccion": "una variante fija; sin ajuste de umbrales ni eleccion con el total",
+  "limitacion": "desarrollo reutilizado; evidencia exploratoria, sin validacion externa",
+  "codigo": "42c068b9cf3f084de4f6796fe0f4e4a7168e85c4e764af8a38de2db167a4a939",
+  "fuente": "c3e4fc1865cd2008774d137342bb6caa2171c7c13656232dcfa0dfad1d01bc5b",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339",
+  "dependencias": {
+    "modelo_espectral.py": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+    "ventanas_verificadas.py": "3ed208a3597316ba57ecd9d4e6cced6ded8078764004628f88a84e2303ae222e",
+    "bandas_estables.py": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+    "modelo_por_dominio.py": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+    "ensayar_tipo_por_sensor.py": "9ab110c784415ac9e6a01a3e0eac89fcf07fc6b8e8a55da00ce6aa9a20b7268e"
+  }
+}

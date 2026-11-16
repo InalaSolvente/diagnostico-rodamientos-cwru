@@ -1,0 +1,14 @@
+{
+  "version": "grupo_tipo_tamano_sin_posicion_OR_v1",
+  "grupo": "tipo y tamaño; todas las posiciones OR, cargas, sensores y muestreos juntos",
+  "modelo": "mismos rasgos globales+arbol, LDA fijo, D sin alias de giro, PD maxmin y dos bandas banco31",
+  "detector": "reajustado por sensor excluyendo el mismo grupo; ambos canales de cada normal juntos",
+  "seleccion": "configuracion fijada antes de conocer los resultados de estos grupos",
+  "limitacion": "auditoria interna; no prueba independencia de rodamientos ni elimina seleccion reiterada del dataset",
+  "codigo": "a6e2b42b6287f0a701d8c4321ec43e6a032b2a727f18867a15aed2041a7cbb5d",
+  "rasgos": "016fb09c63edb4ca825b26c45a5ed1dee0b34b46f488bcdb7feb3a063ed9ffae",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339",
+  "control": "276842db398c0441a93c3498d5b92d05ed3bdc2268313ed5c0031a05b505c803",
+  "pd": "05f560952e80d50d6dc2635f75d131599ea06c79c4f114a205c29fb3bf25f12f",
+  "bandas": "30ac786baa913d367c914e1da6ce71d0ff317892ff304a9e56048042812659a1"
+}

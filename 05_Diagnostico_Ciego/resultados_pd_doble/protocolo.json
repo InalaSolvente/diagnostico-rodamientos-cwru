@@ -1,0 +1,11 @@
+{
+  "version": "PD_persistente_dos_bancos_v1",
+  "regla": "tipos fijados antes de verificar; mismo banco31 o banco63 y mismos umbrales",
+  "fuente": "f8d7938f252babbc7524f98ef19c505808fe9044b0f603899252cae95b22e2a3",
+  "base": "94307ef8bc545cb41e956eae4b0aa238aedd220850d4147382e36222d579dfc8",
+  "politica": "05f560952e80d50d6dc2635f75d131599ea06c79c4f114a205c29fb3bf25f12f",
+  "codigo": "d5de0890a5d971655954689514885cf0468f5f8d2de46f968da4aa5ca2835b1f",
+  "banco31": "30ac786baa913d367c914e1da6ce71d0ff317892ff304a9e56048042812659a1",
+  "banco63": "f9baeaad0acfc8a5f7e805671bce23eaf3cd7bc30d8aec1b1ad6a9d7de6c1b65",
+  "limitacion": "ensayo exploratorio sobre datos ya inspeccionados; sin validación externa"
+}

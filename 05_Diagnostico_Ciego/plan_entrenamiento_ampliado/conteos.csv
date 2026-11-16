@@ -1,0 +1,16 @@
+grupo_evaluado,archivos_train_actual,archivos_train_propuesto
+B007,51,120
+B014,49,120
+B021,50,120
+B028,53,128
+IR007,48,120
+IR014,50,121
+IR021,51,120
+IR028,52,128
+OR007,44,108
+OR014,50,123
+OR021,44,116
+normal:Normal/Normal_0.mat,53,131
+normal:Normal/Normal_1.mat,54,131
+normal:Normal/Normal_2.mat,53,131
+normal:Normal/Normal_3.mat,54,131

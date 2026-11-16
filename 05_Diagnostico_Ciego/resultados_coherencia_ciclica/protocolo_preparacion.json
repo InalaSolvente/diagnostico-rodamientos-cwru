@@ -1,0 +1,12 @@
+{
+  "codigo": "6cf5515be72e548bd265bff61052b8cc94a4cca19c9dfeae9d59e2fc6b53b5c5",
+  "fuente": "9aabee2f9195a5bedb55fa6f5c6b8bb93e90ffbaee8c63092496c146d26b4f89",
+  "ventanas": "3ed208a3597316ba57ecd9d4e6cced6ded8078764004628f88a84e2303ae222e",
+  "catalogo": "efe5b593752ac5f2d43d1f824f1dbd1ec548fe2828c6ec6042eb49c81e73102e",
+  "referencia": "Antoni 2007, doi:10.1016/j.jsv.2007.02.029; ACP ecuaciones 13,17,18",
+  "receta": "prefijo 2.5 s; fs12k; semiseno256 solape50%; fase absoluta; alfa cuantizada Fs/L",
+  "familias": "todas las cinco, H1..6, delta comun +/-2%; laterales +/-giro y +/-FTF",
+  "rasgos": "600; coherencia normalizada, sin identidad de portadora ni amplitud absoluta",
+  "entrada": "senal, fs, catalogo completo; no etiquetas ni frecuencia esperada",
+  "proposito": "identificacion del tipo; no reemplaza el espectro ni el juez D/PD/ND"
+}

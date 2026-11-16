@@ -1,0 +1,12 @@
+{
+  "total": 52,
+  "tipo_correcto": 41,
+  "mejoran": 4,
+  "iguales": 32,
+  "empeoran": 5,
+  "tipo_incorrecto": 11,
+  "sin_retroceso": 36,
+  "normales_vistas_correctas": 4,
+  "despliegue": false,
+  "evaluacion": "desarrollo OOF por condicion; exploratoria"
+}

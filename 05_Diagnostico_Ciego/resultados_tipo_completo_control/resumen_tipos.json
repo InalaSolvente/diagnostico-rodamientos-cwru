@@ -1,0 +1,15 @@
+{
+  "total_objetivo": 105,
+  "tipo_incorrecto": 17,
+  "tipo_correcto": 88,
+  "meta_tipos": 5,
+  "meta_tipos_alcanzada": false,
+  "total_archivos": 133,
+  "tipo_incorrecto_133": 22,
+  "corpus_fallas": 128,
+  "entrenamiento": "solo fuera del grupo evaluado; cantidades exactas en pliegues.json",
+  "normales_correctos": 4,
+  "sin_diagnostico": 1,
+  "grados_evaluados": false,
+  "validacion_externa": false
+}

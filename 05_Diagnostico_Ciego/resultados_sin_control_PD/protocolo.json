@@ -1,0 +1,16 @@
+{
+  "codigo": "d2855724181efb4b69a9754807615f3eaf57095d16c94ae62d03c644a3fbf216",
+  "fuente": "8aff2a85f1ac74b1653b94199035e374fca315b5e5921acd78fcb00cc5794376",
+  "catalogos": "9aabee2f9195a5bedb55fa6f5c6b8bb93e90ffbaee8c63092496c146d26b4f89",
+  "evidencia_seleccion": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359",
+  "control_d": "276842db398c0441a93c3498d5b92d05ed3bdc2268313ed5c0031a05b505c803",
+  "control_pd": "05f560952e80d50d6dc2635f75d131599ea06c79c4f114a205c29fb3bf25f12f",
+  "puntuador": "b79c7c1635c3f12391607ef37f67839566b80d5f20b1fb718ff3b8e51a2eaf90",
+  "usar_d": true,
+  "usar_pd": false,
+  "entrenamiento": "mismos 52 registros con falla; grupos tipo+tamaño completos excluidos",
+  "tipos_congelados_antes_de_verificacion": true,
+  "cambios_por_archivo": false,
+  "seleccion_exploratoria": true,
+  "validacion_externa": false
+}

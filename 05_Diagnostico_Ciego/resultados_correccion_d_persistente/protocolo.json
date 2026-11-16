@@ -1,0 +1,17 @@
+{
+  "version": "D_persistente_unico_v1",
+  "regla": "corregir solo si una unica clase satisface D y los tres margenes D de seleccion son no negativos",
+  "alternativas": [
+    "IR",
+    "OR",
+    "B"
+  ],
+  "parametros": "fijos; umbral cero significa cumplir el juez, no optimizado",
+  "entradas": "tipo base con condicion excluida, senal y catalogo completo",
+  "temporal": "todas las decisiones solo primera mitad; verificacion fija en segunda mitad",
+  "limitacion": "experimento interno sobre dataset ya observado; no validacion externa",
+  "codigo": "1458e37924adcb717d0ff19a113e0787d334e9bc1390e248f4f81c5d1c9b6321",
+  "base": "23ea7932a2212e09e2664dd8eab70c2333ea7641e6c542f282cc1b983fc672d1",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4"
+}

@@ -1,0 +1,10 @@
+{
+  "version": "PD_tres_familias_peor_margen_v1",
+  "regla": "solo si todas son PD, elegir el mayor minimo de los tres margenes PD; positivo y sin empate",
+  "entradas": "tipo base y evidencia de seleccion; sin verificacion ni etiqueta verdadera",
+  "parametros": "sin ajuste; cero representa significancia en cada subsegmento",
+  "limitacion": "ensayo sobre datos ya inspeccionados; sin validacion externa",
+  "codigo": "05f560952e80d50d6dc2635f75d131599ea06c79c4f114a205c29fb3bf25f12f",
+  "tipos": "5c118a3461900aa02ded5aef39e4d9e5f93bf5b0de13eec1f11237269b3c1098",
+  "evidencia": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359"
+}

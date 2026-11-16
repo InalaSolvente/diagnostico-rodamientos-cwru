@@ -1,0 +1,13 @@
+{
+  "codigo": "0e1ddac88804fbab7f1cf6fe5afd90dc4c2489080fc99a3268e01037b4472ca4",
+  "nucleo": "952c0b1e890c8466473e035961909d8cd918d3f7b7ee9f59bc928592551ae966",
+  "fuente": "a471b862d2acc0c52eb1d58fd40151f73c2a8be3d37c68286c4902ff7be21574",
+  "giro": "d6526ec0a9dacb6f539292a17e31de03f6aba7effed0381e162a783959f5e8cf",
+  "agregacion": "6cf5515be72e548bd265bff61052b8cc94a4cca19c9dfeae9d59e2fc6b53b5c5",
+  "entrada": "senal, fs y catalogo completo; ninguna etiqueta o frecuencia verdadera",
+  "tramo": "hasta 5 s desde inicio, siempre dentro de la primera mitad; corte antes de remuestreo",
+  "rejilla": "común +/-2%, paso <=mitad del bin cíclico en H6; FFT compartida exacta",
+  "resolucion": "física FS/L, distinta del paso de muestreo FS/NFFT",
+  "rasgos": "990: soporte H1..6, desviación firmada, +/-giro/FTF/2FTF, comparación con orden de eje",
+  "proposito": "solo identificar tipo; no modifica el juez ni su espectro"
+}

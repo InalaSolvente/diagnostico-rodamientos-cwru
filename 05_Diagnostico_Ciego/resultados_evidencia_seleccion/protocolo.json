@@ -1,0 +1,15 @@
+{
+  "version": "seleccion_84_lda_fijo_v1",
+  "hipotesis": "clasificar con calidad de todas las familias durante seleccion, en lugar de corregir por un D aislado",
+  "modelo": "StandardScaler + LDA lsqr shrinkage auto, parametros fijos",
+  "rasgos": "84 medidas: SNR, potencia relativa, significancia, estabilidad y grado en seleccion para IR/OR/B",
+  "entradas": "solo evidencia de primera mitad, sin resultados de verificacion ni identidad del archivo",
+  "entrenamiento": "52 fallas de desarrollo; condicion completa excluida en DE/FE y todos los muestreos",
+  "detector": "se conserva la decision del detector con condicion excluida",
+  "limitacion": "datos ya inspeccionados; ensayo exploratorio, no validacion externa",
+  "codigo": "9775b994620042dbf539850005e4b1362b56895909f0f48125f314d09deb8fa9",
+  "evidencia": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359",
+  "base": "23ea7932a2212e09e2664dd8eab70c2333ea7641e6c542f282cc1b983fc672d1",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4"
+}

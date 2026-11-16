@@ -1,0 +1,21 @@
+{
+  "codigo": "c8aa6017587c8db3f7ee8def46cd40a6ab5be03036fbee5e4806d66e1e5a84e2",
+  "rasgos": "250c02cccf0c933d71b5ad5336c5622fa6539467bce3bfe14adef2485a04595a",
+  "metadata": "a471b862d2acc0c52eb1d58fd40151f73c2a8be3d37c68286c4902ff7be21574",
+  "verificacion_rasgos": "3c918c880fe83fe0f3cb0f11fedfc1796fde5d81e4db73f1d5e19653ff3a514f",
+  "modelo": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+  "controlador": "d2855724181efb4b69a9754807615f3eaf57095d16c94ae62d03c644a3fbf216",
+  "metrica": "73600a9e67eaa23a93d064dc7952207e8b5389dcaeed358e92b3807d9def6d29",
+  "autorizacion": "usuario autorizó ampliar con exclusión completa del grupo",
+  "receta": "mismo LDA temporal2621 y doce vistas; solo cambia el corpus de entrenamiento del tipo",
+  "corpus_fallas": 128,
+  "etiquetas": "solo y_train; no grado de paper ni frecuencia verdadera en inferencia",
+  "exclusiones": "tipo+tamaño completos, todas las posiciones OR, cargas, sensores y muestreos juntos",
+  "detector": "mismo detector estricto anterior para aislar el cambio del clasificador de tipo",
+  "archivo_corto": "fuera de entrenamiento, conservado en evaluación como sin diagnóstico",
+  "variantes": "con controles históricos y sin forzar tipo",
+  "solo_tipo": true,
+  "exploratorio": true,
+  "validacion_externa": false,
+  "variante": "resultados_tipo_completo_sin_control"
+}

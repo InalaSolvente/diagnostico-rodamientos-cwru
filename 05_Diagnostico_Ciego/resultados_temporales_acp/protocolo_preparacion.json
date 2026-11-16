@@ -1,0 +1,12 @@
+{
+  "codigo": "82e59df72723bf456f4f72096cece27767643dd9e76a5b9fff1ff3b4d045deeb",
+  "fuente": "87cdb9678b8ffe118b253607d7eb631f25afd66509c4d56b8966d1cf7eff70bc",
+  "crudos": "016fb09c63edb4ca825b26c45a5ed1dee0b34b46f488bcdb7feb3a063ed9ffae",
+  "acp": "6705b6c6e6d6c6396f914e9e1da70c8a9db7ace6d2b8a615ff0b3021d1476c52",
+  "extractor": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "coherencia": "6cf5515be72e548bd265bff61052b8cc94a4cca19c9dfeae9d59e2fc6b53b5c5",
+  "prefijo": "3ed208a3597316ba57ecd9d4e6cced6ded8078764004628f88a84e2303ae222e",
+  "vistas": "tres ventanas de 2.5 s: inicio, centro y final de la primera mitad",
+  "entrada": "senal, fs, catalogo completo; ningun tipo ni frecuencia verdadera",
+  "cuenta": "133 archivos; 12 vistas correlacionadas por archivo, no casos independientes"
+}

@@ -1,0 +1,18 @@
+{
+  "motivo": "Precisar que no hay eleccion del metodo por etiqueta; la plantilla y las bandas si se ajustan por archivo",
+  "codigo_anterior": "3662d02e01460379c4073a0aeac9d08506d602334daf3e6d0cdbedbead5acc05",
+  "antes": {
+    "comparacion_133.csv": "b0847db7ae9c44c5e833b0891953c06432a6170fd3bd2b7cf1fb5f7b897c32fa",
+    "evidencia.json": "8b9a03d050496685bd141f639e0d8bcef923c6d4b366a6e0b425ce230b2eb940",
+    "tipos_133.csv": "ab7b752e15a913be817c1ede247cc94da44e7471b6b2932e3c3f1276dea14951"
+  },
+  "despues": {
+    "comparacion_133.csv": "91136c51810a6c47b60306571c370b21cc954cafba347cf63686a0e94b5b6197",
+    "evidencia.json": "8b9a03d050496685bd141f639e0d8bcef923c6d4b366a6e0b425ce230b2eb940",
+    "tipos_133.csv": "2dd14eba17a91002971242be20835976dac2b360cbc5c605e51a28f9817d9e0a"
+  },
+  "salidas_numericas_sin_cambios": true,
+  "codigo_actual": "9c4e70e883ac8d2aaa2d351740ed8895a867c68bc33e53d2c140ee31213175b2",
+  "diagnostico_exportado_corregido": true,
+  "decisiones_y_grados_sin_cambios": true
+}

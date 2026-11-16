@@ -1,0 +1,11 @@
+{
+  "version": "curvas724_laterales240_v1",
+  "hipotesis": "añadir modulación por giro y FTF, además de alineación del pico principal",
+  "rasgos": "724 coherentes + media de cuatro ventanas de 240 rasgos laterales existentes",
+  "periodo": "primeros 2.5 s; todas las familias, nunca tipo esperado o verificación",
+  "dimensiones": 964,
+  "codigo": "21bce0ce195d172dca2e8195a032bdb53faf4e85ce2e3a85afdc08d586675195",
+  "laterales": "5dadd4d90b948c3b48a2fae4c87be192311d06f8aacd61f4a0b0e6f6492f24aa",
+  "curvas": "510c1de9eae150780b93edf2bcef14bc45805cb862fd8928836ccbfea0b503fd",
+  "muestra": "78166161e4973d3f5b1ee059880da7dad927ea2aca0c278ea7ba64be5f2b6451"
+}

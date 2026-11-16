@@ -24,6 +24,8 @@ venv/
 **/cache/
 *_parcial.csv
 evidencia_parcial.json
+**/progreso.npz
+**/progreso.json
 *.log
 
 # Sistema operativo

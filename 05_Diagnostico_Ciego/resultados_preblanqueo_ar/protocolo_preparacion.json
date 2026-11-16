@@ -1,0 +1,13 @@
+{
+  "version": "AR32_prefijo_25_canonico_v1",
+  "orden": 32,
+  "fs": 12000,
+  "ajuste_muestras": 30000,
+  "algoritmo": "Yule-Walker con ridge relativo 1e-6, FIR causal; mitades remuestreadas por separado",
+  "entradas_filtro": "solo señal y fs; ningún catálogo o etiqueta",
+  "seleccion": "primeros 2.5 s para ajustar filtro y extraer rasgos; nunca segunda mitad",
+  "parametros": "una configuración fija, sin búsqueda de orden ni ajuste a resultados",
+  "codigo": "596e5fdaa70dacdbab891fc2c547185d8e2735d02e794467574100d0a5d8cac3",
+  "extractor": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339"
+}

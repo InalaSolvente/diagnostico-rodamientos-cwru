@@ -1,0 +1,13 @@
+{
+  "version": "ranking_armonico_compartido_v1",
+  "hipotesis": "aprender soporte armónico compartido, descontando coincidencias entre clases",
+  "modelo": "ranker logístico por diferencias, C=1 fijo; sin identidad del candidato",
+  "entrada": "árbol de selección y catálogo completo; no frecuencia verdadera ni grado del paper",
+  "seleccion": "una variante fija; sin búsqueda de hiperparámetros",
+  "validacion": "condición completa excluida, entrenamiento solo desarrollo histórico",
+  "limitacion": "datos y desarrollo ya inspeccionados; no validación externa",
+  "codigo": "0e2963a530e43aaa50194ac7c5461d9aa0b890a16b69b9d5916716a2110fb20d",
+  "fuente": "c3e4fc1865cd2008774d137342bb6caa2171c7c13656232dcfa0dfad1d01bc5b",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339",
+  "evaluacion": "23ea7932a2212e09e2664dd8eab70c2333ea7641e6c542f282cc1b983fc672d1"
+}

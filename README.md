@@ -1,10 +1,39 @@
+> **Revisión metodológica del 16 de noviembre de 2026:** excluyendo el tipo y tamaño completos —incluidas todas las posiciones OR, cargas, sensores y muestreos— el ensayo de tres vistas temporales de selección obtiene **84/105 sin retroceso**: 14 mejoras, 70 iguales, 4 descensos y 17 tipos incorrectos (**21 desfavorables**). Frente al ensayo anterior de 82/105, recupera 4 casos y pierde 2. La meta de **100/105**, con muchas más mejoras que resultados desfavorables, sigue pendiente. Se conservan los 133 archivos en la evaluación y el corpus de 52 archivos con falla para desarrollo; cada ajuste excluye su grupo evaluado. Las doce vistas por archivo son correlacionadas, no casos independientes. Los resultados históricos de 88/105 usaban una agrupación menos estricta. Véanse el [balance de ensayos](05_Diagnostico_Ciego/revision_meta_100/INFORME.md), el [informe temporal](05_Diagnostico_Ciego/resultados_temporales_acp/INFORME.md) y su [verificación](05_Diagnostico_Ciego/resultados_temporales_acp/verificacion.json). Todo sigue siendo exploratorio, sin validación externa; los modelos históricos no se han reemplazado.
+
 # Diagnóstico de rodamientos con CWRU
+
+> **Límite del selector:** la [auditoría con verificación](05_Diagnostico_Ciego/auditoria_cota_verificada/INFORME.md) sitúa la cota de los selectores de 31 y 63 bandas en **97/105**, y la del banco57 en **99/105**, incluso con identificación del tipo perfecta. Son límites de esos selectores, no resultados de un modelo ciego. Alcanzar 100 requiere resolver también la selección de bandas.
 
 Proyecto de detección de anomalías de PUCV, segundo semestre de 2026.
 Estudia MFD, kurtogram, entropía, estabilidad temporal y clasificación de fallas
 de rodamientos. Incluye código, modelos numéricos, figuras, resultados y auditorías.
 
-## Estado y resultados actuales
+## Última prueba de clasificación del tipo
+
+El foco actual es reducir a **5** los errores de tipo entre los mismos **105**
+registros con referencia del paper. Se autorizó ampliar el corpus de entrenamiento
+a los **128 archivos con falla y longitud suficiente**, excluyendo en cada ajuste
+el grupo completo de tipo y tamaño: todas sus posiciones OR, cargas, sensores y
+frecuencias de muestreo. El detector se mantuvo fijo para aislar el cambio en el
+clasificador de tipo.
+
+| Entrenamiento ampliado | Tipos incorrectos / 105 | Tipos incorrectos / 133 |
+| --- | ---: | ---: |
+| Con controles D/PD | 17 | 22 |
+| Sin controles | 21 | 25 |
+
+La meta sigue pendiente. Estas ejecuciones solo evaluaron el tipo, sin recalcular
+los grados D/PD/ND, y **todavía requieren auditoría independiente**. No sustituyen
+la referencia auditada de 84/105 indicada arriba ni constituyen validación externa.
+El archivo corto permanece en la evaluación como sin diagnóstico.
+
+Se incluyen [predicciones y errores con controles](05_Diagnostico_Ciego/resultados_tipo_completo_control/)
+y [sin controles](05_Diagnostico_Ciego/resultados_tipo_completo_sin_control/),
+con los archivos exactos de entrenamiento de cada grupo en `pliegues.json`.
+Los datos MATLAB originales y los puntos de reanudación `progreso.*` se conservan
+localmente; se publican código, rasgos calculados, resultados y auditorías.
+
+## Resultados históricos y reproducción
 
 La última comparación cubre **133 registros**. Las matrices de cambios frente al
 paper incluyen los **105 registros de 12 kHz con referencia transcrita**:

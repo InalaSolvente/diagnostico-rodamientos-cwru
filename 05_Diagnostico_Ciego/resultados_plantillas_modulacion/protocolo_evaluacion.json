@@ -1,0 +1,16 @@
+{
+  "version": "curvas_modulacion_964_anidado_v1",
+  "exterior": "tipo+tamaño, posiciones OR/cargas/sensores/muestreos fuera juntos",
+  "interior": "LDA o SVM RBF fijos; elección por exactitud equilibrada solo dentro del entrenamiento exterior",
+  "tipo": "clasificador solamente, sin reglas que sobrescriben por D/PD",
+  "detector": "mismo detector crudo con grupos completos de la referencia",
+  "grado": "mismo banco31 y regla ND/PD/D, bandas fijadas antes de verificar",
+  "limitacion": "dataset ya inspeccionado; selección anidada no es validación externa",
+  "codigo": "231266e3713098fd2bc9b383592bd7b5f765a712637f4efd1d5f5ba3531bf6ae",
+  "preparador": "21bce0ce195d172dca2e8195a032bdb53faf4e85ce2e3a85afdc08d586675195",
+  "rasgos": "07f2799932320dd397128c53a6344a7a18dd5b0e9ed44e3e188ead966db343f3",
+  "muestra": "78166161e4973d3f5b1ee059880da7dad927ea2aca0c278ea7ba64be5f2b6451",
+  "seleccion_modelo": "3964cc72e591d7d15c5f8bde81cfaf3299a9fa6ee7c17d4d0099a8ca343f0cd0",
+  "modelos": "e088374eb1bf98d640923349b781ad820c8497dbb6b39738356c0e3a6644421c",
+  "puntuador": "b79c7c1635c3f12391607ef37f67839566b80d5f20b1fb718ff3b8e51a2eaf90"
+}

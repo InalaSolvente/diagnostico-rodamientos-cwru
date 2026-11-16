@@ -1,0 +1,15 @@
+{
+  "version": "tipo_por_sensor_lda_fijo_v1",
+  "hipotesis": "evitar mezclar transferencias DE/FE en el clasificador del tipo",
+  "modelo": "StandardScaler + LDA lsqr shrinkage auto; solo B/IR/OR por sensor",
+  "detector": "OOF historico por sensor, sin modificar",
+  "exterior": "condicion completa fuera de ambos sensores; todas sus ventanas juntas",
+  "seleccion": "una unica variante fijada antes de calcular resultados",
+  "limitacion": "desarrollo reutilizado; no validacion externa ni reserva virgen",
+  "codigo": "9ab110c784415ac9e6a01a3e0eac89fcf07fc6b8e8a55da00ce6aa9a20b7268e",
+  "fuente": "c3e4fc1865cd2008774d137342bb6caa2171c7c13656232dcfa0dfad1d01bc5b",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339",
+  "detector_sha256": "a0e890c58290a86363b60d4e6f5955cb42e082847e438f6a7d25d12763fc4b22",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4"
+}

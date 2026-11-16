@@ -1,0 +1,16 @@
+{
+  "casos": 133,
+  "referencia": 105,
+  "OR_posiciones_excluidas_juntas": true,
+  "no_OR_sin_cambios": true,
+  "modelos_historicos_intactos": true,
+  "protocolo_sha256": "ba43181581ac3888db816cd7cf076a71012eaa054498ff53858b6b56612ee057",
+  "resumen": {
+    "total": 105,
+    "mejoran": 13,
+    "iguales": 66,
+    "empeoran": 4,
+    "tipo_incorrecto": 22,
+    "sin_retroceso": 79
+  }
+}

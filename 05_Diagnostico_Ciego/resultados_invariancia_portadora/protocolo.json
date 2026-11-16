@@ -1,0 +1,14 @@
+{
+  "version": "invariante_184_anidado_v1",
+  "rasgos": "4 momentos globales y maximo/mediana/media de 31 bandas para 60 evidencias armonicas; sin identidad portadora",
+  "exterior": "tipo y tamaño; todas las posiciones OR, cargas, sensores y muestreos fuera juntos",
+  "interior": "leave-one-group-out solo entrenamiento exterior; exactitud equilibrada de tipo, nunca grado del paper",
+  "candidatos": "LDA shrinkage auto y SVM RBF C=1 gamma=scale balanced, ambos fijos",
+  "detector": "mismo detector con grupos OR juntos",
+  "control": "D sin alias de giro + PD maxmin + dos bandas banco31",
+  "limitacion": "dataset ya inspeccionado; eleccion interna anidada no elimina la exploracion previa del conjunto",
+  "codigo": "e088374eb1bf98d640923349b781ad820c8497dbb6b39738356c0e3a6644421c",
+  "rasgos_fuente": "016fb09c63edb4ca825b26c45a5ed1dee0b34b46f488bcdb7feb3a063ed9ffae",
+  "detector_fuente": "671d08a21e0eacb80d5fe8b3219f2b8db8b96b109c320001f1c066497be82fad",
+  "muestra": "aa3389d0be9671fbec3064e1e84ab534c977edd529a96e4c28c110d7b020b339"
+}

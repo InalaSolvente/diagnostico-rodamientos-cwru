@@ -1,0 +1,11 @@
+{
+  "total": 105,
+  "mejoran": 4,
+  "iguales": 58,
+  "empeoran": 6,
+  "tipo_incorrecto": 37,
+  "sin_retroceso": 62,
+  "normales_correctos": 4,
+  "validacion_externa": false,
+  "desplegado": false
+}

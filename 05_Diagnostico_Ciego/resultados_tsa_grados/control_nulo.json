@@ -1,0 +1,110 @@
+[
+  {
+    "sensor": "DE",
+    "semilla": 0,
+    "hipotesis": "B",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 0,
+    "hipotesis": "IR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 0,
+    "hipotesis": "OR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 1,
+    "hipotesis": "B",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 1,
+    "hipotesis": "IR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 1,
+    "hipotesis": "OR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 2,
+    "hipotesis": "B",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 2,
+    "hipotesis": "IR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "DE",
+    "semilla": 2,
+    "hipotesis": "OR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 0,
+    "hipotesis": "B",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 0,
+    "hipotesis": "IR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 0,
+    "hipotesis": "OR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 1,
+    "hipotesis": "B",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 1,
+    "hipotesis": "IR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 1,
+    "hipotesis": "OR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 2,
+    "hipotesis": "B",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 2,
+    "hipotesis": "IR",
+    "grado": "ND"
+  },
+  {
+    "sensor": "FE",
+    "semilla": 2,
+    "hipotesis": "OR",
+    "grado": "ND"
+  }
+]

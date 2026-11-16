@@ -1,0 +1,18 @@
+{
+  "codigo": "ad194d601eacf70d107a2a77ea4b0701da16b917f366e99ffedde8d624ea199a",
+  "selector": "4bf34a9ba1d8ba3e61d094aa2b3ab73671a20b521088656fab6b2adddafa7ccf",
+  "fuente": "8aff2a85f1ac74b1653b94199035e374fca315b5e5921acd78fcb00cc5794376",
+  "catalogos": "9aabee2f9195a5bedb55fa6f5c6b8bb93e90ffbaee8c63092496c146d26b4f89",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "verificador": "30ac786baa913d367c914e1da6ce71d0ff317892ff304a9e56048042812659a1",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+  "tipo_y_detector": "sin cambios respecto a referencia con grupos completos",
+  "entrenamiento_fallas": 52,
+  "banco": "57 bandas fijas; mismo ancho fisico a 12 y 48 kHz",
+  "seleccion": "primera mitad; dos bandas disjuntas; verificacion en la segunda mitad",
+  "p": ".01/(57*5*6*2); misma regla D/PD/ND",
+  "excepciones_por_archivo": false,
+  "etiquetas_para_seleccionar": false,
+  "exploratorio": true,
+  "validacion_externa": false
+}

@@ -1,0 +1,19 @@
+{
+  "codigo": "904f56626b74456f2810fd9d980678230e6a3b3a260764740a3ac3ee8e998d0b",
+  "preparador": "82e59df72723bf456f4f72096cece27767643dd9e76a5b9fff1ff3b4d045deeb",
+  "rasgos": "250c02cccf0c933d71b5ad5336c5622fa6539467bce3bfe14adef2485a04595a",
+  "muestra": "87cdb9678b8ffe118b253607d7eb631f25afd66509c4d56b8966d1cf7eff70bc",
+  "modelo": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+  "controlador": "d2855724181efb4b69a9754807615f3eaf57095d16c94ae62d03c644a3fbf216",
+  "puntuador": "d96298dd12e60538c8f16fea8cb938edf7e0511e9348300c0a9ba50ae27c7509",
+  "receta": "LDA shrinkage auto fijo, 12 vistas por registro; media de decision_function",
+  "entrenamiento_fallas": 52,
+  "muestras_independientes": "archivos, no ventanas",
+  "exclusiones": "tipo+tamaño completos; todas las posiciones OR, cargas, sensores y muestreos fuera",
+  "detector": "sin cambios",
+  "controles": "D y PD sin cambios",
+  "grados": "banco57 y mismo juez",
+  "temporal": "solo primera mitad para clasificar y seleccionar; segunda mitad solo verifica",
+  "exploratorio": true,
+  "validacion_externa": false
+}

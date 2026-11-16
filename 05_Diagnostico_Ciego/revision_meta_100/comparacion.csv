@@ -1,0 +1,16 @@
+ensayo,total,mejoran,iguales,empeoran,tipo_incorrecto,sin_retroceso,desfavorables,sin_retroceso_ND_emitido
+"Referencia, grupos completos",105,13,66,4,22,79,26,79
+Preblanqueo AR32,105,9,64,2,30,73,32,74
+Plantillas coherentes,105,8,65,5,27,73,32,73
+Selector anidado con ranking,105,4,63,4,34,67,38,67
+Plantillas y modulación,105,9,61,5,30,70,35,70
+Ranking físico monótono,105,9,64,3,29,73,32,73
+Retirar control PD,105,9,68,3,25,77,28,77
+Retirar ambos controles,105,8,60,3,34,68,37,68
+Invariancia de portadora,105,11,66,4,24,77,28,77
+Clasificador y control anidados,105,8,66,4,27,74,31,74
+Banco desplazado de 57 bandas,105,14,66,3,22,80,25,80
+Coherencia cíclica sola,105,4,60,3,38,64,41,64
+Crudo y coherencia cíclica,105,13,69,3,20,82,23,82
+Tres vistas temporales crudo+ACP,105,14,70,4,17,84,21,84
+"Evidencia84 aprendida, sin forzar",105,8,66,2,29,74,31,74

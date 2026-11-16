@@ -1,0 +1,54 @@
+{
+  "codigo": "f93cae7efb3011f3c9e48b6816328cb3c7a12a8dc15c68cf61df0cf6720eb46d",
+  "fuente": "9aabee2f9195a5bedb55fa6f5c6b8bb93e90ffbaee8c63092496c146d26b4f89",
+  "caches": [
+    {
+      "carpeta": "resultados_globales_bancos",
+      "comparacion": "94307ef8bc545cb41e956eae4b0aa238aedd220850d4147382e36222d579dfc8",
+      "evidencia": "73d5edf8ffdeb6262a9101a32fe5263652b2fc1d3b68311c8e3b91624b66118e"
+    },
+    {
+      "carpeta": "resultados_pd_doble",
+      "comparacion": "aedf25a95d717d3dea7d8d6f578af06f2f0b87d346a150accb75a3629d5ea276",
+      "evidencia": "562523f75e33f1cf1df45d4ed26446f1488ab17deb8baff6989abd966d9d2b8d"
+    },
+    {
+      "carpeta": "resultados_grupos_por_defecto",
+      "comparacion": "671d08a21e0eacb80d5fe8b3219f2b8db8b96b109c320001f1c066497be82fad",
+      "evidencia": "bdfe82fa298a6ea5c8b02f70cab3b659f66978c1e03ee14b834f87f955ac45f2"
+    },
+    {
+      "carpeta": "resultados_plantillas_coherentes",
+      "comparacion": "cd3cf858acc1be5669b140eb80d9f74127e627b2cd3f52e620317ab07c92c955",
+      "evidencia": "e9047a55c7eb00d85dfeb635c150b1686177000e90a6f3ca06e428b28aa10864"
+    },
+    {
+      "carpeta": "resultados_sin_control_PD",
+      "comparacion": "3e637e40b720448fc933bdcf7197b0e70d650842217cc5e5d1022369bd6d03f6",
+      "evidencia": "67a5a4fab9876ebb6a2b626b91d537ad5c176541380108120da16d841e8af313"
+    },
+    {
+      "carpeta": "resultados_sin_forzar_tipo",
+      "comparacion": "9180910472ab26ed19275c49953fdd2d867e2be62277ece7d4fd3ed2ac3f55d1",
+      "evidencia": "9c874a18000fce78a6dd4995c290f65b44b1f3cd33163a3955adca9eb6e36d4e"
+    },
+    {
+      "carpeta": "resultados_invariancia_portadora",
+      "comparacion": "0310e3264e57670006f0f30397d803c0722aa60e6dae47aaccb67df9eaab270c",
+      "evidencia": "9968398676b456484ec8006845cc9b00c6c4b735dad70b0762a7913848dd7186"
+    },
+    {
+      "carpeta": "resultados_banco_desplazado",
+      "comparacion": "07b38c02b1a89b0334ffaab3c9ce06dc841536ea093d0fc6bbdc980ba5bc3fb8",
+      "evidencia": "636f05f3646ac1fdacf41170d92755065a6f057681be5ad1dffd918cca0a28ad"
+    }
+  ],
+  "bandas31": "30ac786baa913d367c914e1da6ce71d0ff317892ff304a9e56048042812659a1",
+  "bandas63": "f9baeaad0acfc8a5f7e805671bce23eaf3cd7bc30d8aec1b1ad6a9d7de6c1b65",
+  "bandas57": "4bf34a9ba1d8ba3e61d094aa2b3ab73671a20b521088656fab6b2adddafa7ccf",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+  "etiquetas": "tipo verdadero consultado exclusivamente para esta cota; no se entrenan modelos",
+  "alcance": "selector fijo, una o dos bandas fijadas antes de verificar, sin control de tipo ni detector",
+  "rendimiento_de_modelo": false,
+  "cambios_en_predictores": false
+}

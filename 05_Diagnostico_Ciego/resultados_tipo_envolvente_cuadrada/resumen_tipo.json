@@ -1,0 +1,8 @@
+{
+  "total": 52,
+  "tipo_correcto": 42,
+  "tipo_incorrecto": 10,
+  "normales_vistas_correctas": 4,
+  "evaluacion": "solo tipo; falta evaluar grados con el juez fijo",
+  "desplegado": false
+}

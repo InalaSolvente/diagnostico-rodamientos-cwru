@@ -1,0 +1,15 @@
+{
+  "version": "curvas724_menu_tres_anidado_v1",
+  "candidatos": "LDA, SVM RBF fijos y ranker log-media-exp compartido L2=1 fijo",
+  "eleccion": "exactitud equilibrada interna, dejando el grupo exterior fuera de todo ajuste y eleccion",
+  "reutilizacion": "scores internos de LDA/SVM y tipos de su ganador bajo exactamente las mismas particiones",
+  "tipo": "ninguna correccion manual ni frecuencia esperada; candidato B agrupa BSF/2BSF",
+  "parametros": "sin busqueda de regularizacion o semillas",
+  "limitacion": "datos ya inspeccionados; eleccion anidada no elimina exploracion previa",
+  "codigo": "7d4921a382c38011697b79f743335d7e502c0c88c5abf67ee34a738e66c02ff4",
+  "ranker": "84947e5e4df4837bc777617b38dba9f178945538ecfa8daae5fcd2ec52825192",
+  "puntuador": "b79c7c1635c3f12391607ef37f67839566b80d5f20b1fb718ff3b8e51a2eaf90",
+  "predicciones_previas": "9aabee2f9195a5bedb55fa6f5c6b8bb93e90ffbaee8c63092496c146d26b4f89",
+  "auditoria_previa": "995a84145b8382ae228f57d78ab23cf059bae34bd2c291c31eb1aa503fe9ac2a",
+  "rasgos": "510c1de9eae150780b93edf2bcef14bc45805cb862fd8928836ccbfea0b503fd"
+}

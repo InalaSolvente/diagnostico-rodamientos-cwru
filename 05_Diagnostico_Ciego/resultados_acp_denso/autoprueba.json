@@ -1,0 +1,12 @@
+{
+  "estimator_equivalente_a_ACP_directo": true,
+  "escala_invariante": true,
+  "resolucion_fisica": 0.4,
+  "paso_rejilla_densa": 0.390625,
+  "frecuencia_fixture": 981.5591519999998,
+  "pico_denso": 981.640625,
+  "coherencia_maxima_gruesa": 0.007363174341075927,
+  "coherencia_maxima_densa": 0.32388676453070686,
+  "conclusiones": "La rejilla de 21 desplazamientos puede omitir arm\u00f3nicas altas. No es rendimiento de un modelo.",
+  "datos_reales_evaluados": 0
+}

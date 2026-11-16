@@ -1,0 +1,12 @@
+{
+  "version": "PD_consenso_tres_segmentos_v1",
+  "regla": "solo si todas son PD: misma familia gana estrictamente en los tres subsegmentos, cada margen positivo",
+  "entradas": "tipo global con control y evidencia de seleccion; sin verificacion ni referencia",
+  "parametros": "regla fija sin umbrales ajustados ni parametros por tipo",
+  "reutilizacion": "grado para mismo archivo, tipo y banco; solo despues de fijar la prediccion",
+  "limitacion": "regla propuesta tras ensayos inspeccionados; exploratoria, no validacion externa",
+  "codigo": "208c16ce49fd8952dfe9968059ff76886ba1523dd0329e88c654190e7dda958d",
+  "base": "94307ef8bc545cb41e956eae4b0aa238aedd220850d4147382e36222d579dfc8",
+  "pd_previo": "aedf25a95d717d3dea7d8d6f578af06f2f0b87d346a150accb75a3629d5ea276",
+  "evidencia": "86914db68001ca698cb70fdc25dd9596baf8fc851d04b1775ec690a765dce359"
+}

@@ -1,0 +1,17 @@
+{
+  "version": "curvas724_anidado_sin_forzar_tipo_v1",
+  "exterior": "tipo+tamaño, posiciones OR juntas, todas las cargas/sensores/muestreos fuera",
+  "interior": "leave-one-group-out sobre entrenamiento exterior, exactitud equilibrada de tipo",
+  "candidatos": "LDA shrinkage auto o SVM RBF C=1 gamma=scale balanced; mismos candidatos fijos",
+  "tipo": "solo clasificador aprendido; no sobrescribir mediante D/PD de una familia alternativa",
+  "detector": "mismo detector crudo con grupos completos de la referencia estricta",
+  "grado": "mismo juez y dos bandas banco31 fijadas antes de abrir verificacion",
+  "limitacion": "diseño exploratorio con dataset ya inspeccionado; selección de clasificador anidada, sin validación externa",
+  "codigo": "3964cc72e591d7d15c5f8bde81cfaf3299a9fa6ee7c17d4d0099a8ca343f0cd0",
+  "rasgos": "510c1de9eae150780b93edf2bcef14bc45805cb862fd8928836ccbfea0b503fd",
+  "muestra": "78166161e4973d3f5b1ee059880da7dad927ea2aca0c278ea7ba64be5f2b6451",
+  "preparador": "3bffcb02293c62c331f18b5d590c77df672070a6048b5ecf0d71c31f895a487e",
+  "modelos": "e088374eb1bf98d640923349b781ad820c8497dbb6b39738356c0e3a6644421c",
+  "bandas": "30ac786baa913d367c914e1da6ce71d0ff317892ff304a9e56048042812659a1",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4"
+}

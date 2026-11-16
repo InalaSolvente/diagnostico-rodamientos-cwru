@@ -1,0 +1,14 @@
+{
+  "version": "globales_dos_bancos_fijos_v1",
+  "tipo": "mismas decisiones del clasificador arbol+globales con condicion excluida y control de giro",
+  "variantes": "31 bandas o 63 bandas; maximo dos disjuntas fijadas antes de verificar",
+  "umbral": "p=.01/(numero_bandas*5*6*2), mas estricto al ampliar banco",
+  "seleccion": "primera mitad; tipo y ambas bandas fijos antes de usar segunda mitad",
+  "limitacion": "comparacion exploratoria; dataset ya inspeccionado; p nominal sin calibracion empirica",
+  "codigo": "b18c1e812a2c43b0e63a5a6d7e38baf034b0c7df6e9613f944938ce1c45a770f",
+  "tipos": "5c118a3461900aa02ded5aef39e4d9e5f93bf5b0de13eec1f11237269b3c1098",
+  "banco31": "30ac786baa913d367c914e1da6ce71d0ff317892ff304a9e56048042812659a1",
+  "banco63": "f9baeaad0acfc8a5f7e805671bce23eaf3cd7bc30d8aec1b1ad6a9d7de6c1b65",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4"
+}

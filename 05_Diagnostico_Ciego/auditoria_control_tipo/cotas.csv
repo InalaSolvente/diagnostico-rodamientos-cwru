@@ -1,0 +1,4 @@
+control,techo_estricto,techo_ND_emitido_optimista,total,tipo
+sin_forzar_tipo,100,100,105,"cota optimista, no desempeño de un modelo"
+control_D,100,100,105,"cota optimista, no desempeño de un modelo"
+control_D_y_PD,98,98,105,"cota optimista, no desempeño de un modelo"
