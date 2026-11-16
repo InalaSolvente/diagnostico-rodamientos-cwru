@@ -1,0 +1,15 @@
+{
+  "version": "verificado_fijo_v1",
+  "etapa": "desarrollo 52 fallas y dos normales",
+  "clasificador": "LDA lsqr shrinkage auto con 1953 rasgos; receta única, sin elegir por resultado exterior",
+  "inferencia": "tipo en 2 s; elección de banda en primera mitad; verificación fija en segunda",
+  "grupos": "condición nominal completa; cada normal único excluido individualmente",
+  "codigo_sha256": "ce8257bf8aa72ca39d63fb479dc0fb03ba6029ca4b94b30e8253116a28dde3aa",
+  "rasgos_sha256": "afa392dd9e9564cbedc2cd69ab02ad109528fdeadf5bd3f9d3d4127efef33f25",
+  "lector_sha256": "d57875e5b6be8d488e67ad349d586d291fe57b8a86bd52966b727a0d2818587c",
+  "extractor_sha256": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "bandas_sha256": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio_sha256": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+  "reserva_abierta_para_elegir": false,
+  "validacion_externa": false
+}

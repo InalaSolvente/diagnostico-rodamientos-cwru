@@ -1,0 +1,14 @@
+{
+  "version": "ventanas_1s_hop05_v1",
+  "ventanas_por_registro": 4,
+  "duracion": 1,
+  "salto": 0.5,
+  "fs": 12000,
+  "seleccion_hasta_segundos": 2.5,
+  "proposito": "estimar variación temporal y promediar evidencia; mismos registros de desarrollo",
+  "negativos_independientes": 2,
+  "negativos_ventanas": 8,
+  "advertencia": "ocho ventanas normales no equivalen a ocho rodamientos; todas se excluyen junto con su registro",
+  "codigo_sha256": "3ed208a3597316ba57ecd9d4e6cced6ded8078764004628f88a84e2303ae222e",
+  "muestra_sha256": "ae656e3d2968882d2b0df692a72da51f944ac6d6d3c455c19016759cbb586eb1"
+}

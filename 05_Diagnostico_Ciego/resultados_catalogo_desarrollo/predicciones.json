@@ -1,0 +1,2829 @@
+[
+  {
+    "archivo": "12k_DE/B007_1.mat",
+    "registro": 119,
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B007_3.mat",
+    "registro": 121,
+    "catalogo": {
+      "BPFI": 155.41624,
+      "BPFO": 102.88376,
+      "FTF": 11.430636,
+      "BSF": 67.64016
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 102.88376,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 12.042906373542266,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 135.28032,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 9.698702347403513,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B014_1.mat",
+    "registro": 186,
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B014_2.mat",
+    "registro": 187,
+    "catalogo": {
+      "BPFI": 157.85307999999998,
+      "BPFO": 104.49692,
+      "FTF": 11.609862,
+      "BSF": 68.70072
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.609862,
+        "nodo": [
+          4,
+          9
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.486051779806985,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        9
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B021_0.mat",
+    "registro": 222,
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 162.09498666666664,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 2.779938115650884,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        13
+      ],
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B021_1.mat",
+    "registro": 223,
+    "catalogo": {
+      "BPFI": 160.10941333333332,
+      "BPFO": 105.99058666666666,
+      "FTF": 11.775812,
+      "BSF": 69.68271999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 160.10941333333332,
+        "nodo": [
+          4,
+          10
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 10.23263980607345,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        10
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B021_3.mat",
+    "registro": 225,
+    "catalogo": {
+      "BPFI": 156.04801333333333,
+      "BPFO": 103.30198666666666,
+      "FTF": 11.477102,
+      "BSF": 67.91511999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 156.04801333333333,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 21.679974209908586,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.477102,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 7.552365657718742,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/B028_0.mat",
+    "registro": 48,
+    "catalogo": {
+      "BPFI": 162.18523999999996,
+      "BPFO": 107.36475999999999,
+      "FTF": 11.928486,
+      "BSF": 70.58615999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.928486,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.38574081143384,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 70.58615999999999,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 6.522001711612857,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR007_0.mat",
+    "registro": 105,
+    "catalogo": {
+      "BPFI": 162.18523999999996,
+      "BPFO": 107.36475999999999,
+      "FTF": 11.928486,
+      "BSF": 70.58615999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 162.18523999999996,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 71.58706235529955,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.928486,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 17.724590016412616,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 141.17231999999998,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 10.537520147736714,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR007_1.mat",
+    "registro": 106,
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 159.92890666666665,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 61.623936244416825,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR007_2.mat",
+    "registro": 107,
+    "catalogo": {
+      "BPFI": 157.76282666666665,
+      "BPFO": 104.43717333333333,
+      "FTF": 11.603224,
+      "BSF": 68.66144
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 157.76282666666665,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 65.41452047967682,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.603224,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 19.573910488187227,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR007_3.mat",
+    "registro": 108,
+    "catalogo": {
+      "BPFI": 155.32598666666667,
+      "BPFO": 102.82401333333334,
+      "FTF": 11.423998000000001,
+      "BSF": 67.60087999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 155.32598666666667,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 50.929336473122646,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.423998000000001,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 8.466551712647512,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR014_1.mat",
+    "registro": 170,
+    "catalogo": {
+      "BPFI": 160.10941333333332,
+      "BPFO": 105.99058666666666,
+      "FTF": 11.775812,
+      "BSF": 69.68271999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 160.10941333333332,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 37.25805616226276,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 139.36543999999998,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 9.675539233680347,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR021_1.mat",
+    "registro": 210,
+    "catalogo": {
+      "BPFI": 160.10941333333332,
+      "BPFO": 105.99058666666666,
+      "FTF": 11.775812,
+      "BSF": 69.68271999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 160.10941333333332,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 49.76315003330912,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.775812,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 12.049326578581335,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 139.36543999999998,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 12.634693157176734,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR028_1.mat",
+    "registro": 57,
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 159.92890666666665,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 8.120262613868773,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/IR028_2.mat",
+    "registro": 58,
+    "catalogo": {
+      "BPFI": 157.9433333333333,
+      "BPFO": 104.55666666666666,
+      "FTF": 11.6165,
+      "BSF": 68.74
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 157.9433333333333,
+        "nodo": [
+          2,
+          0
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 13.31110094727159,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 104.55666666666666,
+        "nodo": [
+          2,
+          0
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 4.816211309971781,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR007@12_0.mat",
+    "registro": 156,
+    "catalogo": {
+      "BPFI": 162.18523999999996,
+      "BPFO": 107.36475999999999,
+      "FTF": 11.928486,
+      "BSF": 70.58615999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 107.36475999999999,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 52.786552640183324,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 162.18523999999996,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 28.132142396261724,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.928486,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 10.636885204676854,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR007@12_3.mat",
+    "registro": 160,
+    "catalogo": {
+      "BPFI": 155.59674666666666,
+      "BPFO": 103.00325333333333,
+      "FTF": 11.443912000000001,
+      "BSF": 67.71871999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 103.00325333333333,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.8342741932213,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 155.59674666666666,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 28.647487187271132,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.443912000000001,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 15.081036439077785,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR007@3_0.mat",
+    "registro": 144,
+    "catalogo": {
+      "BPFI": 162.18523999999996,
+      "BPFO": 107.36475999999999,
+      "FTF": 11.928486,
+      "BSF": 70.58615999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 107.36475999999999,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.442168521838596,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.928486,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 28.339611341324307,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 162.18523999999996,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 6.451105348403541,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR007@3_2.mat",
+    "registro": 146,
+    "catalogo": {
+      "BPFI": 158.03358666666665,
+      "BPFO": 104.61641333333334,
+      "FTF": 11.623138,
+      "BSF": 68.77927999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.623138,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.847117609708874,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 104.61641333333334,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 41.901469465301176,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 68.77927999999999,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 18.279467607111652,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        14
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR007@6_3.mat",
+    "registro": 133,
+    "catalogo": {
+      "BPFI": 155.68699999999998,
+      "BPFO": 103.063,
+      "FTF": 11.45055,
+      "BSF": 67.758
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 103.063,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 77.10293891410012,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.45055,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 28.510986637371744,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 155.68699999999998,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 29.519897326201082,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR014@6_0.mat",
+    "registro": 197,
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.921848,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 2.644119164694178,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR014@6_1.mat",
+    "registro": 198,
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        13
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR014@6_3.mat",
+    "registro": 200,
+    "catalogo": {
+      "BPFI": 155.5064933333333,
+      "BPFO": 102.94350666666666,
+      "FTF": 11.437274,
+      "BSF": 67.67943999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 155.5064933333333,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 12.384597285718792,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.437274,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 4.3542448522203525,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 135.35887999999997,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 2.061395976952202,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        13
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR021@12_0.mat",
+    "registro": 258,
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.921848,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 48.87296192789912,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 107.30501333333333,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.04344711389952,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 162.09498666666664,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 18.17904438417399,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR021@3_0.mat",
+    "registro": 246,
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.921848,
+        "nodo": [
+          4,
+          9
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 13.314837021611444,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 107.30501333333333,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 27.715059878472793,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 141.09376,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 3.3223929707443745,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR021@3_1.mat",
+    "registro": 247,
+    "catalogo": {
+      "BPFI": 159.83865333333333,
+      "BPFO": 105.81134666666667,
+      "FTF": 11.755898,
+      "BSF": 69.56487999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 105.81134666666667,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 40.50491331975318,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.755898,
+        "nodo": [
+          4,
+          9
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 4.6614429492173475,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 159.83865333333333,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 15.28773629518331,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR021@3_2.mat",
+    "registro": 248,
+    "catalogo": {
+      "BPFI": 157.6725733333333,
+      "BPFO": 104.37742666666666,
+      "FTF": 11.596586,
+      "BSF": 68.62216
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 104.37742666666666,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 37.08543384365814,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.596586,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 11.542210235414824,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 157.6725733333333,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 9.533148877106536,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR021@3_3.mat",
+    "registro": 249,
+    "catalogo": {
+      "BPFI": 155.14548,
+      "BPFO": 102.70452,
+      "FTF": 11.410722,
+      "BSF": 67.52232
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 102.70452,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.59327277498164,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 155.14548,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 14.094338452728788,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.410722,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 10.858531288537652,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_DE/OR021@6_2.mat",
+    "registro": 236,
+    "catalogo": {
+      "BPFI": 157.76282666666665,
+      "BPFO": 104.43717333333333,
+      "FTF": 11.603224,
+      "BSF": 68.66144
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 104.43717333333333,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.427607799975014,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 157.76282666666665,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 20.33478658739133,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.603224,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 4.322655872086692,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/B007_1.mat",
+    "registro": 283,
+    "catalogo": {
+      "BPFI": 146.51068833333335,
+      "BPFO": 90.41968333333332,
+      "FTF": 11.304681666666665,
+      "BSF": 59.05563333333334
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        14
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/B014_0.mat",
+    "registro": 286,
+    "catalogo": {
+      "BPFI": 148.07720666666668,
+      "BPFO": 91.38646666666666,
+      "FTF": 11.425553333333333,
+      "BSF": 59.68706666666667
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.425553333333333,
+        "nodo": [
+          4,
+          4
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 8.061734475574573,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/B014_2.mat",
+    "registro": 288,
+    "catalogo": {
+      "BPFI": 144.69682500000002,
+      "BPFO": 89.30025,
+      "FTF": 11.164725,
+      "BSF": 58.32449999999999
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.164725,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.52731411579648,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        4
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/B014_3.mat",
+    "registro": 289,
+    "catalogo": {
+      "BPFI": 142.80051333333333,
+      "BPFO": 88.12993333333334,
+      "FTF": 11.018406666666666,
+      "BSF": 57.56013333333333
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.018406666666666,
+        "nodo": [
+          4,
+          6
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.289053012144105,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        6
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/B021_2.mat",
+    "registro": 292,
+    "catalogo": {
+      "BPFI": 144.77927333333335,
+      "BPFO": 89.35113333333334,
+      "FTF": 11.171086666666666,
+      "BSF": 58.357733333333336
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR007_0.mat",
+    "registro": 278,
+    "catalogo": {
+      "BPFI": 148.07720666666668,
+      "BPFO": 91.38646666666666,
+      "FTF": 11.425553333333333,
+      "BSF": 59.68706666666667
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 59.68706666666667,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.683070614722844,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 148.07720666666668,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 40.00712683001888,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 91.38646666666666,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 12.110080606395695,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR007_1.mat",
+    "registro": 279,
+    "catalogo": {
+      "BPFI": 142.80051333333333,
+      "BPFO": 88.12993333333334,
+      "FTF": 11.018406666666666,
+      "BSF": 57.56013333333333
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 88.12993333333334,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 45.69823583324253,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 57.56013333333333,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.94418614307043,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR014_0.mat",
+    "registro": 274,
+    "catalogo": {
+      "BPFI": 148.07720666666668,
+      "BPFO": 91.38646666666666,
+      "FTF": 11.425553333333333,
+      "BSF": 59.68706666666667
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 59.68706666666667,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 65.59749404849846,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 148.07720666666668,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 45.14897582786938,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR014_1.mat",
+    "registro": 275,
+    "catalogo": {
+      "BPFI": 146.34579166666668,
+      "BPFO": 90.31791666666666,
+      "FTF": 11.291958333333332,
+      "BSF": 58.98916666666666
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 58.98916666666666,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 49.993044527803704,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 146.34579166666668,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.38834946317483,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 90.31791666666666,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 5.787575053602685,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR014_3.mat",
+    "registro": 277,
+    "catalogo": {
+      "BPFI": 142.8829616666667,
+      "BPFO": 88.18081666666667,
+      "FTF": 11.024768333333332,
+      "BSF": 57.59336666666666
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 57.59336666666666,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.075881136695195,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 142.8829616666667,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.75085161901664,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR021_0.mat",
+    "registro": 270,
+    "catalogo": {
+      "BPFI": 148.07720666666668,
+      "BPFO": 91.38646666666666,
+      "FTF": 11.425553333333333,
+      "BSF": 59.68706666666667
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 59.68706666666667,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.07156933735166,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 148.07720666666668,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 30.3397631550991,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/IR021_3.mat",
+    "registro": 273,
+    "catalogo": {
+      "BPFI": 143.21275500000002,
+      "BPFO": 88.38435,
+      "FTF": 11.050215,
+      "BSF": 57.7263
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 57.7263,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.588808112773705,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 143.21275500000002,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 42.54873588432339,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR007@12_3.mat",
+    "registro": 307,
+    "catalogo": {
+      "BPFI": 142.8829616666667,
+      "BPFO": 88.18081666666667,
+      "FTF": 11.024768333333332,
+      "BSF": 57.59336666666666
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 88.18081666666667,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 14.419468315231533,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 57.59336666666666,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 12.317015865916307,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR007@3_0.mat",
+    "registro": 298,
+    "catalogo": {
+      "BPFI": 148.15965500000001,
+      "BPFO": 91.43735,
+      "FTF": 11.431915,
+      "BSF": 59.720299999999995
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 59.720299999999995,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 19.98476797042281,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 91.43735,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 19.573045743825553,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR007@3_1.mat",
+    "registro": 299,
+    "catalogo": {
+      "BPFI": 146.42824000000002,
+      "BPFO": 90.3688,
+      "FTF": 11.298319999999999,
+      "BSF": 59.0224
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 90.3688,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 27.99128054175626,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 118.0448,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 24.75062058575303,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 146.42824000000002,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 7.896558680119604,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR007@3_3.mat",
+    "registro": 301,
+    "catalogo": {
+      "BPFI": 142.8829616666667,
+      "BPFO": 88.18081666666667,
+      "FTF": 11.024768333333332,
+      "BSF": 57.59336666666666
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFI",
+        "tipo": "IR",
+        "frecuencia_hz": 142.8829616666667,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 10.91153744465114,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 88.18081666666667,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 7.538316838873159,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR007@6_3.mat",
+    "registro": 297,
+    "catalogo": {
+      "BPFI": 142.8829616666667,
+      "BPFO": 88.18081666666667,
+      "FTF": 11.024768333333332,
+      "BSF": 57.59336666666666
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 88.18081666666667,
+        "nodo": [
+          4,
+          12
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.6362699686742,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 57.59336666666666,
+        "nodo": [
+          4,
+          12
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.14709067118298,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        12
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR014@6_0.mat",
+    "registro": 313,
+    "catalogo": {
+      "BPFI": 148.15965500000001,
+      "BPFO": 91.43735,
+      "FTF": 11.431915,
+      "BSF": 59.720299999999995
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 91.43735,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 86.54219951266658,
+        "p_prueba": 0.0006666666666666666
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 119.44059999999999,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 8.937050956862057,
+        "p_prueba": 0.0006666666666666666
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR021@3_1.mat",
+    "registro": 316,
+    "catalogo": {
+      "BPFI": 146.180895,
+      "BPFO": 90.21615,
+      "FTF": 11.279235,
+      "BSF": 58.9227
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 90.21615,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 58.094918363220216,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "2BSF",
+        "tipo": "B",
+        "frecuencia_hz": 117.8454,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 15.430316303906444,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR021@3_2.mat",
+    "registro": 317,
+    "catalogo": {
+      "BPFI": 144.36703166666666,
+      "BPFO": 89.09671666666667,
+      "FTF": 11.139278333333332,
+      "BSF": 58.19156666666667
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 89.09671666666667,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 48.03126311574565,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.139278333333332,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 14.582526933872561,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR021@3_3.mat",
+    "registro": 318,
+    "catalogo": {
+      "BPFI": 142.47072,
+      "BPFO": 87.9264,
+      "FTF": 10.99296,
+      "BSF": 57.4272
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 87.9264,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 57.75393892550785,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 57.4272,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 14.578057541108933,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        14
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "12k_FE/OR021@6_0.mat",
+    "registro": 315,
+    "catalogo": {
+      "BPFI": 148.15965500000001,
+      "BPFO": 91.43735,
+      "FTF": 11.431915,
+      "BSF": 59.720299999999995
+    },
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "familia": "BPFO",
+        "tipo": "OR",
+        "frecuencia_hz": 91.43735,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 79.21294418001224,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "BSF",
+        "tipo": "B",
+        "frecuencia_hz": 59.720299999999995,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 27.94818083811234,
+        "p_prueba": 0.0003333333333333333
+      },
+      {
+        "familia": "FTF",
+        "tipo": "FTF",
+        "frecuencia_hz": 11.431915,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 3.795822186174446,
+        "p_prueba": 0.0003333333333333333
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "Normal/Normal_0.mat",
+    "registro": 97,
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        13
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "archivo": "Normal/Normal_2.mat",
+    "registro": 98,
+    "catalogo": {
+      "BPFI": 157.9433333333333,
+      "BPFO": 104.55666666666666,
+      "FTF": 11.6165,
+      "BSF": 68.74
+    },
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  }
+]

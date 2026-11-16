@@ -1,0 +1,10 @@
+{
+  "version": "laterales_h3_v1",
+  "dimensiones_laterales": 240,
+  "frecuencias": "todas BPFI/BPFO/BSF/2BSF/FTF; separaciones giro y FTF, inferidas del catálogo completo",
+  "ventanas": "primeros 2,5 s, cuatro ventanas de 1 s, sin acceso a verificación",
+  "radio": "máximo un quinto de separación para no contar la central como lateral",
+  "calificacion_modificada": false,
+  "codigo": "5dadd4d90b948c3b48a2fae4c87be192311d06f8aacd61f4a0b0e6f6492f24aa",
+  "fuente": "c3e4fc1865cd2008774d137342bb6caa2171c7c13656232dcfa0dfad1d01bc5b"
+}

@@ -1,0 +1,6 @@
+# Los modelos y auditorías verifican SHA-256. Conservar exactamente los bytes,
+# incluidos saltos de línea, para no invalidar pesos o procedencias al clonar.
+* -text
+*.png binary
+*.pdf binary
+*.npz binary

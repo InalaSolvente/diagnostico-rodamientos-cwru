@@ -1,0 +1,11 @@
+{
+  "version": "coherencia_ordenes_v1",
+  "dimensiones": 1998,
+  "descripcion": "1953 rasgos originales + 45 interacciones: fundamental/otra armónica en misma banda, especificidad frente a órdenes de giro, contexto de curtosis/entropía",
+  "entradas": "solo rasgos y catálogo completo; giro implícito en geometría preconfigurada",
+  "regla_grados_modificada": false,
+  "n_normales_unicos": 2,
+  "independencia_fisica_normales": "no verificada",
+  "codigo_sha256": "d6526ec0a9dacb6f539292a17e31de03f6aba7effed0381e162a783959f5e8cf",
+  "fuente_sha256": "e5f57e3855ce1acc2f442834de16754628b1491a2d1da4e24e7e530f59762e20"
+}

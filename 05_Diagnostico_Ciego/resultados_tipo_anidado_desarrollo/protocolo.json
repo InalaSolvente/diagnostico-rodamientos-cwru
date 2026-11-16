@@ -1,0 +1,15 @@
+{
+  "version": "tipo_anidado_v1",
+  "fuente": "prefijos 2 s, fs canónica 12k, arbol L4",
+  "modelos": [
+    "logistica",
+    "lda_120",
+    "ridge"
+  ],
+  "objetivo_interno": "exactitud equilibrada de tipo en fallas",
+  "exterior": "cada condición de falla o señal normal única fuera del ajuste y de la selección",
+  "interior": "4 pliegues por condiciones de falla; normales solo entrenamiento interno",
+  "nota_normales": "OOF de cada normal contra el otro; no implica rodamientos normales independientes",
+  "codigo_sha256": "7e65cc01a8a72423fd120d6e58b3582da39c84f490f9b95550f8b568742f4bd5",
+  "fuente_sha256": "eeb75ee128aa4b2484b4ba182fdbd07ab3ed9db690212f8f47558f60860b16b1"
+}

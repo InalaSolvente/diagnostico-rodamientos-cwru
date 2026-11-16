@@ -1,0 +1,12 @@
+{
+  "total": 52,
+  "tipo_correcto": 42,
+  "mejoran": 3,
+  "iguales": 34,
+  "empeoran": 5,
+  "tipo_incorrecto": 10,
+  "sin_retroceso": 37,
+  "normales_correctos": 1,
+  "normales_total": 2,
+  "falsas_alarmas_con_evidencia": 1
+}

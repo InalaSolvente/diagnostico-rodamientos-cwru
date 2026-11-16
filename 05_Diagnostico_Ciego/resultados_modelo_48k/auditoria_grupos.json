@@ -1,0 +1,158 @@
+[
+  {
+    "grupo_excluido": "B007",
+    "entrenamiento": [
+      "48k_DE/B014_0.mat",
+      "48k_DE/B014_1.mat",
+      "48k_DE/B021_0.mat",
+      "48k_DE/B021_1.mat",
+      "48k_DE/IR007_1.mat",
+      "48k_DE/IR007_2.mat",
+      "48k_DE/IR014_1.mat",
+      "48k_DE/IR014_3.mat",
+      "48k_DE/IR021_0.mat",
+      "48k_DE/IR021_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "prueba": [
+      "48k_DE/B007_1.mat",
+      "48k_DE/B007_3.mat"
+    ],
+    "clases_entrenadas": [
+      "B",
+      "IR",
+      "N"
+    ]
+  },
+  {
+    "grupo_excluido": "B014",
+    "entrenamiento": [
+      "48k_DE/B007_1.mat",
+      "48k_DE/B007_3.mat",
+      "48k_DE/B021_0.mat",
+      "48k_DE/B021_1.mat",
+      "48k_DE/IR007_1.mat",
+      "48k_DE/IR007_2.mat",
+      "48k_DE/IR014_1.mat",
+      "48k_DE/IR014_3.mat",
+      "48k_DE/IR021_0.mat",
+      "48k_DE/IR021_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "prueba": [
+      "48k_DE/B014_0.mat",
+      "48k_DE/B014_1.mat"
+    ],
+    "clases_entrenadas": [
+      "B",
+      "IR",
+      "N"
+    ]
+  },
+  {
+    "grupo_excluido": "B021",
+    "entrenamiento": [
+      "48k_DE/B007_1.mat",
+      "48k_DE/B007_3.mat",
+      "48k_DE/B014_0.mat",
+      "48k_DE/B014_1.mat",
+      "48k_DE/IR007_1.mat",
+      "48k_DE/IR007_2.mat",
+      "48k_DE/IR014_1.mat",
+      "48k_DE/IR014_3.mat",
+      "48k_DE/IR021_0.mat",
+      "48k_DE/IR021_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "prueba": [
+      "48k_DE/B021_0.mat",
+      "48k_DE/B021_1.mat"
+    ],
+    "clases_entrenadas": [
+      "B",
+      "IR",
+      "N"
+    ]
+  },
+  {
+    "grupo_excluido": "IR007",
+    "entrenamiento": [
+      "48k_DE/B007_1.mat",
+      "48k_DE/B007_3.mat",
+      "48k_DE/B014_0.mat",
+      "48k_DE/B014_1.mat",
+      "48k_DE/B021_0.mat",
+      "48k_DE/B021_1.mat",
+      "48k_DE/IR014_1.mat",
+      "48k_DE/IR014_3.mat",
+      "48k_DE/IR021_0.mat",
+      "48k_DE/IR021_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "prueba": [
+      "48k_DE/IR007_1.mat",
+      "48k_DE/IR007_2.mat"
+    ],
+    "clases_entrenadas": [
+      "B",
+      "IR",
+      "N"
+    ]
+  },
+  {
+    "grupo_excluido": "IR014",
+    "entrenamiento": [
+      "48k_DE/B007_1.mat",
+      "48k_DE/B007_3.mat",
+      "48k_DE/B014_0.mat",
+      "48k_DE/B014_1.mat",
+      "48k_DE/B021_0.mat",
+      "48k_DE/B021_1.mat",
+      "48k_DE/IR007_1.mat",
+      "48k_DE/IR007_2.mat",
+      "48k_DE/IR021_0.mat",
+      "48k_DE/IR021_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "prueba": [
+      "48k_DE/IR014_1.mat",
+      "48k_DE/IR014_3.mat"
+    ],
+    "clases_entrenadas": [
+      "B",
+      "IR",
+      "N"
+    ]
+  },
+  {
+    "grupo_excluido": "IR021",
+    "entrenamiento": [
+      "48k_DE/B007_1.mat",
+      "48k_DE/B007_3.mat",
+      "48k_DE/B014_0.mat",
+      "48k_DE/B014_1.mat",
+      "48k_DE/B021_0.mat",
+      "48k_DE/B021_1.mat",
+      "48k_DE/IR007_1.mat",
+      "48k_DE/IR007_2.mat",
+      "48k_DE/IR014_1.mat",
+      "48k_DE/IR014_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "prueba": [
+      "48k_DE/IR021_0.mat",
+      "48k_DE/IR021_3.mat"
+    ],
+    "clases_entrenadas": [
+      "B",
+      "IR",
+      "N"
+    ]
+  }
+]

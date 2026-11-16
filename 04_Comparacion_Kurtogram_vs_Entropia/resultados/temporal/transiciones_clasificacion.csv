@@ -1,0 +1,19 @@
+metodo,antes,ahora,cantidad
+Entropygram: conservar 75%,N,N,24
+Entropygram: conservar 75%,N,P,0
+Entropygram: conservar 75%,N,D,4
+Entropygram: conservar 75%,P,N,1
+Entropygram: conservar 75%,P,P,25
+Entropygram: conservar 75%,P,D,7
+Entropygram: conservar 75%,D,N,0
+Entropygram: conservar 75%,D,P,0
+Entropygram: conservar 75%,D,D,44
+Filtro 75% + mediana temporal,N,N,23
+Filtro 75% + mediana temporal,N,P,2
+Filtro 75% + mediana temporal,N,D,3
+Filtro 75% + mediana temporal,P,N,2
+Filtro 75% + mediana temporal,P,P,25
+Filtro 75% + mediana temporal,P,D,6
+Filtro 75% + mediana temporal,D,N,1
+Filtro 75% + mediana temporal,D,P,2
+Filtro 75% + mediana temporal,D,D,41

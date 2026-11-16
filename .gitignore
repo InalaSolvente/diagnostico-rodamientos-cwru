@@ -1,0 +1,31 @@
+# Python y herramientas locales
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.codex/
+.agents/
+.aws/
+
+# Credenciales y claves
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datos originales públicos CWRU; se conservan índices y procedencia
+*.mat
+*.descarga
+
+# Cachés regenerables y salidas de progreso
+**/cache/
+*_parcial.csv
+evidencia_parcial.json
+*.log
+
+# Sistema operativo
+Thumbs.db
+.DS_Store

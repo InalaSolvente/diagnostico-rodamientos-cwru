@@ -1,0 +1,17 @@
+{
+  "modelo_sha256": "75d7ef5443b7861740499592c22ce09a06c51e47d31cf1bd7da4768c2537df56",
+  "reentrenamiento": false,
+  "fs_referencia": 12000,
+  "L_referencia": 4,
+  "L_48k": 6,
+  "ancho_final_hz": 375,
+  "nodos_usados": 31,
+  "nodos_arbol_completo": 127,
+  "rango_usado_hz": [
+    0,
+    6000
+  ],
+  "remuestreo": false,
+  "normalizacion": "RMS de la se\u00f1al completa como antes",
+  "limitacion": "No usa 6-24k; densidad de bins y entrop\u00eda todav\u00eda dependen del muestreo"
+}

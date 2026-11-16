@@ -1,0 +1,5 @@
+metodo,aciertos,fallas,top1_pct,top3,emitidos_fallas,cobertura_pct,acierto_emitidos_pct,ambiguos,alertas_sanos,sanos
+referencia,31,52,59.62,45,52,100.0,59.62,0,2,2
+coherencia,30,52,57.69,44,52,100.0,57.69,0,2,2
+aprendido_oof,31,52,59.62,45,52,100.0,59.62,0,2,2
+aprendido_ambiguo,23,52,44.23,45,35,67.31,65.71,17,2,2

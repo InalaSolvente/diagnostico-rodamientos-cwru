@@ -1,0 +1,12 @@
+{
+  "version": "dominios_lda_fijo_v1",
+  "clasificador": "LDA shrinkage auto independiente DE/FE",
+  "seleccion_modelo": "solo catálogo completo del rodamiento; misma selección para todas sus fallas",
+  "negativos": "dos archivos sanos, dos canales por archivo; ambos canales excluidos simultáneamente",
+  "metricas": "52 fallas; cuatro vistas normales y dos archivos normales informados por separado",
+  "codigo": "9abf5c344dc6f8158517aab6e0b942657eff8ba32a0dde5e9228c2aaec2bb102",
+  "rasgos": "c3e4fc1865cd2008774d137342bb6caa2171c7c13656232dcfa0dfad1d01bc5b",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+  "reserva_abierta_para_elegir": false
+}

@@ -1,0 +1,76 @@
+{
+  "ficha": {
+    "Bearing": "FE",
+    "Nro. File": 282,
+    "RPM": 1798.0,
+    "fr (Hz)": 29.967,
+    "Load (hp)": 0,
+    "Damage Size (in)": 0.007,
+    "Damage Zone": "Elemento rodante (ball)",
+    "Fault Freq. (Hz)": 119.51,
+    "Banda MFD (Hz)": "1500–1875",
+    "Nivel/nodo": "ℓ=4, m=4",
+    "K máx": 161.03,
+    "Diagnóstico señal cruda": "Parcialmente diagnosticable",
+    "Diagnóstico señal filtrada": "No diagnosticable",
+    "Pico en fd, filtrada (dB)": 6.7
+  },
+  "diag_cruda": {
+    "fd": 119.50706666666666,
+    "armonicas": [
+      {
+        "h": 1,
+        "f_pico": 119.83361943747525,
+        "ratio_db": 8.460258719086267,
+        "umbral_db": 9.279580044797283,
+        "significativa": false
+      },
+      {
+        "h": 2,
+        "f_pico": 239.56820282582862,
+        "ratio_db": 10.53817356931833,
+        "umbral_db": 9.621111337692819,
+        "significativa": true
+      },
+      {
+        "h": 3,
+        "f_pico": 359.302786214182,
+        "ratio_db": 10.424209280881113,
+        "umbral_db": 9.812257519058207,
+        "significativa": true
+      }
+    ],
+    "pico_global_hz": 110.22712267265285,
+    "categoria": "P",
+    "ratio_db_fd": 8.460258719086267
+  },
+  "diag_filtrada": {
+    "fd": 119.50706666666666,
+    "armonicas": [
+      {
+        "h": 1,
+        "f_pico": 119.0413310445002,
+        "ratio_db": 6.658665147972972,
+        "umbral_db": 9.279580044797283,
+        "significativa": false
+      },
+      {
+        "h": 2,
+        "f_pico": 236.20097715568468,
+        "ratio_db": 6.836887970987258,
+        "umbral_db": 9.621111337692819,
+        "significativa": false
+      },
+      {
+        "h": 3,
+        "f_pico": 356.7278489370131,
+        "ratio_db": 5.406493354017611,
+        "umbral_db": 9.812257519058207,
+        "significativa": false
+      }
+    ],
+    "pico_global_hz": 60.70909811171266,
+    "categoria": "N",
+    "ratio_db_fd": 6.658665147972972
+  }
+}

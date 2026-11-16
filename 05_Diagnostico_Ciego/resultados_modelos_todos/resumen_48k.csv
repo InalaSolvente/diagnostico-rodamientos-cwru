@@ -1,0 +1,5 @@
+protocolo,total,evaluados,correctos,porcentaje,D,PD,ND
+reserva_modelo_congelado,12,12,11.0,91.67,3,7,2
+desarrollo_fuera_de_condicion,12,12,10.0,83.33,6,6,0
+reserva_copia_entrenamiento_no_validacion,2,0,,,0,0,0
+entrenamiento_normal_sin_validacion,2,0,,,0,0,0

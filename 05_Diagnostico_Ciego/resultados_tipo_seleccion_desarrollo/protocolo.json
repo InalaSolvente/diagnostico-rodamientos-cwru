@@ -1,0 +1,12 @@
+{
+  "version": "tipo_prefijo_v1",
+  "segundos": 2,
+  "fs_canonica": 12000,
+  "L": 4,
+  "clasificador": "StandardScaler + LogisticRegression(C=.1, class_weight=balanced, max_iter=2000)",
+  "justificacion": "Regularización fuerte fija con p>>n; no hay selección de hiperparámetros por resultados",
+  "validacion": "cada condición de falla fuera completa; cada señal normal única fuera individualmente",
+  "limitacion": "Desarrollo exploratorio, dos normales; no validación externa ni prueba de sano/falla por rodamiento nuevo",
+  "codigo_sha256": "53e09019f5b6f8a1f5f466bee333cd7f8a62a3594e9af7c01f380efbe3cb7a25",
+  "extractor_sha256": "980a4ace996e33e90f19f26559001ea972ac1d7ef59882a71b64e9abb73ecd29"
+}

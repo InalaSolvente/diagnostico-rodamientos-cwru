@@ -1,0 +1,134 @@
+archivo,registro,paper,tipo_predicho,tipo_real,tipo_correcto,carpeta,fs,origen,grado_emitido,grado_evaluable,sin_retroceso,familia,nodo,armonicas,primera_identificada,pico_previo_mayor
+12k_DE/B007_0.mat,118,ND,B,B,True,12k_DE,12000.0,reserva_congelado,D,D,True,BSF,"[2, 3]",1;3,True,False
+12k_DE/B007_1.mat,119,ND,B,B,True,12k_DE,12000.0,desarrollo_oof,PD,PD,True,2BSF,"[2, 0]",1;2;4;5;6,True,True
+12k_DE/B007_2.mat,120,ND,B,B,True,12k_DE,12000.0,reserva_congelado,PD,PD,True,BSF,"[2, 0]",1;2;3;5;6,True,True
+12k_DE/B007_3.mat,121,D,B,B,True,12k_DE,12000.0,desarrollo_oof,PD,PD,False,2BSF,"[2, 0]",2;3;4;6,False,True
+12k_DE/B014_0.mat,185,PD,B,B,True,12k_DE,12000.0,reserva_congelado,PD,PD,True,BSF,"[3, 1]",2;5;6,False,True
+12k_DE/B014_1.mat,186,PD,B,B,True,12k_DE,12000.0,desarrollo_oof,PD,PD,True,BSF,"[2, 0]",3;4;5;6,False,True
+12k_DE/B014_2.mat,187,PD,B,B,True,12k_DE,12000.0,desarrollo_oof,PD,PD,True,2BSF,"[2, 0]",1;2;4;5,True,True
+12k_DE/B014_3.mat,188,PD,B,B,True,12k_DE,12000.0,reserva_congelado,PD,PD,True,2BSF,"[3, 1]",2;3;4;6,False,True
+12k_DE/B021_0.mat,222,D,OR,B,False,12k_DE,12000.0,desarrollo_oof,PD,tipo_incorrecto,False,BPFO,"[1, 0]",1;2;3;4;6,True,True
+12k_DE/B021_1.mat,223,D,B,B,True,12k_DE,12000.0,desarrollo_oof,PD,PD,False,2BSF,"[1, 0]",1;2;4;5;6,True,True
+12k_DE/B021_2.mat,224,ND,B,B,True,12k_DE,12000.0,reserva_congelado,PD,PD,True,2BSF,"[2, 0]",1;2;4;5;6,True,True
+12k_DE/B021_3.mat,225,ND,B,B,True,12k_DE,12000.0,desarrollo_oof,D,D,True,2BSF,"[3, 2]",1;4,True,False
+12k_DE/B028_0.mat,48,D,B,B,True,12k_DE,12000.0,desarrollo_oof,D,D,True,2BSF,"[3, 0]",1;2;4;5,True,False
+12k_DE/B028_1.mat,49,D,B,B,True,12k_DE,12000.0,reserva_congelado,PD,PD,False,2BSF,"[2, 0]",1;2;3;4;5;6,True,True
+12k_DE/B028_2.mat,50,D,B,B,True,12k_DE,12000.0,reserva_congelado,D,D,True,2BSF,"[2, 0]",1;2;3;4;5;6,True,False
+12k_DE/B028_3.mat,51,D,B,B,True,12k_DE,12000.0,reserva_congelado,PD,PD,False,2BSF,"[2, 0]",1;2;3;4;5,True,True
+12k_DE/IR007_0.mat,105,D,IR,IR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR007_1.mat,106,D,IR,IR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR007_2.mat,107,D,IR,IR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR007_3.mat,108,D,IR,IR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR014_0.mat,169,D,IR,IR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR014_1.mat,170,D,OR,IR,False,12k_DE,12000.0,desarrollo_oof,PD,tipo_incorrecto,False,BPFO,"[3, 4]",2;3;4;5;6,False,True
+12k_DE/IR014_2.mat,171,D,IR,IR,True,12k_DE,12000.0,reserva_congelado,PD,PD,False,BPFI,"[0, 0]",1;2;3;4;5;6,True,True
+12k_DE/IR014_3.mat,172,D,IR,IR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR021_0.mat,209,D,IR,IR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFI,"[2, 3]",1;2;3;4;5;6,True,False
+12k_DE/IR021_1.mat,210,D,IR,IR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR021_2.mat,211,D,IR,IR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR021_3.mat,212,D,IR,IR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/IR028_0.mat,56,ND,IR,IR,True,12k_DE,12000.0,reserva_congelado,PD,PD,True,BPFI,"[2, 1]",1;2;4;5;6,True,True
+12k_DE/IR028_1.mat,57,ND,B,IR,False,12k_DE,12000.0,desarrollo_oof,PD,tipo_incorrecto,False,BSF,"[3, 1]",3;4;5;6,False,True
+12k_DE/IR028_2.mat,58,ND,B,IR,False,12k_DE,12000.0,desarrollo_oof,PD,tipo_incorrecto,False,2BSF,"[2, 1]",1;2;4;5;6,True,True
+12k_DE/IR028_3.mat,59,ND,IR,IR,True,12k_DE,12000.0,reserva_congelado,PD,PD,True,BPFI,"[1, 0]",2;3;4;5;6,False,True
+12k_DE/OR007@12_0.mat,156,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@12_1.mat,158,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@12_2.mat,159,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@12_3.mat,160,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@3_0.mat,144,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@3_1.mat,145,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;4;5;6,True,False
+12k_DE/OR007@3_2.mat,146,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@3_3.mat,147,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@6_0.mat,130,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@6_1.mat,131,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@6_2.mat,132,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR007@6_3.mat,133,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR014@6_0.mat,197,D,B,OR,False,12k_DE,12000.0,desarrollo_oof,PD,tipo_incorrecto,False,2BSF,"[1, 1]",2;3;4;5;6,False,True
+12k_DE/OR014@6_1.mat,198,PD,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[3, 1]",1;2;3;4;5,True,False
+12k_DE/OR014@6_2.mat,199,PD,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[2, 1]",1;3;4;6,True,False
+12k_DE/OR014@6_3.mat,200,ND,B,OR,False,12k_DE,12000.0,desarrollo_oof,PD,tipo_incorrecto,False,2BSF,"[3, 0]",2;4;5;6,False,True
+12k_DE/OR021@12_0.mat,258,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,PD,PD,False,BPFO,"[0, 0]",1;2;3;4;5;6,True,True
+12k_DE/OR021@12_1.mat,259,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[2, 0]",1;2;3;4;6,True,False
+12k_DE/OR021@12_2.mat,260,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[3, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR021@12_3.mat,261,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[2, 3]",1;2;3;4,True,False
+12k_DE/OR021@3_0.mat,246,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;4;5;6,True,False
+12k_DE/OR021@3_1.mat,247,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[3, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR021@3_2.mat,248,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR021@3_3.mat,249,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5,True,False
+12k_DE/OR021@6_0.mat,234,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR021@6_1.mat,235,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR021@6_2.mat,236,D,OR,OR,True,12k_DE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_DE/OR021@6_3.mat,237,D,OR,OR,True,12k_DE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;6,True,False
+12k_FE/B007_0.mat,282,ND,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,2BSF,"[3, 5]",1;3,True,False
+12k_FE/B007_1.mat,283,PD,B,B,True,12k_FE,12000.0,desarrollo_oof,D,D,True,2BSF,"[3, 5]",1;2,True,False
+12k_FE/B007_2.mat,284,D,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,BSF,"[3, 0]",1;2;3;4;6,True,False
+12k_FE/B007_3.mat,285,ND,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,2BSF,"[3, 5]",1;2,True,False
+12k_FE/B014_0.mat,286,PD,B,B,True,12k_FE,12000.0,desarrollo_oof,PD,PD,True,BSF,"[2, 0]",1;2;3;4;5;6,True,True
+12k_FE/B014_1.mat,287,PD,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,BSF,"[2, 0]",1;2;3;4;5;6,True,False
+12k_FE/B014_2.mat,288,PD,B,B,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BSF,"[2, 0]",1;2,True,False
+12k_FE/B014_3.mat,289,PD,B,B,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BSF,"[3, 0]",1;3,True,False
+12k_FE/B021_0.mat,290,ND,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,2BSF,"[3, 5]",1;4,True,False
+12k_FE/B021_1.mat,291,PD,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,BSF,"[2, 3]",1;5,True,False
+12k_FE/B021_2.mat,292,ND,B,B,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BSF,"[4, 1]",1;2,True,False
+12k_FE/B021_3.mat,293,PD,B,B,True,12k_FE,12000.0,reserva_congelado,D,D,True,BSF,"[3, 4]",1;6,True,False
+12k_FE/IR007_0.mat,278,D,IR,IR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFI,"[2, 3]",1;2;3;4;5;6,True,False
+12k_FE/IR007_1.mat,279,D,OR,IR,False,12k_FE,12000.0,desarrollo_oof,D,tipo_incorrecto,False,BPFO,"[1, 1]",1;2;3;4;5;6,True,False
+12k_FE/IR007_2.mat,280,D,IR,IR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFI,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/IR007_3.mat,281,D,IR,IR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFI,"[1, 1]",1;2;3;4;5;6,True,False
+12k_FE/IR014_0.mat,274,D,IR,IR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFI,"[2, 3]",1;2;3;4;5;6,True,False
+12k_FE/IR014_1.mat,275,D,IR,IR,True,12k_FE,12000.0,desarrollo_oof,PD,PD,False,BPFI,"[0, 0]",1;2;3;4;5;6,True,True
+12k_FE/IR014_2.mat,276,D,IR,IR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFI,"[2, 3]",1;2;3;6,True,False
+12k_FE/IR014_3.mat,277,D,IR,IR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFI,"[2, 3]",1;2;4;6,True,False
+12k_FE/IR021_0.mat,270,D,IR,IR,True,12k_FE,12000.0,desarrollo_oof,PD,PD,False,BPFI,"[2, 3]",1;2;3;4;5;6,True,True
+12k_FE/IR021_1.mat,271,D,IR,IR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFI,"[2, 3]",1;2;3;4;5;6,True,False
+12k_FE/IR021_2.mat,272,D,IR,IR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFI,"[0, 0]",1;2;3;4;6,True,False
+12k_FE/IR021_3.mat,273,D,IR,IR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFI,"[2, 3]",1;2;3;4;5;6,True,False
+12k_FE/OR007@12_0.mat,302,ND,OR,OR,True,12k_FE,12000.0,reserva_congelado,PD,PD,True,BPFO,"[1, 0]",1;2;3;4;5;6,True,True
+12k_FE/OR007@12_1.mat,305,ND,OR,OR,True,12k_FE,12000.0,reserva_congelado,PD,PD,True,BPFO,"[3, 5]",2;3;4;5;6,False,True
+12k_FE/OR007@12_2.mat,306,ND,OR,OR,True,12k_FE,12000.0,reserva_congelado,PD,PD,True,BPFO,"[3, 1]",1;3;4;5;6,True,True
+12k_FE/OR007@12_3.mat,307,ND,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[2, 3]",1;3,True,False
+12k_FE/OR007@3_0.mat,298,PD,OR,OR,True,12k_FE,12000.0,desarrollo_oof,PD,PD,True,BPFO,"[1, 0]",1;2;3;4;5;6,True,True
+12k_FE/OR007@3_1.mat,299,PD,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[4, 3]",1;3;4;6,True,False
+12k_FE/OR007@3_2.mat,300,PD,OR,OR,True,12k_FE,12000.0,reserva_congelado,PD,PD,True,BPFO,"[1, 0]",1;2;3;4;5;6,True,True
+12k_FE/OR007@3_3.mat,301,PD,OR,OR,True,12k_FE,12000.0,desarrollo_oof,PD,PD,True,BPFO,"[0, 0]",1;2;3;4;6,True,True
+12k_FE/OR007@6_0.mat,294,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[2, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR007@6_1.mat,295,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR007@6_2.mat,296,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[1, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR007@6_3.mat,297,D,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[1, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR014@3_0.mat,309,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR014@3_1.mat,310,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR014@3_2.mat,311,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR014@3_3.mat,312,D,OR,OR,True,12k_FE,12000.0,reserva_congelado,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR014@6_0.mat,313,D,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;5;6,True,False
+12k_FE/OR021@3_1.mat,316,D,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[1, 1]",1;2;4;5;6,True,False
+12k_FE/OR021@3_2.mat,317,D,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[0, 0]",1;2;3;4;6,True,False
+12k_FE/OR021@3_3.mat,318,D,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[1, 1]",1;2;4;5;6,True,False
+12k_FE/OR021@6_0.mat,315,D,OR,OR,True,12k_FE,12000.0,desarrollo_oof,D,D,True,BPFO,"[1, 1]",1;2;3;4;5;6,True,False
+48k_DE/B007_0.mat,122,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B007_1.mat,123,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B007_2.mat,124,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B007_3.mat,125,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B014_0.mat,189,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B014_1.mat,190,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B014_2.mat,191,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B014_3.mat,192,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B021_0.mat,226,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B021_1.mat,227,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B021_2.mat,228,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/B021_3.mat,229,,N,B,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR007_0.mat,109,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR007_1.mat,110,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR007_2.mat,111,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR007_3.mat,112,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR014_0.mat,173,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR014_1.mat,217,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR014_2.mat,176,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR014_3.mat,177,,B,IR,False,48k_DE,48000.0,adicional_48k,PD,,,2BSF,"[0, 0]",2;5;6,False,True
+48k_DE/IR021_0.mat,213,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR021_1.mat,214,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR021_2.mat,215,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+48k_DE/IR021_3.mat,215,,N,IR,False,48k_DE,48000.0,adicional_48k,ND,,,,None,,False,False
+Normal/Normal_0.mat,97,,IR,N,False,Normal,48000.0,desarrollo_oof,PD,,,BPFI,"[4, 8]",2;3;4;5;6,False,True
+Normal/Normal_1.mat,98,,N,N,True,Normal,48000.0,reserva_congelado,ND,,,,None,,False,False
+Normal/Normal_2.mat,98,,B,N,False,Normal,48000.0,desarrollo_oof,PD,,,2BSF,"[0, 0]",1;2;4;5;6,True,True
+Normal/Normal_3.mat,100,,N,N,True,Normal,48000.0,reserva_congelado,ND,,,,None,,False,False

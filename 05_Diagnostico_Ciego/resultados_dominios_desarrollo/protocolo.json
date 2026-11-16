@@ -1,0 +1,12 @@
+{
+  "version": "dominios_de_fe_v1",
+  "archivos": 54,
+  "fallas": 52,
+  "normales_archivos": 2,
+  "normales_vistas": 4,
+  "fs_normal_FE": "misma frecuencia declarada del registro; se exige igual longitud DE/FE, sin elegir fs por rendimiento",
+  "exclusiones": "ambas vistas de un normal fuera simultáneamente; condiciones de falla fuera en ambos sensores",
+  "reserva_abierta": false,
+  "codigo_sha256": "6365b8188b218a7f399803b5874f87689afbea6a806a20eb9f17fe1ba5b4d1e4",
+  "fuente_sha256": "e5f57e3855ce1acc2f442834de16754628b1491a2d1da4e24e7e530f59762e20"
+}

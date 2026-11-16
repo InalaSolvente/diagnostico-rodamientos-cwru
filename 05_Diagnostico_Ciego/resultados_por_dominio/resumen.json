@@ -1,0 +1,13 @@
+{
+  "total": 52,
+  "tipo_correcto": 41,
+  "mejoran": 4,
+  "iguales": 31,
+  "empeoran": 6,
+  "tipo_incorrecto": 11,
+  "sin_retroceso": 35,
+  "normales_vistas": 4,
+  "normales_vistas_correctas": 4,
+  "normales_archivos": 2,
+  "normales_archivos_ambos_canales_correctos": 2
+}

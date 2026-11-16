@@ -1,0 +1,5950 @@
+[
+  {
+    "registro": 118,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 30.349756467679956,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 8.342745177840973,
+        "p_prueba": 4.065040650406504e-05
+      },
+      {
+        "frecuencia_hz": 29.63180523941226,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 4.361293831330734,
+        "p_prueba": 4.065040650406504e-05
+      },
+      {
+        "frecuencia_hz": 60.99322025601488,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 3.286915532403963,
+        "p_prueba": 4.065040650406504e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 119,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.107981220657276,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.840943594491435,
+        "p_prueba": 1.4619883040935673e-05
+      },
+      {
+        "frecuencia_hz": 29.75043241907586,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 22.959064784263337,
+        "p_prueba": 1.4619883040935673e-05
+      },
+      {
+        "frecuencia_hz": 58.21596244131455,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 15.369813425508212,
+        "p_prueba": 1.4619883040935673e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 120,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.17173977426042,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 14.804034503964322,
+        "p_prueba": 1.572327044025157e-05
+      },
+      {
+        "frecuencia_hz": 11.50087202606206,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 8.738077780464739,
+        "p_prueba": 1.572327044025157e-05
+      },
+      {
+        "frecuencia_hz": 11.797031820724603,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 8.72048563293998,
+        "p_prueba": 1.572327044025157e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 121,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.72750008226661,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.220604869007133,
+        "p_prueba": 1.234567901234568e-05
+      },
+      {
+        "frecuencia_hz": 87.61393925433545,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 13.81181935962023,
+        "p_prueba": 1.234567901234568e-05
+      },
+      {
+        "frecuencia_hz": 44.572049096712625,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 12.901240029770952,
+        "p_prueba": 1.234567901234568e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 185,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.496249363951218,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 11.353774365906222,
+        "p_prueba": 1.8726591760299626e-05
+      },
+      {
+        "frecuencia_hz": 30.087159200958588,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 11.109642578802546,
+        "p_prueba": 1.8726591760299626e-05
+      },
+      {
+        "frecuencia_hz": 89.81829522512024,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 9.024353772776669,
+        "p_prueba": 1.8726591760299626e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 186,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.540839719656784,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 14.241834422502176,
+        "p_prueba": 1.3123359580052494e-05
+      },
+      {
+        "frecuencia_hz": 60.91570053055611,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 12.390359726888065,
+        "p_prueba": 1.3123359580052494e-05
+      },
+      {
+        "frecuencia_hz": 149.53821968952644,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 10.756096220946029,
+        "p_prueba": 1.3123359580052494e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 187,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.64020296579256,
+        "nodo": [
+          4,
+          9
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 22.348897147909888,
+        "p_prueba": 1.4492753623188407e-05
+      },
+      {
+        "frecuencia_hz": 17.460304448688838,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 14.41746127556025,
+        "p_prueba": 1.4492753623188407e-05
+      },
+      {
+        "frecuencia_hz": 23.3623791919076,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 1.9196109810187743,
+        "p_prueba": 1.4492753623188407e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        9
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 188,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.397131067007273,
+        "nodo": [
+          4,
+          8
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 16.133297945829398,
+        "p_prueba": 1.6835016835016834e-05
+      },
+      {
+        "frecuencia_hz": 17.292198860286895,
+        "nodo": [
+          4,
+          8
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 12.162602642445862,
+        "p_prueba": 1.6835016835016834e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 222,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 30.100581190415685,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 4.910517815645731,
+        "p_prueba": 1.3550135501355014e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        13
+      ],
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 223,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.580693667266495,
+        "nodo": [
+          4,
+          10
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 13.757459733116136,
+        "p_prueba": 4.5662100456621006e-05
+      },
+      {
+        "frecuencia_hz": 159.83434811546329,
+        "nodo": [
+          4,
+          10
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 8.378955758494882,
+        "p_prueba": 4.5662100456621006e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        10
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 224,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 157.88956573000593,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.96187008778132,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 29.18058557673414,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.799923352190675,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 128.7089801532718,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 19.048714860258315,
+        "p_prueba": 1.2820512820512822e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 225,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.787581057182162,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.15056857751709,
+        "p_prueba": 4.1666666666666665e-05
+      },
+      {
+        "frecuencia_hz": 155.72804087247005,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 18.875784488333842,
+        "p_prueba": 4.1666666666666665e-05
+      },
+      {
+        "frecuencia_hz": 127.33346433483987,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 15.778342687046448,
+        "p_prueba": 4.1666666666666665e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 48,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.970099585268335,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 19.926570760873062,
+        "p_prueba": 1.3440860215053763e-05
+      },
+      {
+        "frecuencia_hz": 17.979983609407206,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 17.754608082745484,
+        "p_prueba": 1.3440860215053763e-05
+      },
+      {
+        "frecuencia_hz": 35.264608736682646,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 7.450537420120755,
+        "p_prueba": 1.3440860215053763e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 49,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.89936630106056,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 33.699180472268345,
+        "p_prueba": 1.3440860215053763e-05
+      },
+      {
+        "frecuencia_hz": 17.733681634267537,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 28.114078650659955,
+        "p_prueba": 1.3440860215053763e-05
+      },
+      {
+        "frecuencia_hz": 34.8740430651581,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 20.8602136193654,
+        "p_prueba": 1.3440860215053763e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 50,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.803213648085698,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 17.669069494383827,
+        "p_prueba": 5.291005291005291e-05
+      },
+      {
+        "frecuencia_hz": 34.566554255108116,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 9.933896661517068,
+        "p_prueba": 5.291005291005291e-05
+      },
+      {
+        "frecuencia_hz": 22.912120610989884,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 12.478392218863577,
+        "p_prueba": 5.291005291005291e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 51,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 17.258480460226146,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 33.97652489319147,
+        "p_prueba": 1.6666666666666667e-05
+      },
+      {
+        "frecuencia_hz": 11.505653640150763,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.284613651116914,
+        "p_prueba": 1.6666666666666667e-05
+      },
+      {
+        "frecuencia_hz": 34.51696092045229,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 18.17057005119402,
+        "p_prueba": 1.6666666666666667e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 105,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 161.69546035541995,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 68.4943376886924,
+        "p_prueba": 1.3123359580052494e-05
+      },
+      {
+        "frecuencia_hz": 29.934441100070092,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 54.39345286196843,
+        "p_prueba": 1.3123359580052494e-05
+      },
+      {
+        "frecuencia_hz": 485.0533954562322,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 54.32418944902209,
+        "p_prueba": 1.3123359580052494e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 106,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 159.55275389168054,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 58.5596593767427,
+        "p_prueba": 1.1337868480725624e-05
+      },
+      {
+        "frecuencia_hz": 29.51037371609381,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.44971079568489,
+        "p_prueba": 1.1337868480725624e-05
+      },
+      {
+        "frecuencia_hz": 319.1055077833611,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.90511066862509,
+        "p_prueba": 1.1337868480725624e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 107,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 157.3655597039366,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 62.155851989391394,
+        "p_prueba": 1.1111111111111112e-05
+      },
+      {
+        "frecuencia_hz": 29.13146001179014,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 61.06107824110177,
+        "p_prueba": 1.1111111111111112e-05
+      },
+      {
+        "frecuencia_hz": 314.7474945961879,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.686463670307475,
+        "p_prueba": 1.1111111111111112e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 108,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.669752759992516,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.778460933295676,
+        "p_prueba": 1.3333333333333333e-05
+      },
+      {
+        "frecuencia_hz": 155.71483195977774,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 48.028111399989825,
+        "p_prueba": 1.3333333333333333e-05
+      },
+      {
+        "frecuencia_hz": 309.5747536955832,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.60063739311501,
+        "p_prueba": 1.3333333333333333e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 169,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.939431741706745,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 69.94508761472748,
+        "p_prueba": 3.8314176245210727e-05
+      },
+      {
+        "frecuencia_hz": 162.00778031285392,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.84325008105062,
+        "p_prueba": 3.8314176245210727e-05
+      },
+      {
+        "frecuencia_hz": 132.0683485711472,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.701529169897906,
+        "p_prueba": 3.8314176245210727e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 170,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.545491850368496,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 62.46558894556786,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 159.98883836974542,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.50925171237346,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 319.97767673949085,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.73460524204669,
+        "p_prueba": 3.968253968253968e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 171,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.20079444544753,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 59.64445400991439,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 128.85117279188484,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 24.864527230441485,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 274.77307420842703,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 22.97462153451473,
+        "p_prueba": 3.968253968253968e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 172,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.79187516947272,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 65.80926269847521,
+        "p_prueba": 4.1666666666666665e-05
+      },
+      {
+        "frecuencia_hz": 155.89025562649442,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.953332518266595,
+        "p_prueba": 4.1666666666666665e-05
+      },
+      {
+        "frecuencia_hz": 282.98863608351616,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.28193979404299,
+        "p_prueba": 4.1666666666666665e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 209,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.933844239208756,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 51.39843937664253,
+        "p_prueba": 1.5151515151515151e-05
+      },
+      {
+        "frecuencia_hz": 191.78620554136376,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 27.435807209782414,
+        "p_prueba": 1.5151515151515151e-05
+      },
+      {
+        "frecuencia_hz": 11.986637846335235,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 17.325896798009794,
+        "p_prueba": 1.5151515151515151e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        14
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 210,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.566619500477145,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 65.15784412171136,
+        "p_prueba": 1.5151515151515151e-05
+      },
+      {
+        "frecuencia_hz": 159.7782092204416,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.760534579421005,
+        "p_prueba": 1.5151515151515151e-05
+      },
+      {
+        "frecuencia_hz": 248.47806772187303,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 24.54916351714296,
+        "p_prueba": 1.5151515151515151e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 211,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.20079444544753,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 59.228542381981555,
+        "p_prueba": 1.4245014245014246e-05
+      },
+      {
+        "frecuencia_hz": 157.82216896738507,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.27300856536159,
+        "p_prueba": 1.4245014245014246e-05
+      },
+      {
+        "frecuencia_hz": 315.64433793477014,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.091711222357425,
+        "p_prueba": 1.4245014245014246e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        7
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 212,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.772614373191466,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.460695341134056,
+        "p_prueba": 1.2722646310432571e-05
+      },
+      {
+        "frecuencia_hz": 155.61803739620134,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 51.3505572086171,
+        "p_prueba": 1.2722646310432571e-05
+      },
+      {
+        "frecuencia_hz": 409.21051552983414,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.095476837430116,
+        "p_prueba": 1.2722646310432571e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 56,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 128.24397149030224,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 42.39268464314422,
+        "p_prueba": 1.2254901960784313e-05
+      },
+      {
+        "frecuencia_hz": 110.09842633753033,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 27.461934034797153,
+        "p_prueba": 1.2254901960784313e-05
+      },
+      {
+        "frecuencia_hz": 256.4879429806045,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.63678460436995,
+        "p_prueba": 1.2254901960784313e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 57,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 98.59004046114164,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.734365077801655,
+        "p_prueba": 1.2531328320802006e-05
+      },
+      {
+        "frecuencia_hz": 67.63850318497582,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 16.800879997804525,
+        "p_prueba": 1.2531328320802006e-05
+      },
+      {
+        "frecuencia_hz": 64.67190216809091,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 17.412244526044407,
+        "p_prueba": 1.2531328320802006e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 58,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 126.47609001985974,
+        "nodo": [
+          2,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 57.96987760876695,
+        "p_prueba": 1.1415525114155251e-05
+      },
+      {
+        "frecuencia_hz": 253.67734917718022,
+        "nodo": [
+          2,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.77018438396633,
+        "p_prueba": 1.1415525114155251e-05
+      },
+      {
+        "frecuencia_hz": 380.51602376577034,
+        "nodo": [
+          2,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.21525749305724,
+        "p_prueba": 1.1415525114155251e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 59,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 61.77644299995887,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 33.51873386688816,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 92.6646644999383,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.487005660331995,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 105.20426214670671,
+        "nodo": [
+          4,
+          0
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 22.037241189862133,
+        "p_prueba": 1.2820512820512822e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 156,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 107.70275022284736,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 49.737511620846334,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 215.4055004456947,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.47094099674808,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 30.12732967509261,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.77547773716479,
+        "p_prueba": 1.2820512820512822e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 158,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 106.33571329032469,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.09650666065105,
+        "p_prueba": 1.2531328320802006e-05
+      },
+      {
+        "frecuencia_hz": 215.5240960398718,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.77275227461349,
+        "p_prueba": 1.2531328320802006e-05
+      },
+      {
+        "frecuencia_hz": 29.657925584674278,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.737610558233428,
+        "p_prueba": 1.2531328320802006e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 159,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.14598343160425,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.08422485464781,
+        "p_prueba": 1.366120218579235e-05
+      },
+      {
+        "frecuencia_hz": 104.90591342890554,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.574132324718164,
+        "p_prueba": 1.366120218579235e-05
+      },
+      {
+        "frecuencia_hz": 151.51985999460257,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 22.98782376421507,
+        "p_prueba": 1.366120218579235e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 160,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 103.3601886421694,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 52.98271495722861,
+        "p_prueba": 1.1904761904761905e-05
+      },
+      {
+        "frecuencia_hz": 310.0805659265082,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.09720438923597,
+        "p_prueba": 1.1904761904761905e-05
+      },
+      {
+        "frecuencia_hz": 28.7220803039235,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.08447580844633,
+        "p_prueba": 1.1904761904761905e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 144,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 107.75181753502179,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.850556057034638,
+        "p_prueba": 1.6835016835016834e-05
+      },
+      {
+        "frecuencia_hz": 77.82075710862684,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.652986000500626,
+        "p_prueba": 1.6835016835016834e-05
+      },
+      {
+        "frecuencia_hz": 11.972424170557975,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 25.991336047783236,
+        "p_prueba": 1.6835016835016834e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 145,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.8181967401474,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 59.66535715065187,
+        "p_prueba": 1.7182130584192442e-05
+      },
+      {
+        "frecuencia_hz": 106.3637706613266,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.642860716476484,
+        "p_prueba": 1.7182130584192442e-05
+      },
+      {
+        "frecuencia_hz": 17.7272951102211,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.30231477271447,
+        "p_prueba": 1.7182130584192442e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 146,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.747671854947512,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.78346013995868,
+        "p_prueba": 1.5290519877675842e-05
+      },
+      {
+        "frecuencia_hz": 105.03800717364835,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.17052339684067,
+        "p_prueba": 1.5290519877675842e-05
+      },
+      {
+        "frecuencia_hz": 17.50633452894139,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.116936710776855,
+        "p_prueba": 1.5290519877675842e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        14
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 147,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.514462590263408,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 52.03412550894402,
+        "p_prueba": 1.4619883040935673e-05
+      },
+      {
+        "frecuencia_hz": 103.53202868802184,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 40.59263192008517,
+        "p_prueba": 1.4619883040935673e-05
+      },
+      {
+        "frecuencia_hz": 34.51067622934061,
+        "nodo": [
+          3,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.0347027835558,
+        "p_prueba": 1.4619883040935673e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 130,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 107.61449615135543,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 75.77227091691734,
+        "p_prueba": 1.4005602240896359e-05
+      },
+      {
+        "frecuencia_hz": 215.27817625890435,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 72.19150224977881,
+        "p_prueba": 1.4005602240896359e-05
+      },
+      {
+        "frecuencia_hz": 322.94185636645324,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 61.21772495130124,
+        "p_prueba": 1.4005602240896359e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 131,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 108.1142894483198,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 77.0000575461975,
+        "p_prueba": 1.5873015873015872e-05
+      },
+      {
+        "frecuencia_hz": 104.4876088412592,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 75.15145964122132,
+        "p_prueba": 1.5873015873015872e-05
+      },
+      {
+        "frecuencia_hz": 212.601898289579,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 68.23399329237078,
+        "p_prueba": 1.5873015873015872e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 132,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 104.93369574170167,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 74.17908866552274,
+        "p_prueba": 1.3550135501355014e-05
+      },
+      {
+        "frecuencia_hz": 209.8344452680998,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 73.47459809209838,
+        "p_prueba": 1.3550135501355014e-05
+      },
+      {
+        "frecuencia_hz": 314.801087225105,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 64.12381803525105,
+        "p_prueba": 1.3550135501355014e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 133,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 103.43392809065766,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 74.2216888212298,
+        "p_prueba": 1.4367816091954022e-05
+      },
+      {
+        "frecuencia_hz": 206.81890496120616,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 66.6907760126901,
+        "p_prueba": 1.4367816091954022e-05
+      },
+      {
+        "frecuencia_hz": 310.2528330518638,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 57.599894150462355,
+        "p_prueba": 1.4367816091954022e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 197,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.643976823203058,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 12.990543030903941,
+        "p_prueba": 5.208333333333334e-05
+      },
+      {
+        "frecuencia_hz": 59.87886348341349,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 6.52226827533679,
+        "p_prueba": 5.208333333333334e-05
+      },
+      {
+        "frecuencia_hz": 24.079575858050326,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 4.923777110376795,
+        "p_prueba": 5.208333333333334e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 198,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 59.04892906268423,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 6.445075853522191,
+        "p_prueba": 4.11522633744856e-05
+      },
+      {
+        "frecuencia_hz": 29.147835200104804,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 19.56800117693882,
+        "p_prueba": 4.11522633744856e-05
+      },
+      {
+        "frecuencia_hz": 17.68520337983887,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 6.870257832280181,
+        "p_prueba": 4.11522633744856e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        13
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 199,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.522741821643715,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 3.47120856692964,
+        "p_prueba": 6.17283950617284e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 200,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 65.3490831290833,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 12.690079324550206,
+        "p_prueba": 1.1574074074074073e-05
+      },
+      {
+        "frecuencia_hz": 29.018534154158914,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 11.476846393065893,
+        "p_prueba": 1.1574074074074073e-05
+      },
+      {
+        "frecuencia_hz": 28.42832667983704,
+        "nodo": [
+          4,
+          15
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 10.896571322491287,
+        "p_prueba": 1.1574074074074073e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        13
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 258,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.939431741706745,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 59.524920690969466,
+        "p_prueba": 1.4880952380952381e-05
+      },
+      {
+        "frecuencia_hz": 11.883853388703775,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 45.87223676151798,
+        "p_prueba": 1.4880952380952381e-05
+      },
+      {
+        "frecuencia_hz": 17.825780083055662,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.02675118894559,
+        "p_prueba": 1.4880952380952381e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 259,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.503536830411836,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 57.34049966931821,
+        "p_prueba": 1.2919896640826873e-05
+      },
+      {
+        "frecuencia_hz": 17.545292666590427,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.35182224894767,
+        "p_prueba": 1.2919896640826873e-05
+      },
+      {
+        "frecuencia_hz": 106.05590315782594,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.52899793037389,
+        "p_prueba": 1.2919896640826873e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 260,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.140454382476616,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 52.84871956900744,
+        "p_prueba": 1.5015015015015015e-05
+      },
+      {
+        "frecuencia_hz": 104.58293946999578,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.44094127783483,
+        "p_prueba": 1.5015015015015015e-05
+      },
+      {
+        "frecuencia_hz": 17.308256462075036,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.521570653594644,
+        "p_prueba": 1.5015015015015015e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 261,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.64397170113639,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 51.30780646578619,
+        "p_prueba": 1.557632398753894e-05
+      },
+      {
+        "frecuencia_hz": 102.9408139620874,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 33.71130822902894,
+        "p_prueba": 1.557632398753894e-05
+      },
+      {
+        "frecuencia_hz": 17.058200014790344,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.561569525279772,
+        "p_prueba": 1.557632398753894e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 246,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.975102916163383,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 51.304096820072864,
+        "p_prueba": 1.2722646310432571e-05
+      },
+      {
+        "frecuencia_hz": 137.45162324056497,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.519772121227653,
+        "p_prueba": 1.2722646310432571e-05
+      },
+      {
+        "frecuencia_hz": 185.17514235708828,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 18.961892294689463,
+        "p_prueba": 1.2722646310432571e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 247,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.51037371609381,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 60.84359877498956,
+        "p_prueba": 1.4367816091954022e-05
+      },
+      {
+        "frecuencia_hz": 106.07339885729276,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 37.58005094881642,
+        "p_prueba": 1.4367816091954022e-05
+      },
+      {
+        "frecuencia_hz": 182.6200293464272,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 21.7898585102809,
+        "p_prueba": 1.4367816091954022e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 248,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.145983431604254,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.5029483304437,
+        "p_prueba": 4.0160642570281125e-05
+      },
+      {
+        "frecuencia_hz": 104.61150955585903,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.30930928329799,
+        "p_prueba": 4.0160642570281125e-05
+      },
+      {
+        "frecuencia_hz": 180.07703568011382,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 19.626356299263016,
+        "p_prueba": 4.0160642570281125e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 249,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.656579550664834,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.7500598215955,
+        "p_prueba": 1.3774104683195593e-05
+      },
+      {
+        "frecuencia_hz": 102.96718412261743,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 33.731521407632705,
+        "p_prueba": 1.3774104683195593e-05
+      },
+      {
+        "frecuencia_hz": 177.29416388288467,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 20.725399276144863,
+        "p_prueba": 1.3774104683195593e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 234,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.944619606946233,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 48.82177828793277,
+        "p_prueba": 1.3440860215053763e-05
+      },
+      {
+        "frecuencia_hz": 107.52617907960726,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.15028863943117,
+        "p_prueba": 1.3440860215053763e-05
+      },
+      {
+        "frecuencia_hz": 430.0066979236436,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 30.13302418136398,
+        "p_prueba": 1.3440860215053763e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 235,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.51037371609381,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.45288206654246,
+        "p_prueba": 1.557632398753894e-05
+      },
+      {
+        "frecuencia_hz": 106.04060955316375,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.06288560270036,
+        "p_prueba": 1.557632398753894e-05
+      },
+      {
+        "frecuencia_hz": 212.0812191063275,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.209436517208836,
+        "p_prueba": 1.557632398753894e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 236,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.11327189015464,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 49.785365679679934,
+        "p_prueba": 1.4005602240896359e-05
+      },
+      {
+        "frecuencia_hz": 104.61150955585903,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 43.50509971303717,
+        "p_prueba": 1.4005602240896359e-05
+      },
+      {
+        "frecuencia_hz": 209.22301911171806,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.38222376538792,
+        "p_prueba": 1.4005602240896359e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 237,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.674246460804486,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.109346739079996,
+        "p_prueba": 1.6181229773462782e-05
+      },
+      {
+        "frecuencia_hz": 102.9912042691674,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.00667049870442,
+        "p_prueba": 1.6181229773462782e-05
+      },
+      {
+        "frecuencia_hz": 205.9824085383348,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.992900869201442,
+        "p_prueba": 1.6181229773462782e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 282,
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 283,
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        4,
+        14
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 284,
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 285,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 160.4383995774462,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 8.84163400609666,
+        "p_prueba": 1.1185682326621925e-05
+      },
+      {
+        "frecuencia_hz": 43.27875346626172,
+        "nodo": [
+          4,
+          6
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 1.0782263327719406,
+        "p_prueba": 1.1185682326621925e-05
+      },
+      {
+        "frecuencia_hz": 28.852502310841146,
+        "nodo": [
+          4,
+          6
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 0.4824940916071814,
+        "p_prueba": 1.1185682326621925e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 286,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.303507363661682,
+        "nodo": [
+          4,
+          4
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 6.085751266578411,
+        "p_prueba": 7.936507936507937e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 287,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.189707440908979,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 17.898678603006115,
+        "p_prueba": 1.736111111111111e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 288,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.057586142031097,
+        "nodo": [
+          2,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 28.214538407613116,
+        "p_prueba": 1.5290519877675842e-05
+      },
+      {
+        "frecuencia_hz": 22.082457532162692,
+        "nodo": [
+          4,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 15.155937210470963,
+        "p_prueba": 1.5290519877675842e-05
+      },
+      {
+        "frecuencia_hz": 32.911040410897286,
+        "nodo": [
+          4,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 8.525239868405665,
+        "p_prueba": 1.5290519877675842e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        4
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 289,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 11.092037501650601,
+        "nodo": [
+          4,
+          6
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.036593761783305,
+        "p_prueba": 6.41025641025641e-05
+      },
+      {
+        "frecuencia_hz": 10.69589330516308,
+        "nodo": [
+          4,
+          6
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 8.548018414205625,
+        "p_prueba": 6.41025641025641e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        6
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 290,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.962670270537533,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.94888877276448,
+        "p_prueba": 1.4124293785310734e-05
+      },
+      {
+        "frecuencia_hz": 59.85941607403317,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 32.209967901222946,
+        "p_prueba": 1.4124293785310734e-05
+      },
+      {
+        "frecuencia_hz": 149.81335135268765,
+        "nodo": [
+          3,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.422475792486168,
+        "p_prueba": 1.4124293785310734e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 291,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 361.43089055714415,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 5.850009345863475,
+        "p_prueba": 1.3227513227513228e-05
+      },
+      {
+        "frecuencia_hz": 234.65814043559593,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 4.107083959527127,
+        "p_prueba": 1.3227513227513228e-05
+      },
+      {
+        "frecuencia_hz": 229.7138054074544,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 3.413854286995594,
+        "p_prueba": 1.3227513227513228e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 292,
+    "estado": "sin_evidencia",
+    "candidatos": [],
+    "bandas": [
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 293,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.907045471477886,
+        "nodo": [
+          4,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 23.942876876386286,
+        "p_prueba": 1.1990407673860912e-05
+      },
+      {
+        "frecuencia_hz": 99.23758909280552,
+        "nodo": [
+          4,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 22.514814168516388,
+        "p_prueba": 1.1990407673860912e-05
+      },
+      {
+        "frecuencia_hz": 57.81409094295577,
+        "nodo": [
+          4,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 18.03871907277388,
+        "p_prueba": 1.1990407673860912e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 278,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 58.89661414407372,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.30987732978581,
+        "p_prueba": 3.745318352059925e-05
+      },
+      {
+        "frecuencia_hz": 88.8139219154976,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 48.653229173335305,
+        "p_prueba": 3.745318352059925e-05
+      },
+      {
+        "frecuencia_hz": 29.917307771423868,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 41.632885014628926,
+        "p_prueba": 3.745318352059925e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 279,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 58.145379930944124,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 58.89604665839219,
+        "p_prueba": 4.065040650406504e-05
+      },
+      {
+        "frecuencia_hz": 147.83561734143106,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.327494959363335,
+        "p_prueba": 4.065040650406504e-05
+      },
+      {
+        "frecuencia_hz": 143.97903601948067,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 43.761304168639015,
+        "p_prueba": 4.065040650406504e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 280,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 57.502616377285726,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 42.87446253428531,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 86.72363639360204,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 34.77661755030545,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 29.221020016316306,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 29.20836978270295,
+        "p_prueba": 3.968253968253968e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 281,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 56.724400378491794,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.270393580648566,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 28.831200888632903,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 27.654146063495634,
+        "p_prueba": 3.968253968253968e-05
+      },
+      {
+        "frecuencia_hz": 115.42354054387626,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 16.185003670513595,
+        "p_prueba": 3.968253968253968e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 274,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 58.83758683488393,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 66.49522998629749,
+        "p_prueba": 1.1415525114155251e-05
+      },
+      {
+        "frecuencia_hz": 88.75081375514004,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 58.76552648755056,
+        "p_prueba": 1.1415525114155251e-05
+      },
+      {
+        "frecuencia_hz": 147.53895723974256,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 41.3640453468747,
+        "p_prueba": 1.1415525114155251e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 275,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 58.112417697423176,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.37595680582267,
+        "p_prueba": 1.2919896640826873e-05
+      },
+      {
+        "frecuencia_hz": 87.71250339923033,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 47.7222922569195,
+        "p_prueba": 1.2919896640826873e-05
+      },
+      {
+        "frecuencia_hz": 145.80843997989305,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.311245880034235,
+        "p_prueba": 1.2919896640826873e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 276,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 57.45317302700431,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 54.440633949367275,
+        "p_prueba": 1.2626262626262626e-05
+      },
+      {
+        "frecuencia_hz": 86.36105182487165,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 43.97940680374957,
+        "p_prueba": 1.2626262626262626e-05
+      },
+      {
+        "frecuencia_hz": 144.17680942060633,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.14059568097872,
+        "p_prueba": 1.2626262626262626e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 277,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 56.74765614683745,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.91874483143866,
+        "p_prueba": 1.2254901960784313e-05
+      },
+      {
+        "frecuencia_hz": 28.720454245345305,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 51.96338650861079,
+        "p_prueba": 1.2254901960784313e-05
+      },
+      {
+        "frecuencia_hz": 85.61666446586558,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 42.97210087537471,
+        "p_prueba": 1.2254901960784313e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 270,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.51274263832035,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 61.356422252265844,
+        "p_prueba": 3.7037037037037037e-05
+      },
+      {
+        "frecuencia_hz": 59.553677538624065,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 50.25157282270801,
+        "p_prueba": 3.7037037037037037e-05
+      },
+      {
+        "frecuencia_hz": 89.72666050442362,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 48.130327559212084,
+        "p_prueba": 3.7037037037037037e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 271,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.18262247458075,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 61.02614638356218,
+        "p_prueba": 1.5151515151515151e-05
+      },
+      {
+        "frecuencia_hz": 146.37528060213918,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 50.99316405218825,
+        "p_prueba": 1.5151515151515151e-05
+      },
+      {
+        "frecuencia_hz": 58.579823055592236,
+        "nodo": [
+          2,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.36369890934242,
+        "p_prueba": 1.5151515151515151e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 272,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.830258546584673,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 49.36170385508399,
+        "p_prueba": 3.7037037037037037e-05
+      },
+      {
+        "frecuencia_hz": 146.3995239039873,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.283660774673194,
+        "p_prueba": 3.7037037037037037e-05
+      },
+      {
+        "frecuencia_hz": 58.12338821662369,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 41.8088193020201,
+        "p_prueba": 3.7037037037037037e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 273,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.489370130727583,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.05645276192605,
+        "p_prueba": 3.8314176245210727e-05
+      },
+      {
+        "frecuencia_hz": 57.193318367885915,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.75641786015124,
+        "p_prueba": 3.8314176245210727e-05
+      },
+      {
+        "frecuencia_hz": 85.46811039218275,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 43.71051612406113,
+        "p_prueba": 3.8314176245210727e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 302,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 30.05744090849069,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 45.38102106580076,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 60.11488181698138,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 36.254897759681036,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 29.41370658919847,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.321808162516234,
+        "p_prueba": 3.663003663003663e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 305,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 87.73060900614958,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 12.245890945243167,
+        "p_prueba": 1.1574074074074073e-05
+      },
+      {
+        "frecuencia_hz": 30.71480526350592,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 11.040420504291573,
+        "p_prueba": 1.1574074074074073e-05
+      },
+      {
+        "frecuencia_hz": 29.260067446935135,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 10.91860913266298,
+        "p_prueba": 1.1574074074074073e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 306,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.674906957829098,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 21.865993588768564,
+        "p_prueba": 1.2437810945273631e-05
+      },
+      {
+        "frecuencia_hz": 58.265348877332215,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2
+        ],
+        "score": 15.04062483417424,
+        "p_prueba": 1.2437810945273631e-05
+      },
+      {
+        "frecuencia_hz": 19.42178295911074,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 10.418230512837658,
+        "p_prueba": 1.2437810945273631e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 307,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 38.673577182094284,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 6.325745259425478,
+        "p_prueba": 4.219409282700422e-05
+      },
+      {
+        "frecuencia_hz": 14.409745147233593,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 21.941530411235842,
+        "p_prueba": 4.219409282700422e-05
+      },
+      {
+        "frecuencia_hz": 28.819490294467187,
+        "nodo": [
+          4,
+          5
+        ],
+        "armonicas": [
+          2,
+          3
+        ],
+        "score": 17.437981734426586,
+        "p_prueba": 4.219409282700422e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        5
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 298,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 60.851021622693914,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.7269038663465,
+        "p_prueba": 3.787878787878788e-05
+      },
+      {
+        "frecuencia_hz": 30.251934140051578,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 24.127547499125725,
+        "p_prueba": 3.787878787878788e-05
+      },
+      {
+        "frecuencia_hz": 91.84685578258282,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 17.10628864200729,
+        "p_prueba": 3.787878787878788e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 299,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 60.16439984154233,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.522241607270978,
+        "p_prueba": 1.0964912280701755e-05
+      },
+      {
+        "frecuencia_hz": 30.139970949425592,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 28.568510423141234,
+        "p_prueba": 1.0964912280701755e-05
+      },
+      {
+        "frecuencia_hz": 88.76931202957877,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 25.445275065554394,
+        "p_prueba": 1.0964912280701755e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 300,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.236599891716295,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.840700696321363,
+        "p_prueba": 1.0683760683760684e-05
+      },
+      {
+        "frecuencia_hz": 68.21873308067136,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 9.888810322789185,
+        "p_prueba": 1.0683760683760684e-05
+      },
+      {
+        "frecuencia_hz": 115.86356253383865,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 5.572221451999024,
+        "p_prueba": 1.0683760683760684e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 301,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 28.85334253485487,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.69254673091594,
+        "p_prueba": 1.0101010101010101e-05
+      },
+      {
+        "frecuencia_hz": 181.30283686195253,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 15.855092081564505,
+        "p_prueba": 1.0101010101010101e-05
+      },
+      {
+        "frecuencia_hz": 119.98126833115619,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 11.271013645771626,
+        "p_prueba": 1.0101010101010101e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 294,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 91.8064175359831,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 64.43086223447821,
+        "p_prueba": 1.65016501650165e-05
+      },
+      {
+        "frecuencia_hz": 61.006206259078304,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 59.60577335868054,
+        "p_prueba": 1.65016501650165e-05
+      },
+      {
+        "frecuencia_hz": 183.6128350719662,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 43.8773889616175,
+        "p_prueba": 1.65016501650165e-05
+      }
+    ],
+    "bandas": [
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 295,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 90.73929320771794,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 66.55686950730441,
+        "p_prueba": 1.3227513227513228e-05
+      },
+      {
+        "frecuencia_hz": 60.180195005553955,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 60.16434576067843,
+        "p_prueba": 1.3227513227513228e-05
+      },
+      {
+        "frecuencia_hz": 30.11478175011314,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 50.80892245406273,
+        "p_prueba": 1.3227513227513228e-05
+      }
+    ],
+    "bandas": [
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        12
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 296,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 89.72666050442362,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 64.9156375037645,
+        "p_prueba": 1.3333333333333333e-05
+      },
+      {
+        "frecuencia_hz": 59.47114749768916,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 63.9442543595281,
+        "p_prueba": 1.3333333333333333e-05
+      },
+      {
+        "frecuencia_hz": 60.907170209956426,
+        "nodo": [
+          1,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 42.95324458585118,
+        "p_prueba": 1.3333333333333333e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        12
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 297,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 58.719299109120435,
+        "nodo": [
+          4,
+          12
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.86438106424502,
+        "p_prueba": 3.745318352059925e-05
+      },
+      {
+        "frecuencia_hz": 88.54653738248757,
+        "nodo": [
+          4,
+          12
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 35.46833326405283,
+        "p_prueba": 3.745318352059925e-05
+      },
+      {
+        "frecuencia_hz": 29.53191908254171,
+        "nodo": [
+          4,
+          12
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.954179900911384,
+        "p_prueba": 3.745318352059925e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        12
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 309,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 89.92473260266736,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 67.62716697784226,
+        "p_prueba": 1.388888888888889e-05
+      },
+      {
+        "frecuencia_hz": 60.06536379242044,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.94683218124736,
+        "p_prueba": 1.388888888888889e-05
+      },
+      {
+        "frecuencia_hz": 271.65588274131784,
+        "nodo": [
+          0,
+          0
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.327449260559675,
+        "p_prueba": 1.388888888888889e-05
+      }
+    ],
+    "bandas": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 310,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 91.69375077138272,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 63.16841086505731,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 60.82198543629407,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 45.10284475882579,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 185.3293289998766,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 40.748437732131634,
+        "p_prueba": 3.663003663003663e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 311,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 89.46637571910335,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 67.7374564128411,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 59.31362824836342,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.91626090881272,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 178.83356476889506,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 49.975328536369986,
+        "p_prueba": 3.663003663003663e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 312,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 88.2265423527078,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 66.2978600503525,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 58.52013489387027,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 61.398137718964755,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 29.39231633935066,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 37.352400419909756,
+        "p_prueba": 3.663003663003663e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 313,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 91.68154466706342,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 84.85733569897596,
+        "p_prueba": 3.745318352059925e-05
+      },
+      {
+        "frecuencia_hz": 60.80142828803809,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 76.92446181159468,
+        "p_prueba": 3.745318352059925e-05
+      },
+      {
+        "frecuencia_hz": 30.54949414798651,
+        "nodo": [
+          3,
+          4
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 53.97454136840255,
+        "p_prueba": 3.745318352059925e-05
+      }
+    ],
+    "bandas": [
+      [
+        3,
+        4
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 316,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 90.60082741238797,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 55.01493962124475,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 60.09103194408749,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 51.12278371173677,
+        "p_prueba": 1.2820512820512822e-05
+      },
+      {
+        "frecuencia_hz": 181.8317484268387,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 45.61343751358328,
+        "p_prueba": 1.2820512820512822e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 317,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 89.44012867174611,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 44.93070036327097,
+        "p_prueba": 1.1261261261261261e-05
+      },
+      {
+        "frecuencia_hz": 60.29000887105467,
+        "nodo": [
+          4,
+          7
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.829990208458547,
+        "p_prueba": 1.1261261261261261e-05
+      },
+      {
+        "frecuencia_hz": 179.54351376671616,
+        "nodo": [
+          2,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 31.43139925971704,
+        "p_prueba": 1.1261261261261261e-05
+      }
+    ],
+    "bandas": [
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        7
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 318,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 88.17397466852354,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 54.29956212254327,
+        "p_prueba": 1.3123359580052494e-05
+      },
+      {
+        "frecuencia_hz": 58.491483382914026,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 38.256296787156835,
+        "p_prueba": 1.3123359580052494e-05
+      },
+      {
+        "frecuencia_hz": 178.1938344142199,
+        "nodo": [
+          4,
+          14
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 24.71383518161634,
+        "p_prueba": 1.3123359580052494e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        14
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 315,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 60.58847426150543,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 81.51506203436932,
+        "p_prueba": 1.2077294685990338e-05
+      },
+      {
+        "frecuencia_hz": 91.3801537096761,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 76.0878503565115,
+        "p_prueba": 1.2077294685990338e-05
+      },
+      {
+        "frecuencia_hz": 30.343981362494507,
+        "nodo": [
+          3,
+          3
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 68.82651028596834,
+        "p_prueba": 1.2077294685990338e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 97,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 29.778058359091247,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 26.423821659445544,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 59.88406890275399,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 19.92740130943502,
+        "p_prueba": 3.663003663003663e-05
+      },
+      {
+        "frecuencia_hz": 120.81758479613673,
+        "nodo": [
+          4,
+          13
+        ],
+        "armonicas": [
+          1,
+          3
+        ],
+        "score": 13.219922061263166,
+        "p_prueba": 3.663003663003663e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        13
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 98,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 118.93292664025643,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.324041783217965,
+        "p_prueba": 1.02880658436214e-05
+      },
+      {
+        "frecuencia_hz": 58.92089943645731,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.89549037054468,
+        "p_prueba": 1.02880658436214e-05
+      },
+      {
+        "frecuencia_hz": 468.2426023397251,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 4.795366349186658,
+        "p_prueba": 1.02880658436214e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 98,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 118.93292664025643,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 56.324041783217965,
+        "p_prueba": 1.02880658436214e-05
+      },
+      {
+        "frecuencia_hz": 58.92089943645731,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 39.89549037054468,
+        "p_prueba": 1.02880658436214e-05
+      },
+      {
+        "frecuencia_hz": 468.2426023397251,
+        "nodo": [
+          3,
+          1
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 4.795366349186658,
+        "p_prueba": 1.02880658436214e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "L": 4
+  },
+  {
+    "registro": 100,
+    "estado": "periodicidad_detectada",
+    "candidatos": [
+      {
+        "frecuencia_hz": 113.66374064899524,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 46.46382839275886,
+        "p_prueba": 1.0893246187363835e-05
+      },
+      {
+        "frecuencia_hz": 56.48593720078329,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 29.78797034309741,
+        "p_prueba": 1.0893246187363835e-05
+      },
+      {
+        "frecuencia_hz": 28.514773197595765,
+        "nodo": [
+          4,
+          2
+        ],
+        "armonicas": [
+          1,
+          2,
+          3
+        ],
+        "score": 10.86236821720405,
+        "p_prueba": 1.0893246187363835e-05
+      }
+    ],
+    "bandas": [
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        2
+      ]
+    ],
+    "L": 4
+  }
+]

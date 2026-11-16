@@ -1,0 +1,8 @@
+{
+  "modelo_sha256": "75d7ef5443b7861740499592c22ce09a06c51e47d31cf1bd7da4768c2537df56",
+  "meta_casos": 95,
+  "total": 105,
+  "ajuste_con_reserva": false,
+  "p_calidad": 0.01,
+  "correccion": "bandas x 5 familias x 3 arm\u00f3nicas"
+}

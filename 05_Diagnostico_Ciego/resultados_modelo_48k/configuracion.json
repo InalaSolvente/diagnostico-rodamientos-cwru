@@ -1,0 +1,53 @@
+{
+  "semilla": 2026,
+  "fs": 48000,
+  "L": 6,
+  "ancho_final": 375,
+  "nodos": 31,
+  "rango_hz": [
+    0,
+    6000
+  ],
+  "modelo": "StandardScaler + LDA(lsqr, shrinkage=auto)",
+  "parametros_elegidos_con_resultado": false,
+  "desarrollo": [
+    "48k_DE/B007_1.mat",
+    "48k_DE/B007_3.mat",
+    "48k_DE/B014_0.mat",
+    "48k_DE/B014_1.mat",
+    "48k_DE/B021_0.mat",
+    "48k_DE/B021_1.mat",
+    "48k_DE/IR007_1.mat",
+    "48k_DE/IR007_2.mat",
+    "48k_DE/IR014_1.mat",
+    "48k_DE/IR014_3.mat",
+    "48k_DE/IR021_0.mat",
+    "48k_DE/IR021_3.mat",
+    "Normal/Normal_0.mat",
+    "Normal/Normal_2.mat"
+  ],
+  "reserva_no_ejecutada": [
+    "48k_DE/B007_0.mat",
+    "48k_DE/B007_2.mat",
+    "48k_DE/B014_2.mat",
+    "48k_DE/B014_3.mat",
+    "48k_DE/B021_2.mat",
+    "48k_DE/B021_3.mat",
+    "48k_DE/IR007_0.mat",
+    "48k_DE/IR007_3.mat",
+    "48k_DE/IR014_0.mat",
+    "48k_DE/IR014_2.mat",
+    "48k_DE/IR021_1.mat",
+    "48k_DE/IR021_2.mat",
+    "Normal/Normal_1.mat",
+    "Normal/Normal_3.mat"
+  ],
+  "clases": [
+    "B",
+    "IR",
+    "N"
+  ],
+  "validacion": "excluir condici\u00f3n de falla completa; normales solo entrenamiento, sin m\u00e9trica OOF",
+  "aciertos_oof": 10,
+  "total_oof": 12
+}

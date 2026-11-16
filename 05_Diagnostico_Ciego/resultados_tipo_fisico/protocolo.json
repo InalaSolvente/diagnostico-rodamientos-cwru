@@ -1,0 +1,8 @@
+{
+  "version": "tipo_fisico45_lr_v1",
+  "clasificador": "StandardScaler + LogisticRegression(C=1, balanced)",
+  "datos": "45 interacciones físicas; cuatro ventanas/reg.; catálogo completo sin defecto real esperado",
+  "parametros": "fijos, sin búsqueda de C ni referencia del paper",
+  "codigo_sha256": "53cecfbab9d64105f7dbc38d9db5bafa2744b08874ee0b39151bc7b2238e303c",
+  "rasgos_sha256": "88e71e903552cdd5b3ba2e7aae1eeacf992d6dd4cb0a950c9c2c49819cddbfef"
+}

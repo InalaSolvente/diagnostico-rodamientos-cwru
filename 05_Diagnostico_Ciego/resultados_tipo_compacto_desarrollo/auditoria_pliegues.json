@@ -1,0 +1,2671 @@
+[
+  {
+    "grupo_exterior": "B007",
+    "train": [
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_FE/B007_1.mat"
+    ],
+    "modelo_elegido": "logistica",
+    "scores_internos": {
+      "logistica": 0.7319444444444445,
+      "lda_120": 0.6892361111111112,
+      "ridge": 0.6986111111111111
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR028",
+          "OR007@12",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B014",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR007",
+          "OR007@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "IR021",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR014",
+          "OR007@3",
+          "OR021@12",
+          "OR021@6"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "B014",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat"
+    ],
+    "modelo_elegido": "logistica",
+    "scores_internos": {
+      "logistica": 0.6790674603174603,
+      "lda_120": 0.6612103174603176,
+      "ridge": 0.6374007936507936
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR021",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR007",
+          "OR021@12",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "B028",
+          "IR028",
+          "OR007@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR014",
+          "OR007@12",
+          "OR014@6"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "B021",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_FE/B021_2.mat"
+    ],
+    "modelo_elegido": "ridge",
+    "scores_internos": {
+      "logistica": 0.7464285714285714,
+      "lda_120": 0.7547619047619049,
+      "ridge": 0.7587301587301587
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR021",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B014",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR007",
+          "OR007@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR021",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR014",
+          "IR028",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "B028",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/B028_0.mat"
+    ],
+    "modelo_elegido": "lda_120",
+    "scores_internos": {
+      "logistica": 0.631795634920635,
+      "lda_120": 0.641170634920635,
+      "ridge": 0.5858134920634921
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR028",
+          "OR007@12",
+          "OR021@3",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR007",
+          "OR007@6",
+          "OR021@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "B014",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR007",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR014",
+          "IR021",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR007",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat"
+    ],
+    "modelo_elegido": "lda_120",
+    "scores_internos": {
+      "logistica": 0.5702380952380952,
+      "lda_120": 0.6308035714285714,
+      "ridge": 0.6047619047619047
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR021",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "B028",
+          "IR028",
+          "OR007@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "B014",
+          "OR007@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR014",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR014",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/IR014_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat"
+    ],
+    "modelo_elegido": "ridge",
+    "scores_internos": {
+      "logistica": 0.692063492063492,
+      "lda_120": 0.6976190476190476,
+      "ridge": 0.7670634920634921
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR021",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR007",
+          "OR007@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR021",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "B028",
+          "IR028",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR021",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/IR021_1.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat"
+    ],
+    "modelo_elegido": "ridge",
+    "scores_internos": {
+      "logistica": 0.5620535714285715,
+      "lda_120": 0.5546130952380952,
+      "ridge": 0.5880952380952381
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "B028",
+          "IR028",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR007",
+          "IR014",
+          "OR007@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "OR007@12",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "OR007@3",
+          "OR021@12",
+          "OR021@6"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "IR028",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat"
+    ],
+    "modelo_elegido": "logistica",
+    "scores_internos": {
+      "logistica": 0.7090544871794872,
+      "lda_120": 0.6774038461538461,
+      "ridge": 0.6774038461538461
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "OR007@12",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR007",
+          "IR014",
+          "OR007@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "B014",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR021",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR007@12",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_FE/OR007@12_3.mat"
+    ],
+    "modelo_elegido": "ridge",
+    "scores_internos": {
+      "logistica": 0.6822916666666666,
+      "lda_120": 0.6614583333333333,
+      "ridge": 0.7166666666666667
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "B028",
+          "IR028",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR007",
+          "IR014",
+          "OR007@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "IR021",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "OR007@3",
+          "OR021@12",
+          "OR021@6"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR007@3",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat"
+    ],
+    "modelo_elegido": "logistica",
+    "scores_internos": {
+      "logistica": 0.6805555555555555,
+      "lda_120": 0.6527777777777777,
+      "ridge": 0.6319444444444444
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR021",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR007",
+          "OR021@12",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "B028",
+          "IR028",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR014",
+          "OR007@12"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR007@6",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR007@6_3.mat",
+      "12k_FE/OR007@6_3.mat"
+    ],
+    "modelo_elegido": "ridge",
+    "scores_internos": {
+      "logistica": 0.6637896825396825,
+      "lda_120": 0.6792658730158729,
+      "ridge": 0.7249007936507936
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR028",
+          "OR021@12",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR007",
+          "IR014",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "OR007@12",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR021",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR014@6",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_FE/OR014@6_0.mat"
+    ],
+    "modelo_elegido": "lda_120",
+    "scores_internos": {
+      "logistica": 0.726388888888889,
+      "lda_120": 0.7597222222222223,
+      "ridge": 0.7597222222222222
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR021",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR007",
+          "OR007@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "IR014",
+          "OR021@12",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "B028",
+          "IR028",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR021@12",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR021@12_0.mat"
+    ],
+    "modelo_elegido": "ridge",
+    "scores_internos": {
+      "logistica": 0.6658730158730158,
+      "lda_120": 0.6896825396825397,
+      "ridge": 0.7561507936507936
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR028",
+          "OR007@6",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR007",
+          "IR014",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "OR007@12",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR021",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR021@3",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat"
+    ],
+    "modelo_elegido": "logistica",
+    "scores_internos": {
+      "logistica": 0.6081123737373737,
+      "lda_120": 0.5160984848484849,
+      "ridge": 0.4240845959595959
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR014",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "OR007@3",
+          "OR007@6",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "B014",
+          "OR007@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR014",
+          "OR021@12",
+          "OR021@6"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "OR021@6",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "Normal/Normal_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/OR021@6_0.mat"
+    ],
+    "modelo_elegido": "lda_120",
+    "scores_internos": {
+      "logistica": 0.6637896825396825,
+      "lda_120": 0.6971230158730158,
+      "ridge": 0.6617063492063491
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "IR028",
+          "OR021@12",
+          "OR021@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B028",
+          "IR007",
+          "IR014",
+          "OR007@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR021@12",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "OR007@12",
+          "OR014@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "IR021",
+          "OR007@3"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_0.mat"
+    ],
+    "test": [
+      "Normal/Normal_2.mat"
+    ],
+    "modelo_elegido": "lda_120",
+    "scores_internos": {
+      "logistica": 0.6461805555555555,
+      "lda_120": 0.6628472222222223,
+      "ridge": 0.6442866161616162
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B007",
+          "OR007@6",
+          "OR021@3",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "OR021@6",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "IR007",
+          "IR028",
+          "OR014@6",
+          "OR021@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B021",
+          "B028",
+          "IR021",
+          "OR007@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88"
+        ],
+        "grupos_test": [
+          "B014",
+          "IR014",
+          "OR007@12"
+        ]
+      }
+    ]
+  },
+  {
+    "grupo_exterior": "normal:fdc4cfa19e86507a1abf26e07a60b7d0576faed9d21bbf0df070df3e97623b88",
+    "train": [
+      "12k_DE/B007_1.mat",
+      "12k_DE/B007_3.mat",
+      "12k_DE/B014_1.mat",
+      "12k_DE/B014_2.mat",
+      "12k_DE/B021_0.mat",
+      "12k_DE/B021_1.mat",
+      "12k_DE/B021_3.mat",
+      "12k_DE/B028_0.mat",
+      "12k_DE/IR007_0.mat",
+      "12k_DE/IR007_1.mat",
+      "12k_DE/IR007_2.mat",
+      "12k_DE/IR007_3.mat",
+      "12k_DE/IR014_1.mat",
+      "12k_DE/IR021_1.mat",
+      "12k_DE/IR028_1.mat",
+      "12k_DE/IR028_2.mat",
+      "12k_DE/OR007@12_0.mat",
+      "12k_DE/OR007@12_3.mat",
+      "12k_DE/OR007@3_0.mat",
+      "12k_DE/OR007@3_2.mat",
+      "12k_DE/OR007@6_3.mat",
+      "12k_DE/OR014@6_0.mat",
+      "12k_DE/OR014@6_1.mat",
+      "12k_DE/OR014@6_3.mat",
+      "12k_DE/OR021@12_0.mat",
+      "12k_DE/OR021@3_0.mat",
+      "12k_DE/OR021@3_1.mat",
+      "12k_DE/OR021@3_2.mat",
+      "12k_DE/OR021@3_3.mat",
+      "12k_DE/OR021@6_2.mat",
+      "12k_FE/B007_1.mat",
+      "12k_FE/B014_0.mat",
+      "12k_FE/B014_2.mat",
+      "12k_FE/B014_3.mat",
+      "12k_FE/B021_2.mat",
+      "12k_FE/IR007_0.mat",
+      "12k_FE/IR007_1.mat",
+      "12k_FE/IR014_0.mat",
+      "12k_FE/IR014_1.mat",
+      "12k_FE/IR014_3.mat",
+      "12k_FE/IR021_0.mat",
+      "12k_FE/IR021_3.mat",
+      "12k_FE/OR007@12_3.mat",
+      "12k_FE/OR007@3_0.mat",
+      "12k_FE/OR007@3_1.mat",
+      "12k_FE/OR007@3_3.mat",
+      "12k_FE/OR007@6_3.mat",
+      "12k_FE/OR014@6_0.mat",
+      "12k_FE/OR021@3_1.mat",
+      "12k_FE/OR021@3_2.mat",
+      "12k_FE/OR021@3_3.mat",
+      "12k_FE/OR021@6_0.mat",
+      "Normal/Normal_2.mat"
+    ],
+    "test": [
+      "Normal/Normal_0.mat"
+    ],
+    "modelo_elegido": "logistica",
+    "scores_internos": {
+      "logistica": 0.6711805555555556,
+      "lda_120": 0.6586805555555556,
+      "ridge": 0.6109532828282829
+    },
+    "validaciones_internas": [
+      {
+        "grupos_train": [
+          "B014",
+          "B021",
+          "B028",
+          "IR007",
+          "IR014",
+          "IR021",
+          "IR028",
+          "OR007@12",
+          "OR007@3",
+          "OR014@6",
+          "OR021@12",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d"
+        ],
+        "grupos_test": [
+          "B007",
+          "OR007@6",
+          "OR021@3",
+          "OR021@6"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "B021",
+          "B028",
+          "IR014",
+          "IR021",
+          "OR007@12",
+          "OR007@3",
+          "OR007@6",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d"
+        ],
+        "grupos_test": [
+          "IR007",
+          "IR028",
+          "OR014@6",
+          "OR021@12"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B014",
+          "IR007",
+          "IR014",
+          "IR028",
+          "OR007@12",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d"
+        ],
+        "grupos_test": [
+          "B021",
+          "B028",
+          "IR021",
+          "OR007@3"
+        ]
+      },
+      {
+        "grupos_train": [
+          "B007",
+          "B021",
+          "B028",
+          "IR007",
+          "IR021",
+          "IR028",
+          "OR007@3",
+          "OR007@6",
+          "OR014@6",
+          "OR021@12",
+          "OR021@3",
+          "OR021@6",
+          "normal:c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d"
+        ],
+        "grupos_test": [
+          "B014",
+          "IR014",
+          "OR007@12"
+        ]
+      }
+    ]
+  }
+]

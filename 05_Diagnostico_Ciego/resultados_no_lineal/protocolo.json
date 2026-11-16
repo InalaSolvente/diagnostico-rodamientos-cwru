@@ -1,0 +1,13 @@
+{
+  "version": "no_lineal_anidado_v1",
+  "candidatos": [
+    "svm",
+    "arboles"
+  ],
+  "seleccion": "4 pliegues internos por condición, exactitud equilibrada de tipo en fallas",
+  "exterior": "condición completa fuera; cada normal único fuera individualmente",
+  "limitacion": "normales se conservan en ajuste interno: no hay suficientes adquisiciones para seleccionar por especificidad independiente",
+  "referencia_paper_usada_para_elegir": false,
+  "codigo_sha256": "f3e0c8f86a1d5fa35409c3c873616244df15b7e0f69974b978a215f40026b10c",
+  "rasgos_sha256": "88e71e903552cdd5b3ba2e7aae1eeacf992d6dd4cb0a950c9c2c49819cddbfef"
+}

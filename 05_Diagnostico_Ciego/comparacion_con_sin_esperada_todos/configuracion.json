@@ -1,0 +1,20 @@
+{
+  "modelo": "resultados_jerarquico, elegido antes de esta ejecución sobre desarrollo",
+  "hashes": {
+    "resultados_jerarquico\\modelo_tipo.npz": "bc329c4888fa117764b2cac08acae56d1a81407577be275b81d9568eae9622b8",
+    "resultados_por_dominio\\modelo_DE.npz": "fc7a65600342547561cd26640efb36ce049429143b05e76e96847b98d93ba31e",
+    "resultados_por_dominio\\modelo_FE.npz": "9f8fa4fdaf7d8fe91bdf4f7de06aa083887c0c2d2cd95a4af00b8bca034c8bc6",
+    "bandas_estables.py": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+    "criterio_usuario.py": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+    "ventanas_verificadas.py": "3ed208a3597316ba57ecd9d4e6cced6ded8078764004628f88a84e2303ae222e",
+    "modelo_espectral.py": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c"
+  },
+  "reentrenamiento": false,
+  "seleccion_por_resultado_total": false,
+  "protocolos": "OOF por condición en desarrollo; modelo congelado en archivos restantes",
+  "no_externo": true,
+  "normales_oraculo": "no aplica: no existe frecuencia de falla esperada en un normal",
+  "cortas": "se intenta cada registro; menos de 5 s se informa sin diagnóstico, sin excluirlo de los recuentos",
+  "referencia_paper": 105,
+  "total_archivos": 133
+}

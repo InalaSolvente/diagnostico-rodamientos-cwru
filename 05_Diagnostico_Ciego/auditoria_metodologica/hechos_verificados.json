@@ -1,0 +1,69 @@
+{
+  "total": 105,
+  "sin_retroceso_publicado": 99,
+  "tipo_correcto": 98,
+  "sin_retroceso_sin_aciertos_artificiales": 96,
+  "incorrectos_contados": [
+    {
+      "registro": 57,
+      "paper": "ND",
+      "prediccion": "B",
+      "tipo_real": "IR",
+      "grado_emitido": "PD",
+      "grado_evaluable": "ND"
+    },
+    {
+      "registro": 58,
+      "paper": "ND",
+      "prediccion": "B",
+      "tipo_real": "IR",
+      "grado_emitido": "PD",
+      "grado_evaluable": "ND"
+    },
+    {
+      "registro": 200,
+      "paper": "ND",
+      "prediccion": "B",
+      "tipo_real": "OR",
+      "grado_emitido": "D",
+      "grado_evaluable": "ND"
+    }
+  ],
+  "nd_automaticos": 18,
+  "grados_emitidos": {
+    "D": 87,
+    "PD": 18
+  },
+  "reserva_fallas_total": 53,
+  "reserva_fallas_condicion_ya_vista": 49,
+  "reserva_condicion_no_vista": [
+    "12k_FE/OR014@3_0.mat",
+    "12k_FE/OR014@3_1.mat",
+    "12k_FE/OR014@3_2.mat",
+    "12k_FE/OR014@3_3.mat"
+  ],
+  "dimensiones_arbol": 1953,
+  "senales_entrenamiento": 54,
+  "condiciones_desarrollo": 16,
+  "clases_normal_fold": [
+    "B",
+    "IR",
+    "OR"
+  ],
+  "protocolos": {
+    "desarrollo_oof": {
+      "total": 52,
+      "tipo_correcto": 45,
+      "sin_retroceso": 47
+    },
+    "reserva_congelado": {
+      "total": 53,
+      "tipo_correcto": 53,
+      "sin_retroceso": 52
+    }
+  },
+  "rasgos_recalculados": 54,
+  "max_error_rasgos": 0.0,
+  "pesos_reproducidos_desde_desarrollo": true,
+  "modelo_sha256": "75d7ef5443b7861740499592c22ce09a06c51e47d31cf1bd7da4768c2537df56"
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "archivo": "01_MFD_Kurtogram_Tarea1\\Fuentes.py",
+    "sha256_antes": "3bc4223abfe9f2f657ce0f6e7d70337ff6d0546c989144ff14f11e030a9f41c7",
+    "sha256_despues": "f1d04e2fb2945219d682a68deb3619f8552fa312c57d1d36d9ff35419ddc178d"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\auditar_metodo.py",
+    "sha256_antes": "0aeeddcd99a03c89403383f81e7a7a2fd114471521bdb536c75fa30edc7c7b5b",
+    "sha256_despues": "54758f57fe29f614626697bc01741feb827fc3b29fd2fee4c845a7c902ea482d"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\auditar_modelos_actuales.py",
+    "sha256_antes": "aec267a556e231bab87445e478a04617f67362b586737aa02878ddc55c42b352",
+    "sha256_despues": "d0c02715477fcbf7877e34738a5bbf0e8791cb79532b273d8e8a9879fb5507a8"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\comparar_estrategias.py",
+    "sha256_antes": "84817611d71bf5065ed8580054d53d83da1123ea45a7a9658870f7bc88aeebca",
+    "sha256_despues": "a56b02ea6a4b5e2758e8eaa2a39ea907d15c4c5d098f06b359e2495380559152"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\ensayar_bandas_estables.py",
+    "sha256_antes": "c1bd5a7272c5c532a998d0acadc1f0e47b2fe17b19d921279542a58218191ff8",
+    "sha256_despues": "ebb81651a40629d9d2a9766ea5060ea58728ff3bb497e99316bde94a3f81f2eb"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\ensayar_espectral.py",
+    "sha256_antes": "b740dd564e90416a8f67419fc70fbebad8506f0cc7dc80d995f5168f55cd3f1c",
+    "sha256_despues": "2ac3023b786f4dba8be5b9705b9b0c9a874999539b5e634f83233d3d402b7abe"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\ensayar_L_alineado.py",
+    "sha256_antes": "6d019f499eaa60f10ef8f5f2c83251dd87fd4cdf5d289cd31ffede614d44b3d2",
+    "sha256_despues": "7f134f3c161c5395bb417022d73d7412ef3b95d3b22b7fa7a2ec6b0f4806ee3f"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\ensayar_tipo_seleccion.py",
+    "sha256_antes": "2939afefce992dceed9c736c577b7f82c6d0218bd6f39510ba1fe3da6bf1b378",
+    "sha256_despues": "ee4e755aa1d845449bd0d544595e3e24f139f2bd7dbb836f14a5d0a48d820152"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\entrenar_48k.py",
+    "sha256_antes": "643b40b7330d9dc3f6fc83dcaf081ae9a13f6b7e602403abbc0984eef9d519f1",
+    "sha256_despues": "ed0df18f052e19b35fb793dcdd0d1e0af2f8ea8b955e110f8520ee19fd5e8f30"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\evaluar_candidato_desarrollo.py",
+    "sha256_antes": "3c24dd3f30cd67b2c635fb6915f16b075e2ed3d76fa0c5674e6472c250dd4025",
+    "sha256_despues": "21d096d9f0f92ca1d2ad8562089fa5bc07850a029aaaa82c28a9a60bb5f7e0da"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\evaluar_catalogo.py",
+    "sha256_antes": "b0a949993c59b50912cbbea9f2e300714f18c04d57026c6375d7b276b3c0c169",
+    "sha256_despues": "931204f18ad8504d87f7e999fbe7505a9ea013d3135d53690c8ef942b9d120b9"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\evaluar_criterio_usuario.py",
+    "sha256_antes": "25b273a8a56224173583f54d7c0077432d9b098b4466943d3602101e1bdfcef5",
+    "sha256_despues": "b0341aaf0e1a8e0b3a582f165c69ef29d990288780fbaa7ca139a498e60233eb"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\evaluar_modelos_todos.py",
+    "sha256_antes": "12574611a31ab20d73594bf511345e02fdfcda175183d24e5bc29cabff8802db",
+    "sha256_despues": "ab3b9de7176525afd1fbb885d42461330f06959ff67566f8a4f596aa45cfa1a3"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\evaluar_no_retroceso.py",
+    "sha256_antes": "f3ed91952887c2db946a41011aa3b8a7a08d467637a7f1b2658ef614a1da22db",
+    "sha256_despues": "3683a2157455744d771ced0106199cd394194c92fe1bc1c83fd5aa043bbbfe5a"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\evaluar_paper_total.py",
+    "sha256_antes": "3a69ee9c8c3e869faeee34e728e16b68c52d5dbe2f651f0800d61a4abae014bb",
+    "sha256_despues": "07ef6a71b471228c96dddb8aa697cd52bdceb9f07618d3af6ab4a04f945857eb"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\test_mejoras_reales.py",
+    "sha256_antes": "eb0206e99e0cf2ae279cb0f960de864e6dc85fbbcc33cbd593f98cd160ebc7ce",
+    "sha256_despues": "b7876af04d7a3b67138678126193f2bf69122935639edfe1367d6fdcabf7eabe"
+  },
+  {
+    "archivo": "05_Diagnostico_Ciego\\test_predictor_espectral.py",
+    "sha256_antes": "9d46634ae8c196fbd2d70ca767a8ce28076fb148925ff03e976ff28af81c72a4",
+    "sha256_despues": "3648eaefd6b10599c2bc7a8a6a6569273bb679f9261e1a5b8907fb3425c341d2"
+  }
+]

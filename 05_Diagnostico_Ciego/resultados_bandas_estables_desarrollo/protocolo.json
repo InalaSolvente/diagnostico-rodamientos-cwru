@@ -1,0 +1,14 @@
+{
+  "nombre": "bandas_estables_v1",
+  "alcance": "solo 52 fallas de desarrollo 12k",
+  "selecciones": "tipo OOF histórico congelado; banda/familia/representación en primera mitad",
+  "verificaciones": "misma banda/familia/representación en segunda mitad, sin búsqueda adicional",
+  "ranking": "grado de selección, cuartil inferior de márgenes en tres subsegmentos, armónicas",
+  "transformaciones": [
+    "amplitud Hann",
+    "envolvente cuadrada Hann"
+  ],
+  "p": ".01 / (31 bandas x 5 familias x 6 armónicas x 2 representaciones), nominal",
+  "limitacion": "El tipo histórico usó el registro completo; ensayo condicional, no objetivo alcanzado ni validación independiente",
+  "codigo_sha256": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159"
+}

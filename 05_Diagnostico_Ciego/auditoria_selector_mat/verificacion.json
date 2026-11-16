@@ -1,0 +1,7 @@
+{
+  "archivos": 133,
+  "senales_unicas": 133,
+  "ambiguedad_rechazada": true,
+  "particiones_sin_copias": true,
+  "indice": "data2/CWRU/indice_canal_verificado.csv"
+}

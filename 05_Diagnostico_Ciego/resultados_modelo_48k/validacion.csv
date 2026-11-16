@@ -1,0 +1,15 @@
+archivo,grupo,real,prediccion_oof,evaluado,acierto
+48k_DE/B007_1.mat,B007,B,B,True,True
+48k_DE/B007_3.mat,B007,B,B,True,True
+48k_DE/B014_0.mat,B014,B,B,True,True
+48k_DE/B014_1.mat,B014,B,B,True,True
+48k_DE/B021_0.mat,B021,B,B,True,True
+48k_DE/B021_1.mat,B021,B,B,True,True
+48k_DE/IR007_1.mat,IR007,IR,IR,True,True
+48k_DE/IR007_2.mat,IR007,IR,IR,True,True
+48k_DE/IR014_1.mat,IR014,IR,B,True,False
+48k_DE/IR014_3.mat,IR014,IR,B,True,False
+48k_DE/IR021_0.mat,IR021,IR,IR,True,True
+48k_DE/IR021_3.mat,IR021,IR,IR,True,True
+Normal/Normal_0.mat,Normal,N,no_evaluado,False,
+Normal/Normal_2.mat,Normal,N,no_evaluado,False,

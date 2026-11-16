@@ -1,0 +1,13 @@
+{
+  "version": "jerarquico_laterales_v1",
+  "detector": "OOF por sensor, ambos canales del mismo normal excluidos juntos",
+  "tipo": "LDA shrinkage auto entrenado solo con B/IR/OR, condición completa excluida",
+  "entradas": "solo señal, fs y catálogo completo; ninguna etiqueta ni frecuencia esperada en inferencia",
+  "codigo": "985d4a2ec5e944e32397400ae04c22222fa2629bf3d94cb334363de93cdf71a8",
+  "rasgos": "03840cf371a63b79a341ba3a3ae251bb2405db37b230f9b6ded93f6a35c72ee2",
+  "gate": "a0e890c58290a86363b60d4e6f5955cb42e082847e438f6a7d25d12763fc4b22",
+  "bandas": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "criterio": "2f68aa5e6a4331a1c392355cdfc876871047e49cb45c8544c2cfdf619d9930a4",
+  "reserva_abierta_para_elegir": false,
+  "laterales": "5dadd4d90b948c3b48a2fae4c87be192311d06f8aacd61f4a0b0e6f6492f24aa"
+}

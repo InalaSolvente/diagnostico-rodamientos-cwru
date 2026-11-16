@@ -1,0 +1,185 @@
+{
+  "python": "3.13.7",
+  "numpy": "2.3.3",
+  "scipy": "1.16.2",
+  "sklearn": "1.7.2",
+  "modelos_sha256": {
+    "resultados_espectrales_desarrollo\\modelo.npz": "75d7ef5443b7861740499592c22ce09a06c51e47d31cf1bd7da4768c2537df56",
+    "resultados_modelo_48k\\modelo_48k.npz": "0b049c9e838046ce8fdb5e9703227851779379e6179c96ff1698c3cce49dbb5a"
+  },
+  "pesos_no_modificados": true,
+  "total": 133,
+  "evaluables": 131,
+  "tipos_correctos": 121,
+  "duplicados": {
+    "sha256_archivo": [],
+    "sha256_senal": [
+      [
+        "48k_DE/IR021_2.mat",
+        "48k_DE/IR021_3.mat"
+      ],
+      [
+        "Normal/Normal_1.mat",
+        "Normal/Normal_2.mat"
+      ]
+    ]
+  },
+  "rasgos48_recalculados": 14,
+  "error_maximo_rasgos48": 0.0,
+  "pesos48_reproducidos": true,
+  "clases_por_fs": {
+    "12000": {
+      "B": 28,
+      "IR": 28,
+      "N": 0,
+      "OR": 49
+    },
+    "48000": {
+      "B": 12,
+      "IR": 12,
+      "N": 4,
+      "OR": 0
+    }
+  },
+  "api12": "(x, fs, frecuencias_fabricante, *, modelo=WindowsPath('C:/Users/User/OneDrive/Desktop/U/tarea 1 nibaldo/05_Diagnostico_Ciego/resultados_espectrales_desarrollo/modelo.npz'))",
+  "api48": "(x, fs, frecuencias_fabricante, *, modelo=WindowsPath('C:/Users/User/OneDrive/Desktop/U/tarea 1 nibaldo/05_Diagnostico_Ciego/resultados_modelo_48k/modelo_48k.npz'))",
+  "temporal": {
+    "12000": {
+      "total": 105,
+      "grados_originales": {
+        "D": 75,
+        "PD": 30
+      },
+      "grados_conservadores": {
+        "D": 58,
+        "PD": 44,
+        "ND": 3
+      },
+      "degradaciones": 19,
+      "mejoran_tipo_correcto": 22,
+      "iguales_tipo_correcto": 56,
+      "empeoran_tipo_correcto": 20,
+      "tipo_incorrecto": 7,
+      "sin_retroceso_tipo_correcto": 78
+    },
+    "48000": {
+      "total": 24,
+      "grados_originales": {
+        "PD": 13,
+        "D": 10,
+        "ND": 1
+      },
+      "grados_conservadores": {
+        "PD": 14,
+        "D": 8,
+        "ND": 2
+      },
+      "degradaciones": 3
+    }
+  },
+  "aviso_temporal": "Prueba condicional: tipo tomado del registro completo. No es OOF nuevo ni test independiente.",
+  "controles": [
+    {
+      "control": "blanco",
+      "fs": 12000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "blanco",
+      "fs": 48000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "coloreado",
+      "fs": 12000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "coloreado",
+      "fs": 48000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "impulso_aislado",
+      "fs": 12000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "impulso_aislado",
+      "fs": 48000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "modulacion_sin_rodamiento",
+      "fs": 12000,
+      "grado": "ND",
+      "cantidad": 17
+    },
+    {
+      "control": "modulacion_sin_rodamiento",
+      "fs": 12000,
+      "grado": "PD",
+      "cantidad": 1
+    },
+    {
+      "control": "modulacion_sin_rodamiento",
+      "fs": 48000,
+      "grado": "ND",
+      "cantidad": 18
+    },
+    {
+      "control": "normal_real_Normal/Normal_0.mat",
+      "fs": 48000,
+      "grado": "D",
+      "cantidad": 1
+    },
+    {
+      "control": "normal_real_Normal/Normal_0.mat",
+      "fs": 48000,
+      "grado": "PD",
+      "cantidad": 2
+    },
+    {
+      "control": "normal_real_Normal/Normal_1.mat",
+      "fs": 48000,
+      "grado": "D",
+      "cantidad": 1
+    },
+    {
+      "control": "normal_real_Normal/Normal_1.mat",
+      "fs": 48000,
+      "grado": "PD",
+      "cantidad": 2
+    },
+    {
+      "control": "normal_real_Normal/Normal_2.mat",
+      "fs": 48000,
+      "grado": "D",
+      "cantidad": 2
+    },
+    {
+      "control": "normal_real_Normal/Normal_2.mat",
+      "fs": 48000,
+      "grado": "PD",
+      "cantidad": 1
+    },
+    {
+      "control": "normal_real_Normal/Normal_3.mat",
+      "fs": 48000,
+      "grado": "D",
+      "cantidad": 1
+    },
+    {
+      "control": "normal_real_Normal/Normal_3.mat",
+      "fs": 48000,
+      "grado": "PD",
+      "cantidad": 2
+    }
+  ]
+}

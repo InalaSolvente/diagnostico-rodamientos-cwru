@@ -1,0 +1,7 @@
+{
+  "modelo_elegido": "resultados_jerarquico",
+  "criterio_eleccion": "máximo sin retroceso en desarrollo; empate por menos falsas alarmas observadas",
+  "fuente_sha256": "4c40f6f5fda126d7d541666e6427a1f16c8dc326db488fb880075781786c62e6",
+  "recalculados": 10,
+  "advertencia": "Elección exploratoria sobre desarrollo. El oráculo no es un modelo ciego ni una prueba de generalización."
+}

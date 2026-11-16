@@ -1,0 +1,7 @@
+archivo,registro,paper,prediccion,tipo_real,tipo_correcto,grado_emitido,grado_evaluable,sin_retroceso,origen
+12k_DE/B021_0.mat,222,D,OR,B,False,PD,ND,False,desarrollo_oof
+12k_DE/IR014_1.mat,170,D,OR,IR,False,PD,ND,False,desarrollo_oof
+12k_DE/IR014_2.mat,171,D,IR,IR,True,PD,PD,False,reserva_congelado
+12k_DE/OR014@6_0.mat,197,D,B,OR,False,D,ND,False,desarrollo_oof
+12k_DE/OR021@12_0.mat,258,D,OR,OR,True,PD,PD,False,desarrollo_oof
+12k_FE/IR007_1.mat,279,D,OR,IR,False,D,ND,False,desarrollo_oof

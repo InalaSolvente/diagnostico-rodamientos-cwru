@@ -1,0 +1,11 @@
+{
+  "version_datos": "selector_explicito_cwru_v1",
+  "segundos_clasificacion": 2,
+  "fs_features": 12000,
+  "L": 4,
+  "alcance": "52 fallas 12k de desarrollo y dos normales",
+  "codigo_sha256": "ff95170d0b85edd94a8f373d207b29e608904da41f435a4594fe4ff7a5dfd3be",
+  "extractor_sha256": "46a9d8ab1c8177c753ef6812ec9fb1924f16d1461db30d3b548632622063320c",
+  "lector_sha256": "fa64060dd3c79d0ff52ce6326d8e070309ade81e2f03e0ac5d865a028f628b75",
+  "fuente_indice_sha256": "d202b09e98d1413b4a675c8aeb50641a22552678c2f4c36bc38cc7d1caec5349"
+}

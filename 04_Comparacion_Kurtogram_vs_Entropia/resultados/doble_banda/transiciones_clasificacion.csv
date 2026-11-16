@@ -1,0 +1,28 @@
+metodo,antes,ahora,cantidad
+Entropygram: conservar 25%,N,N,10
+Entropygram: conservar 25%,N,P,14
+Entropygram: conservar 25%,N,D,4
+Entropygram: conservar 25%,P,N,0
+Entropygram: conservar 25%,P,P,27
+Entropygram: conservar 25%,P,D,6
+Entropygram: conservar 25%,D,N,1
+Entropygram: conservar 25%,D,P,5
+Entropygram: conservar 25%,D,D,38
+Doble banda sin control,N,N,10
+Doble banda sin control,N,P,14
+Doble banda sin control,N,D,4
+Doble banda sin control,P,N,0
+Doble banda sin control,P,P,27
+Doble banda sin control,P,D,6
+Doble banda sin control,D,N,0
+Doble banda sin control,D,P,0
+Doble banda sin control,D,D,44
+Doble banda con control,N,N,10
+Doble banda con control,N,P,14
+Doble banda con control,N,D,4
+Doble banda con control,P,N,0
+Doble banda con control,P,P,27
+Doble banda con control,P,D,6
+Doble banda con control,D,N,0
+Doble banda con control,D,P,0
+Doble banda con control,D,D,44

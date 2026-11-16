@@ -1,0 +1,8 @@
+{
+  "version": "lda_completo_prefijo_v1",
+  "clasificador": "LDA lsqr shrinkage auto, arbol 1953 rasgos",
+  "entrada": "prefijo 2 s, misma fs/duración y bandas físicas; sin tramo verificador",
+  "seleccion": "receta única; condición completa fuera; cada normal único fuera individualmente",
+  "codigo_sha256": "ac04352a07b0c7202bdaa7736e2f8aebe46c60908a22ee3115054e75772619a8",
+  "rasgos_sha256": "eeb75ee128aa4b2484b4ba182fdbd07ab3ed9db690212f8f47558f60860b16b1"
+}

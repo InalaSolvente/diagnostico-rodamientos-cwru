@@ -1,0 +1,20 @@
+{
+  "modelo_12k_sha256": "75d7ef5443b7861740499592c22ce09a06c51e47d31cf1bd7da4768c2537df56",
+  "modelo_48k_sha256": "0b049c9e838046ce8fdb5e9703227851779379e6179c96ff1698c3cce49dbb5a",
+  "reentrenamiento": false,
+  "copias_reserva_excluidas": {
+    "48k_DE/IR021_2.mat": [
+      "48k_DE/IR021_3.mat"
+    ],
+    "Normal/Normal_1.mat": [
+      "Normal/Normal_2.mat"
+    ]
+  },
+  "H": 6,
+  "tol": 0.02,
+  "p": 0.01,
+  "nodos_48k": 31,
+  "L_48k": 6,
+  "ancho_final": 375,
+  "advertencia": "No confundir aciertos de entrenamiento con validaci\u00f3n. Protocolos distintos, sin validaci\u00f3n externa nueva."
+}

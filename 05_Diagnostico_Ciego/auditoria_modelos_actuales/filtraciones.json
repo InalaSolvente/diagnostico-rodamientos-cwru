@@ -1,0 +1,23 @@
+[
+  {
+    "modelo": "12k",
+    "archivo_prueba": "Normal/Normal_1.mat",
+    "copias_entrenamiento": [
+      "Normal/Normal_2.mat"
+    ]
+  },
+  {
+    "modelo": "48k",
+    "archivo_prueba": "48k_DE/IR021_2.mat",
+    "copias_entrenamiento": [
+      "48k_DE/IR021_3.mat"
+    ]
+  },
+  {
+    "modelo": "48k",
+    "archivo_prueba": "Normal/Normal_1.mat",
+    "copias_entrenamiento": [
+      "Normal/Normal_2.mat"
+    ]
+  }
+]

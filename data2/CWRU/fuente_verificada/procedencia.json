@@ -1,0 +1,26 @@
+[
+  {
+    "archivo_original": "Normal/Normal_2.mat",
+    "archivo_corregido": "fuente_verificada\\99.mat",
+    "registro": 99,
+    "pagina": "https://engineering.case.edu/bearingdatacenter/normal-baseline-data",
+    "url": "https://engineering.case.edu/sites/default/files/99.mat",
+    "url_final": "https://engineering.case.edu/sites/default/files/99.mat",
+    "sha256_mat": "4b97e6b5361f45efb6951dc3b1aebcdb3b89cb69d0f96d6f5c297dd9f45eee75",
+    "sha256_senal": "1b614451075e81856028668cd708cafb01c048e291e63d1cfc944a8d3e8a3a07",
+    "muestras": 485063,
+    "sha256_senal_anterior": "c6849294ba401cf2f6d8126069f67d06ece00273412b555d4ad842638fb42c5d"
+  },
+  {
+    "archivo_original": "48k_DE/IR021_3.mat",
+    "archivo_corregido": "fuente_verificada\\217.mat",
+    "registro": 217,
+    "pagina": "https://engineering.case.edu/bearingdatacenter/48k-drive-end-bearing-fault-data",
+    "url": "https://engineering.case.edu/sites/default/files/217.mat",
+    "url_final": "https://engineering.case.edu/sites/default/files/217.mat",
+    "sha256_mat": "fb5b067c04b4c8449cbdd4ac4e376d7eb0804b9203efcab513e42aaf2f6a2cf7",
+    "sha256_senal": "b98786f2fd2d746e3f52c67bc4e51caaf05b39cf634c25c7f30e5dd25079760b",
+    "muestras": 489125,
+    "sha256_senal_anterior": "73f741f4e4b164fc9f31fbcd1326ae881988250c9c8ea28433a2ccfb549e366d"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "nombre": "tipo_anidado_prefijo_mas_banda_estable_v1",
+  "tipo": "OOF anidado usando exclusivamente primeros 2 s, fs/duración igualadas",
+  "banda": "selección en primera mitad, misma banda/familia/transformación en segunda",
+  "tipos_sha256": "8e7b10a2482b9c9b46f838d2c3761d96474c3d6177c39ddcd8ec16e6c4b2e17f",
+  "bandas_sha256": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "prohibiciones": "sin referencia ni tipo real al predecir; sin elección por resultados de reserva"
+}

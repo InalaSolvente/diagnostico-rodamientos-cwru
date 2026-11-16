@@ -1,0 +1,8 @@
+{
+  "nombre": "tipo_lda_completo_prefijo_mas_banda_estable_v1",
+  "tipo": "OOF con LDA completo fijo, primeros 2 s; sin selección de modelos",
+  "banda": "selección en primera mitad, misma banda/familia/transformación en segunda",
+  "tipos_sha256": "eee9ec74b6c5639682e8124ceb35ff2681abaf3ee0c3f3acdb50f6622f99eef8",
+  "bandas_sha256": "e1cedccb76c9e508d5f8f966c59aaf332c4e6fbc5b700bf0d86bf927f2b42159",
+  "prohibiciones": "sin referencia ni tipo real al predecir; sin elección por resultados de reserva"
+}

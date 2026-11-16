@@ -1,0 +1,5 @@
+estrategia,fallas,top1,top3,top1_pct,top3_pct,alertas_sanos,sanos
+conservador,52,24,37,46.15,71.15,0,2
+sensible,52,25,44,48.08,84.62,2,2
+dominante,52,31,44,59.62,84.62,2,2
+sin_control,52,31,45,59.62,86.54,2,2

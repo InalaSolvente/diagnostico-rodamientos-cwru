@@ -1,0 +1,170 @@
+[
+  {
+    "archivo": "48k_DE/B007_1.mat",
+    "grupo": "B007",
+    "real": "B",
+    "sha256_datos": "a1932ec4bad2460238088ca523fdcec6498e562e91f86255863d3987d9fcd558",
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    }
+  },
+  {
+    "archivo": "48k_DE/B007_3.mat",
+    "grupo": "B007",
+    "real": "B",
+    "sha256_datos": "2607d0c291ed9a6138aed3eed7015e133f1cf866ac5cdf2251921f08d058f362",
+    "catalogo": {
+      "BPFI": 155.32598666666667,
+      "BPFO": 102.82401333333334,
+      "FTF": 11.423998000000001,
+      "BSF": 67.60087999999999
+    }
+  },
+  {
+    "archivo": "48k_DE/B014_0.mat",
+    "grupo": "B014",
+    "real": "B",
+    "sha256_datos": "6fd84310f781e1ab54a9a746b8626c73a863f2b02cea4c86229ca2444cb20a9a",
+    "catalogo": {
+      "BPFI": 162.18523999999996,
+      "BPFO": 107.36475999999999,
+      "FTF": 11.928486,
+      "BSF": 70.58615999999999
+    }
+  },
+  {
+    "archivo": "48k_DE/B014_1.mat",
+    "grupo": "B014",
+    "real": "B",
+    "sha256_datos": "ae5fb00ce1eeefa5e21013197b186c0496f52820bdff00b385c58dfcb64a5b2f",
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    }
+  },
+  {
+    "archivo": "48k_DE/B021_0.mat",
+    "grupo": "B021",
+    "real": "B",
+    "sha256_datos": "fc78f08085760f2e17bcf7efe486b3a278e108093cd184acf278daecad6765e4",
+    "catalogo": {
+      "BPFI": 162.18523999999996,
+      "BPFO": 107.36475999999999,
+      "FTF": 11.928486,
+      "BSF": 70.58615999999999
+    }
+  },
+  {
+    "archivo": "48k_DE/B021_1.mat",
+    "grupo": "B021",
+    "real": "B",
+    "sha256_datos": "c5c7aa64243ecd1428999aae4be29ba5d4de9235fee9731352c6cce7de604675",
+    "catalogo": {
+      "BPFI": 160.10941333333332,
+      "BPFO": 105.99058666666666,
+      "FTF": 11.775812,
+      "BSF": 69.68271999999999
+    }
+  },
+  {
+    "archivo": "48k_DE/IR007_1.mat",
+    "grupo": "IR007",
+    "real": "IR",
+    "sha256_datos": "9e2bc579af6f4e6d9d26bf63b7ed84ecba7775740d56a3737cc8f04f73c22d1a",
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    }
+  },
+  {
+    "archivo": "48k_DE/IR007_2.mat",
+    "grupo": "IR007",
+    "real": "IR",
+    "sha256_datos": "a2e64a397a990efb91ba55252a84796f755bda3eb097c4b47cc0730a08dab309",
+    "catalogo": {
+      "BPFI": 157.76282666666665,
+      "BPFO": 104.43717333333333,
+      "FTF": 11.603224,
+      "BSF": 68.66144
+    }
+  },
+  {
+    "archivo": "48k_DE/IR014_1.mat",
+    "grupo": "IR014",
+    "real": "IR",
+    "sha256_datos": "18302e96425ad163db699da3a2ca63d8f6ef4dfc99172e97ab21a8a77a83ac17",
+    "catalogo": {
+      "BPFI": 159.92890666666665,
+      "BPFO": 105.87109333333333,
+      "FTF": 11.762536,
+      "BSF": 69.60416
+    }
+  },
+  {
+    "archivo": "48k_DE/IR014_3.mat",
+    "grupo": "IR014",
+    "real": "IR",
+    "sha256_datos": "5cffc5aa2b1e5cc65a97ebcfaa369b886ad8db8b8840e0e0095e97b8b9be4c16",
+    "catalogo": {
+      "BPFI": 155.7772533333333,
+      "BPFO": 103.12274666666667,
+      "FTF": 11.457188,
+      "BSF": 67.79727999999999
+    }
+  },
+  {
+    "archivo": "48k_DE/IR021_0.mat",
+    "grupo": "IR021",
+    "real": "IR",
+    "sha256_datos": "6afb81f36a9efcdd370a52166d71c13cb42278c7de22752c81d4b2a22fa133f0",
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    }
+  },
+  {
+    "archivo": "48k_DE/IR021_3.mat",
+    "grupo": "IR021",
+    "real": "IR",
+    "sha256_datos": "fb5b067c04b4c8449cbdd4ac4e376d7eb0804b9203efcab513e42aaf2f6a2cf7",
+    "catalogo": {
+      "BPFI": 158.12384,
+      "BPFO": 104.67616,
+      "FTF": 11.629776,
+      "BSF": 68.81855999999999
+    }
+  },
+  {
+    "archivo": "Normal/Normal_0.mat",
+    "grupo": "Normal",
+    "real": "N",
+    "sha256_datos": "16bf48babcf1c7ac224bc1a81cd9eafdb27e42d5cf559761907e067e8eeadf3c",
+    "catalogo": {
+      "BPFI": 162.09498666666664,
+      "BPFO": 107.30501333333333,
+      "FTF": 11.921848,
+      "BSF": 70.54688
+    }
+  },
+  {
+    "archivo": "Normal/Normal_2.mat",
+    "grupo": "Normal",
+    "real": "N",
+    "sha256_datos": "4b97e6b5361f45efb6951dc3b1aebcdb3b89cb69d0f96d6f5c297dd9f45eee75",
+    "catalogo": {
+      "BPFI": 157.9433333333333,
+      "BPFO": 104.55666666666666,
+      "FTF": 11.6165,
+      "BSF": 68.74
+    }
+  }
+]

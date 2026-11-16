@@ -1,0 +1,3995 @@
+[
+  {
+    "archivo": "48k_DE/B007_0.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        3,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 141.09376,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 143.56518576932976,
+            "potencia": 1.0825780261249897e-05,
+            "fondo": 1.340066729483088e-06,
+            "umbral": 14.772554097955737,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 287.3264988416231,
+            "potencia": 3.282362838147558e-06,
+            "fondo": 4.099568049173393e-07,
+            "umbral": 15.4834007579241,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 418.73179182721185,
+            "potencia": 2.1893061411731417e-06,
+            "fondo": 1.2949072586539592e-07,
+            "umbral": 15.89469675453669,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 554.6480127809625,
+            "potencia": 2.0415474042924326e-07,
+            "fondo": 3.7051905755956344e-08,
+            "umbral": 16.18528157088154,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 716.845292331831,
+            "potencia": 3.8613656521444505e-07,
+            "fondo": 2.348489215795147e-08,
+            "umbral": 16.40319406362414,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 861.5872419189421,
+            "potencia": 7.325903906158256e-07,
+            "fondo": 3.5880445903796967e-08,
+            "umbral": 16.587843903838653,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 1.0825780261249897e-05,
+        "max_izquierda": 0.00016765206359382426,
+        "h_referencia_izquierda": 3,
+        "potencia_referencia_izquierda": 2.1893061411731417e-06,
+        "frecuencia_max_izquierda": 107.67388932699733,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        3,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 141.09376,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 143.56518576932976,
+            "potencia": 1.0825780261249897e-05,
+            "fondo": 1.340066729483088e-06,
+            "umbral": 14.772554097955737,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 287.3264988416231,
+            "potencia": 3.282362838147558e-06,
+            "fondo": 4.099568049173393e-07,
+            "umbral": 15.4834007579241,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 418.73179182721185,
+            "potencia": 2.1893061411731417e-06,
+            "fondo": 1.2949072586539592e-07,
+            "umbral": 15.89469675453669,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 554.6480127809625,
+            "potencia": 2.0415474042924326e-07,
+            "fondo": 3.7051905755956344e-08,
+            "umbral": 16.18528157088154,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 716.845292331831,
+            "potencia": 3.8613656521444505e-07,
+            "fondo": 2.348489215795147e-08,
+            "umbral": 16.40319406362414,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 861.5872419189421,
+            "potencia": 7.325903906158256e-07,
+            "fondo": 3.5880445903796967e-08,
+            "umbral": 16.587843903838653,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 1.0825780261249897e-05,
+        "max_izquierda": 0.00016765206359382426,
+        "h_referencia_izquierda": 3,
+        "potencia_referencia_izquierda": 2.1893061411731417e-06,
+        "frecuencia_max_izquierda": 107.67388932699733,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B007_1.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        5,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 139.20832,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 141.8183608817688,
+            "potencia": 5.374822008163934e-06,
+            "fondo": 5.1758721431351887e-08,
+            "umbral": 15.465701182509028,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 275.8564089096072,
+            "potencia": 3.841012959918349e-06,
+            "fondo": 2.1718902871666312e-08,
+            "umbral": 16.167737262058083,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 418.9550744382253,
+            "potencia": 1.995279006110469e-07,
+            "fondo": 1.1811267919762139e-08,
+            "umbral": 16.576147864443204,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 560.4779804014904,
+            "potencia": 8.137233692957084e-07,
+            "fondo": 8.721764604635821e-09,
+            "umbral": 16.865299436933086,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 704.4630106856196,
+            "potencia": 1.2391613055290125e-08,
+            "fondo": 1.128844002505231e-09,
+            "umbral": 17.082256485770486,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 849.9253155622671,
+            "potencia": 8.896501935897195e-09,
+            "fondo": 3.502441106676173e-10,
+            "umbral": 17.266349519007175,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 5.374822008163934e-06,
+        "max_izquierda": 3.910685387603149e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 5.374822008163934e-06,
+        "frecuencia_max_izquierda": 29.5454918503685,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        5,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 139.20832,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 141.8183608817688,
+            "potencia": 5.374822008163934e-06,
+            "fondo": 5.1758721431351887e-08,
+            "umbral": 15.465701182509028,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 275.8564089096072,
+            "potencia": 3.841012959918349e-06,
+            "fondo": 2.1718902871666312e-08,
+            "umbral": 16.167737262058083,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 418.9550744382253,
+            "potencia": 1.995279006110469e-07,
+            "fondo": 1.1811267919762139e-08,
+            "umbral": 16.576147864443204,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 560.4779804014904,
+            "potencia": 8.137233692957084e-07,
+            "fondo": 8.721764604635821e-09,
+            "umbral": 16.865299436933086,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 704.4630106856196,
+            "potencia": 1.2391613055290125e-08,
+            "fondo": 1.128844002505231e-09,
+            "umbral": 17.082256485770486,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 849.9253155622671,
+            "potencia": 8.896501935897195e-09,
+            "fondo": 3.502441106676173e-10,
+            "umbral": 17.266349519007175,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 5.374822008163934e-06,
+        "max_izquierda": 3.910685387603149e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 5.374822008163934e-06,
+        "frecuencia_max_izquierda": 29.5454918503685,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B007_2.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        3,
+        1
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 68.62216,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.90903936697315,
+            "potencia": 3.992667779824768e-06,
+            "fondo": 3.621823863719001e-07,
+            "umbral": 14.736186460896468,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 139.8180787339463,
+            "potencia": 5.736663662459751e-06,
+            "fondo": 2.886713865565683e-07,
+            "umbral": 15.447682678751924,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 209.52991347647102,
+            "potencia": 1.8040794391730416e-05,
+            "fondo": 2.011998808494669e-07,
+            "umbral": 15.859190068339394,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 273.6214164222151,
+            "potencia": 1.7517375918406018e-06,
+            "fondo": 3.540489520658391e-07,
+            "umbral": 16.149879645515345,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 343.53045578918824,
+            "potencia": 6.557702548082982e-06,
+            "fondo": 2.7037377379836363e-07,
+            "umbral": 16.37482336757685,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 413.63669978060983,
+            "potencia": 3.82757703784836e-06,
+            "fondo": 1.8622619488233204e-07,
+            "umbral": 16.558343240377823,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 3.992667779824768e-06,
+        "max_izquierda": 2.3690602262109736e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 5.736663662459751e-06,
+        "frecuencia_max_izquierda": 104.81425789434762,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        3,
+        1
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 68.62216,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.90903936697315,
+            "potencia": 3.992667779824768e-06,
+            "fondo": 3.621823863719001e-07,
+            "umbral": 14.736186460896468,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 139.8180787339463,
+            "potencia": 5.736663662459751e-06,
+            "fondo": 2.886713865565683e-07,
+            "umbral": 15.447682678751924,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 209.52991347647102,
+            "potencia": 1.8040794391730416e-05,
+            "fondo": 2.011998808494669e-07,
+            "umbral": 15.859190068339394,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 273.6214164222151,
+            "potencia": 1.7517375918406018e-06,
+            "fondo": 3.540489520658391e-07,
+            "umbral": 16.149879645515345,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 343.53045578918824,
+            "potencia": 6.557702548082982e-06,
+            "fondo": 2.7037377379836363e-07,
+            "umbral": 16.37482336757685,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 413.63669978060983,
+            "potencia": 3.82757703784836e-06,
+            "fondo": 1.8622619488233204e-07,
+            "umbral": 16.558343240377823,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 3.992667779824768e-06,
+        "max_izquierda": 2.3690602262109736e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 5.736663662459751e-06,
+        "frecuencia_max_izquierda": 104.81425789434762,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B007_3.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 67.60087999999999,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 68.87390107359609,
+            "potencia": 1.407472590231644e-05,
+            "fondo": 6.605705212057907e-07,
+            "umbral": 14.736186460896468,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 137.64955121841388,
+            "potencia": 2.8203181654617664e-06,
+            "fondo": 5.278878293168633e-07,
+            "umbral": 15.447682678751924,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 206.42520136323165,
+            "potencia": 4.860690146871232e-05,
+            "fondo": 4.0572731755508396e-07,
+            "umbral": 15.859190068339394,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 265.4740095589966,
+            "potencia": 2.2748825752414586e-06,
+            "fondo": 3.0651871537805115e-07,
+            "umbral": 16.140829810435754,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 338.47444964128175,
+            "potencia": 7.623960099454713e-06,
+            "fondo": 3.441500840778675e-07,
+            "umbral": 16.367603119883647,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 412.8504027264633,
+            "potencia": 1.927850545244054e-05,
+            "fondo": 3.866821561367289e-07,
+            "umbral": 16.54629490225188,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 1.407472590231644e-05,
+        "max_izquierda": 4.5217032693220605e-05,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 1.407472590231644e-05,
+        "frecuencia_max_izquierda": 17.193912536204444,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 67.60087999999999,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 68.87390107359609,
+            "potencia": 1.407472590231644e-05,
+            "fondo": 6.605705212057907e-07,
+            "umbral": 14.736186460896468,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 137.64955121841388,
+            "potencia": 2.8203181654617664e-06,
+            "fondo": 5.278878293168633e-07,
+            "umbral": 15.447682678751924,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 206.42520136323165,
+            "potencia": 4.860690146871232e-05,
+            "fondo": 4.0572731755508396e-07,
+            "umbral": 15.859190068339394,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 265.4740095589966,
+            "potencia": 2.2748825752414586e-06,
+            "fondo": 3.0651871537805115e-07,
+            "umbral": 16.140829810435754,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 338.47444964128175,
+            "potencia": 7.623960099454713e-06,
+            "fondo": 3.441500840778675e-07,
+            "umbral": 16.367603119883647,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 412.8504027264633,
+            "potencia": 1.927850545244054e-05,
+            "fondo": 3.866821561367289e-07,
+            "umbral": 16.54629490225188,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 1.407472590231644e-05,
+        "max_izquierda": 4.5217032693220605e-05,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 1.407472590231644e-05,
+        "frecuencia_max_izquierda": 17.193912536204444,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B014_0.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        5,
+        1
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 70.58615999999999,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 71.09084633106693,
+            "potencia": 2.1056522106902474e-08,
+            "fondo": 2.752359447053895e-08,
+            "umbral": 14.079407109409095,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 138.90650461978117,
+            "potencia": 6.711732950821491e-07,
+            "fondo": 2.4338667378436725e-08,
+            "umbral": 14.80764541114586,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 209.8046928307097,
+            "potencia": 1.113943555336866e-06,
+            "fondo": 1.2012326524045631e-08,
+            "umbral": 15.224539151875772,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 283.2074366034374,
+            "potencia": 5.4508797026966684e-08,
+            "fondo": 4.2747115474496785e-08,
+            "umbral": 15.500792499009723,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 359.88536841851766,
+            "potencia": 2.227080160547867e-06,
+            "fondo": 1.0828275029758906e-08,
+            "umbral": 15.730808910564555,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 419.22406942114264,
+            "potencia": 1.3158729800647313e-06,
+            "fondo": 1.0205903428523609e-08,
+            "umbral": 15.917686271340573,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.1056522106902474e-08,
+        "max_izquierda": 5.283662044471302e-06,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 6.711732950821491e-07,
+        "frecuencia_max_izquierda": 0.19265812013839276,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        5,
+        1
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 70.58615999999999,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 71.09084633106693,
+            "potencia": 2.1056522106902474e-08,
+            "fondo": 2.752359447053895e-08,
+            "umbral": 14.079407109409095,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 138.90650461978117,
+            "potencia": 6.711732950821491e-07,
+            "fondo": 2.4338667378436725e-08,
+            "umbral": 14.80764541114586,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 209.8046928307097,
+            "potencia": 1.113943555336866e-06,
+            "fondo": 1.2012326524045631e-08,
+            "umbral": 15.224539151875772,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 283.2074366034374,
+            "potencia": 5.4508797026966684e-08,
+            "fondo": 4.2747115474496785e-08,
+            "umbral": 15.500792499009723,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 359.88536841851766,
+            "potencia": 2.227080160547867e-06,
+            "fondo": 1.0828275029758906e-08,
+            "umbral": 15.730808910564555,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 419.22406942114264,
+            "potencia": 1.3158729800647313e-06,
+            "fondo": 1.0205903428523609e-08,
+            "umbral": 15.917686271340573,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.1056522106902474e-08,
+        "max_izquierda": 5.283662044471302e-06,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 6.711732950821491e-07,
+        "frecuencia_max_izquierda": 0.19265812013839276,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B014_1.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 139.20832,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 141.95926157491198,
+            "potencia": 1.6096108646297659e-06,
+            "fondo": 1.5726261287555624e-07,
+            "umbral": 15.4834007579241,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 276.21836848859783,
+            "potencia": 1.1134465523974679e-05,
+            "fondo": 5.777698970139774e-08,
+            "umbral": 16.167737262058083,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 423.11362664121884,
+            "potencia": 5.845178750945205e-07,
+            "fondo": 2.2492933863850373e-08,
+            "umbral": 16.576147864443204,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 564.2831287636974,
+            "potencia": 1.753452711402565e-07,
+            "fondo": 2.463266046619449e-08,
+            "umbral": 16.860884418828768,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 699.2332751982625,
+            "potencia": 1.7871336375263556e-05,
+            "fondo": 4.130402210832167e-08,
+            "umbral": 17.082256485770486,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 819.2767119681463,
+            "potencia": 1.7062287288619876e-06,
+            "fondo": 1.987143512917702e-08,
+            "umbral": 17.266349519007175,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 1.6096108646297659e-06,
+        "max_izquierda": 2.9273022891226355e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 1.1134465523974679e-05,
+        "frecuencia_max_izquierda": 29.517259534700052,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 139.20832,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 141.95926157491198,
+            "potencia": 1.6096108646297659e-06,
+            "fondo": 1.5726261287555624e-07,
+            "umbral": 15.4834007579241,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 276.21836848859783,
+            "potencia": 1.1134465523974679e-05,
+            "fondo": 5.777698970139774e-08,
+            "umbral": 16.167737262058083,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 423.11362664121884,
+            "potencia": 5.845178750945205e-07,
+            "fondo": 2.2492933863850373e-08,
+            "umbral": 16.576147864443204,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 564.2831287636974,
+            "potencia": 1.753452711402565e-07,
+            "fondo": 2.463266046619449e-08,
+            "umbral": 16.860884418828768,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 699.2332751982625,
+            "potencia": 1.7871336375263556e-05,
+            "fondo": 4.130402210832167e-08,
+            "umbral": 17.082256485770486,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 819.2767119681463,
+            "potencia": 1.7062287288619876e-06,
+            "fondo": 1.987143512917702e-08,
+            "umbral": 17.266349519007175,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 1.6096108646297659e-06,
+        "max_izquierda": 2.9273022891226355e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 1.1134465523974679e-05,
+        "frecuencia_max_izquierda": 29.517259534700052,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B014_2.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        5,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 68.66144,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.3334208755314,
+            "potencia": 2.6756877821681706e-07,
+            "fondo": 1.4290354807535543e-07,
+            "umbral": 14.772554097955737,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 135.31835267468773,
+            "potencia": 7.0663486069898596e-06,
+            "fondo": 8.79746914889638e-08,
+            "umbral": 15.465701182509028,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 202.58358912069335,
+            "potencia": 1.7557111232327085e-05,
+            "fondo": 1.2798045345369614e-07,
+            "umbral": 15.871166258614972,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 271.7200400505556,
+            "potencia": 3.069253941750548e-06,
+            "fondo": 1.3509641695098685e-07,
+            "umbral": 16.158848315065644,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 339.2807314150649,
+            "potencia": 9.61008652854011e-07,
+            "fondo": 9.563806982464893e-08,
+            "umbral": 16.37482336757685,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 406.447482888236,
+            "potencia": 1.6637792966925922e-07,
+            "fondo": 7.301417197640696e-09,
+            "umbral": 16.558343240377823,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.6756877821681706e-07,
+        "max_izquierda": 4.563164090646076e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 7.0663486069898596e-06,
+        "frecuencia_max_izquierda": 29.15155195903025,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        5,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 68.66144,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.3334208755314,
+            "potencia": 2.6756877821681706e-07,
+            "fondo": 1.4290354807535543e-07,
+            "umbral": 14.772554097955737,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 135.31835267468773,
+            "potencia": 7.0663486069898596e-06,
+            "fondo": 8.79746914889638e-08,
+            "umbral": 15.465701182509028,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 202.58358912069335,
+            "potencia": 1.7557111232327085e-05,
+            "fondo": 1.2798045345369614e-07,
+            "umbral": 15.871166258614972,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 271.7200400505556,
+            "potencia": 3.069253941750548e-06,
+            "fondo": 1.3509641695098685e-07,
+            "umbral": 16.158848315065644,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 339.2807314150649,
+            "potencia": 9.61008652854011e-07,
+            "fondo": 9.563806982464893e-08,
+            "umbral": 16.37482336757685,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 406.447482888236,
+            "potencia": 1.6637792966925922e-07,
+            "fondo": 7.301417197640696e-09,
+            "umbral": 16.558343240377823,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.6756877821681706e-07,
+        "max_izquierda": 4.563164090646076e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 7.0663486069898596e-06,
+        "frecuencia_max_izquierda": 29.15155195903025,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B014_3.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 135.516,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 137.45162324056497,
+            "potencia": 8.896187244006983e-07,
+            "fondo": 1.445333394618124e-07,
+            "umbral": 15.447682678751924,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 271.64937017773065,
+            "potencia": 5.765913402163645e-06,
+            "fondo": 1.0001845327211069e-07,
+            "umbral": 16.140829810435754,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 407.03034486158697,
+            "potencia": 2.8981576918162376e-07,
+            "fondo": 4.009354696466983e-08,
+            "umbral": 16.54629490225188,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 545.0735819754973,
+            "potencia": 5.485403150728489e-07,
+            "fondo": 4.619387332692261e-08,
+            "umbral": 16.83397696655764,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 677.5950896048512,
+            "potencia": 9.077930900598072e-07,
+            "fondo": 5.242300778298365e-08,
+            "umbral": 17.057120512984238,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 822.2446816377843,
+            "potencia": 1.563837202920958e-06,
+            "fondo": 5.561766092860827e-08,
+            "umbral": 17.239442066519786,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 8.896187244006983e-07,
+        "max_izquierda": 3.822728486979694e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 5.765913402163645e-06,
+        "frecuencia_max_izquierda": 28.693272857248502,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 135.516,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 137.45162324056497,
+            "potencia": 8.896187244006983e-07,
+            "fondo": 1.445333394618124e-07,
+            "umbral": 15.447682678751924,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 271.64937017773065,
+            "potencia": 5.765913402163645e-06,
+            "fondo": 1.0001845327211069e-07,
+            "umbral": 16.140829810435754,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 407.03034486158697,
+            "potencia": 2.8981576918162376e-07,
+            "fondo": 4.009354696466983e-08,
+            "umbral": 16.54629490225188,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 545.0735819754973,
+            "potencia": 5.485403150728489e-07,
+            "fondo": 4.619387332692261e-08,
+            "umbral": 16.83397696655764,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 677.5950896048512,
+            "potencia": 9.077930900598072e-07,
+            "fondo": 5.242300778298365e-08,
+            "umbral": 17.057120512984238,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 822.2446816377843,
+            "potencia": 1.563837202920958e-06,
+            "fondo": 5.561766092860827e-08,
+            "umbral": 17.239442066519786,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 8.896187244006983e-07,
+        "max_izquierda": 3.822728486979694e-05,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 5.765913402163645e-06,
+        "frecuencia_max_izquierda": 28.693272857248502,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B021_0.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 70.58615999999999,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.65704400298436,
+            "potencia": 2.361508230424507e-07,
+            "fondo": 3.772754938527246e-07,
+            "umbral": 14.079407109409095,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 140.4947158704261,
+            "potencia": 4.773925188813502e-07,
+            "fondo": 3.861738029375621e-07,
+            "umbral": 14.772554097955737,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 209.56144594118177,
+            "potencia": 1.857986260694325e-05,
+            "fondo": 1.8534347050149317e-07,
+            "umbral": 15.20154963649271,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 285.12162926645294,
+            "potencia": 1.1647814421417235e-05,
+            "fondo": 2.310180802444177e-07,
+            "umbral": 15.4834007579241,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 359.89472734875255,
+            "potencia": 1.9532992237590274e-05,
+            "fondo": 9.519315028659951e-08,
+            "umbral": 15.717015589455121,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 419.31966319310646,
+            "potencia": 1.596578620723538e-05,
+            "fondo": 1.617018967104308e-07,
+            "umbral": 15.89469675453669,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.361508230424507e-07,
+        "max_izquierda": 2.5442165092058518e-05,
+        "h_referencia_izquierda": 3,
+        "potencia_referencia_izquierda": 1.857986260694325e-05,
+        "frecuencia_max_izquierda": 0.1967713107428937,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 70.58615999999999,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.65704400298436,
+            "potencia": 2.361508230424507e-07,
+            "fondo": 3.772754938527246e-07,
+            "umbral": 14.079407109409095,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 140.4947158704261,
+            "potencia": 4.773925188813502e-07,
+            "fondo": 3.861738029375621e-07,
+            "umbral": 14.772554097955737,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 209.56144594118177,
+            "potencia": 1.857986260694325e-05,
+            "fondo": 1.8534347050149317e-07,
+            "umbral": 15.20154963649271,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 285.12162926645294,
+            "potencia": 1.1647814421417235e-05,
+            "fondo": 2.310180802444177e-07,
+            "umbral": 15.4834007579241,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 359.89472734875255,
+            "potencia": 1.9532992237590274e-05,
+            "fondo": 9.519315028659951e-08,
+            "umbral": 15.717015589455121,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 419.31966319310646,
+            "potencia": 1.596578620723538e-05,
+            "fondo": 1.617018967104308e-07,
+            "umbral": 15.89469675453669,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.361508230424507e-07,
+        "max_izquierda": 2.5442165092058518e-05,
+        "h_referencia_izquierda": 3,
+        "potencia_referencia_izquierda": 1.857986260694325e-05,
+        "frecuencia_max_izquierda": 0.1967713107428937,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B021_1.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 139.36543999999998,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 136.86000936721965,
+            "potencia": 2.7869760177103403e-08,
+            "fondo": 7.203959468765168e-10,
+            "umbral": 15.465701182509028,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 277.95991816008086,
+            "potencia": 6.377847554913289e-09,
+            "fondo": 4.461803872830023e-10,
+            "umbral": 16.167737262058083,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 413.73530209283405,
+            "potencia": 4.52943194071152e-09,
+            "fondo": 2.3780761992233537e-10,
+            "umbral": 16.576147864443204,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 568.047920723741,
+            "potencia": 4.1648264946063114e-09,
+            "fondo": 2.4099068986032594e-10,
+            "umbral": 16.860884418828768,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 700.5694283530948,
+            "potencia": 1.3751322844053782e-08,
+            "fondo": 2.8200016761728556e-10,
+            "umbral": 17.08579631240824,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 840.288904774817,
+            "potencia": 1.0338303936100528e-09,
+            "fondo": 2.0060792478133215e-10,
+            "umbral": 17.26929502919029,
+            "significativa": false
+          }
+        ],
+        "identificadas": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 2.7869760177103403e-08,
+        "max_izquierda": 1.7401804565277695e-07,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 2.7869760177103403e-08,
+        "frecuencia_max_izquierda": 1.1832277466906598,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 139.36543999999998,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 136.86000936721965,
+            "potencia": 2.7869760177103403e-08,
+            "fondo": 7.203959468765168e-10,
+            "umbral": 15.465701182509028,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 277.95991816008086,
+            "potencia": 6.377847554913289e-09,
+            "fondo": 4.461803872830023e-10,
+            "umbral": 16.167737262058083,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 413.73530209283405,
+            "potencia": 4.52943194071152e-09,
+            "fondo": 2.3780761992233537e-10,
+            "umbral": 16.576147864443204,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 568.047920723741,
+            "potencia": 4.1648264946063114e-09,
+            "fondo": 2.4099068986032594e-10,
+            "umbral": 16.860884418828768,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 700.5694283530948,
+            "potencia": 1.3751322844053782e-08,
+            "fondo": 2.8200016761728556e-10,
+            "umbral": 17.08579631240824,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 840.288904774817,
+            "potencia": 1.0338303936100528e-09,
+            "fondo": 2.0060792478133215e-10,
+            "umbral": 17.26929502919029,
+            "significativa": false
+          }
+        ],
+        "identificadas": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 2.7869760177103403e-08,
+        "max_izquierda": 1.7401804565277695e-07,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 2.7869760177103403e-08,
+        "frecuencia_max_izquierda": 1.1832277466906598,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B021_2.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 137.79424,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 138.37138683255912,
+            "potencia": 4.5128287206610604e-07,
+            "fondo": 4.30253893864485e-08,
+            "umbral": 15.465701182509028,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 273.0003446974049,
+            "potencia": 4.201468019334403e-07,
+            "fondo": 4.946412015940466e-08,
+            "umbral": 16.158848315065644,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 415.40961541618105,
+            "potencia": 9.093006247636178e-07,
+            "fondo": 1.059790282221218e-07,
+            "umbral": 16.564313407172698,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 562.1522249396779,
+            "potencia": 6.990441906206441e-07,
+            "fondo": 2.795208818672893e-08,
+            "umbral": 16.851995471623923,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 684.2735912545344,
+            "potencia": 1.1678304865866065e-05,
+            "fondo": 5.186794138391005e-08,
+            "umbral": 17.0751390181378,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 828.160136565829,
+            "potencia": 7.489837996136629e-07,
+            "fondo": 2.997056823161195e-08,
+            "umbral": 17.257460571731535,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 4.5128287206610604e-07,
+        "max_izquierda": 2.6490538895702624e-05,
+        "h_referencia_izquierda": 4,
+        "potencia_referencia_izquierda": 6.990441906206441e-07,
+        "frecuencia_max_izquierda": 29.15155195903025,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 137.79424,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 138.37138683255912,
+            "potencia": 4.5128287206610604e-07,
+            "fondo": 4.30253893864485e-08,
+            "umbral": 15.465701182509028,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 273.0003446974049,
+            "potencia": 4.201468019334403e-07,
+            "fondo": 4.946412015940466e-08,
+            "umbral": 16.158848315065644,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 415.40961541618105,
+            "potencia": 9.093006247636178e-07,
+            "fondo": 1.059790282221218e-07,
+            "umbral": 16.564313407172698,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 562.1522249396779,
+            "potencia": 6.990441906206441e-07,
+            "fondo": 2.795208818672893e-08,
+            "umbral": 16.851995471623923,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 684.2735912545344,
+            "potencia": 1.1678304865866065e-05,
+            "fondo": 5.186794138391005e-08,
+            "umbral": 17.0751390181378,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 828.160136565829,
+            "potencia": 7.489837996136629e-07,
+            "fondo": 2.997056823161195e-08,
+            "umbral": 17.257460571731535,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 4.5128287206610604e-07,
+        "max_izquierda": 2.6490538895702624e-05,
+        "h_referencia_izquierda": 4,
+        "potencia_referencia_izquierda": 6.990441906206441e-07,
+        "frecuencia_max_izquierda": 29.15155195903025,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/B021_3.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 135.83023999999997,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 138.04323711391032,
+            "potencia": 2.6906025263917207e-06,
+            "fondo": 4.281035281947589e-08,
+            "umbral": 15.447682678751924,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 271.55076786550643,
+            "potencia": 5.577232170814412e-07,
+            "fondo": 1.1875902310660257e-07,
+            "umbral": 16.140829810435754,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 406.34012867601746,
+            "potencia": 1.5038770091727245e-06,
+            "fondo": 1.852053731060889e-07,
+            "umbral": 16.54629490225188,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 554.0463923879015,
+            "potencia": 1.5854383326919938e-06,
+            "fondo": 1.617069571615327e-08,
+            "umbral": 16.83397696655764,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 666.3544260112899,
+            "potencia": 5.921115839554172e-05,
+            "fondo": 3.550927128685805e-08,
+            "umbral": 17.057120512984238,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 808.5389602386175,
+            "potencia": 1.4010676114163465e-06,
+            "fondo": 2.932624693676835e-08,
+            "umbral": 17.239442066519786,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 2.6906025263917207e-06,
+        "max_izquierda": 0.00014163387964880953,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 2.6906025263917207e-06,
+        "frecuencia_max_izquierda": 28.79187516947272,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        4,
+        0
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 135.83023999999997,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 138.04323711391032,
+            "potencia": 2.6906025263917207e-06,
+            "fondo": 4.281035281947589e-08,
+            "umbral": 15.447682678751924,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 271.55076786550643,
+            "potencia": 5.577232170814412e-07,
+            "fondo": 1.1875902310660257e-07,
+            "umbral": 16.140829810435754,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 406.34012867601746,
+            "potencia": 1.5038770091727245e-06,
+            "fondo": 1.852053731060889e-07,
+            "umbral": 16.54629490225188,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 554.0463923879015,
+            "potencia": 1.5854383326919938e-06,
+            "fondo": 1.617069571615327e-08,
+            "umbral": 16.83397696655764,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 666.3544260112899,
+            "potencia": 5.921115839554172e-05,
+            "fondo": 3.550927128685805e-08,
+            "umbral": 17.057120512984238,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 808.5389602386175,
+            "potencia": 1.4010676114163465e-06,
+            "fondo": 2.932624693676835e-08,
+            "umbral": 17.239442066519786,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 2.6906025263917207e-06,
+        "max_izquierda": 0.00014163387964880953,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 2.6906025263917207e-06,
+        "frecuencia_max_izquierda": 28.79187516947272,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR007_0.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 162.09498666666664,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 161.7460174306586,
+            "potencia": 0.014222947622300962,
+            "fondo": 5.303417128637039e-06,
+            "umbral": 14.93685712015409,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 323.29526355057436,
+            "potencia": 0.008338173868530798,
+            "fondo": 4.073869971092418e-06,
+            "umbral": 15.63000421925384,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 485.04128098123294,
+            "potencia": 0.0013086590821932234,
+            "fondo": 2.7609568081267004e-06,
+            "umbral": 16.035469300208607,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 646.5905271011487,
+            "potencia": 0.0007457589739309381,
+            "fondo": 3.1147148586700127e-06,
+            "umbral": 16.315546760009386,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 808.3365445318072,
+            "potencia": 0.00016398736037623625,
+            "fondo": 1.2046873873994092e-06,
+            "umbral": 16.54629490225188,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 969.885790651723,
+            "potencia": 0.0028746497030376723,
+            "fondo": 1.431508787706415e-06,
+            "umbral": 16.728616453615153,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.014222947622300962,
+        "max_izquierda": 0.0029012971607111707,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.014222947622300962,
+        "frecuencia_max_izquierda": 101.73076765407605,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 162.09498666666664,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 161.7460174306586,
+            "potencia": 0.014222947622300962,
+            "fondo": 5.303417128637039e-06,
+            "umbral": 14.93685712015409,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 323.29526355057436,
+            "potencia": 0.008338173868530798,
+            "fondo": 4.073869971092418e-06,
+            "umbral": 15.63000421925384,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 485.04128098123294,
+            "potencia": 0.0013086590821932234,
+            "fondo": 2.7609568081267004e-06,
+            "umbral": 16.035469300208607,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 646.5905271011487,
+            "potencia": 0.0007457589739309381,
+            "fondo": 3.1147148586700127e-06,
+            "umbral": 16.315546760009386,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 808.3365445318072,
+            "potencia": 0.00016398736037623625,
+            "fondo": 1.2046873873994092e-06,
+            "umbral": 16.54629490225188,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 969.885790651723,
+            "potencia": 0.0028746497030376723,
+            "fondo": 1.431508787706415e-06,
+            "umbral": 16.728616453615153,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.014222947622300962,
+        "max_izquierda": 0.0029012971607111707,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.014222947622300962,
+        "frecuencia_max_izquierda": 101.73076765407605,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR007_1.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 159.92890666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 159.43268946000197,
+            "potencia": 0.008729047537472986,
+            "fondo": 4.3784401351250004e-07,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 318.86537892000393,
+            "potencia": 0.002197428538289811,
+            "fondo": 3.5013622109256767e-07,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 478.2980683800059,
+            "potencia": 0.00042758955411505774,
+            "fondo": 4.124729281659726e-07,
+            "umbral": 16.713348981902108,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 637.6320379084536,
+            "potencia": 0.0002454757463747543,
+            "fondo": 2.8395875672045695e-07,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 797.0647273684556,
+            "potencia": 7.697079935669956e-05,
+            "fondo": 1.7034614860934647e-07,
+            "umbral": 17.221092928153293,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 956.4974168284576,
+            "potencia": 0.000901849282835202,
+            "fondo": 1.298198065758734e-07,
+            "umbral": 17.403928753206674,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.008729047537472986,
+        "max_izquierda": 0.0009950554161319313,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.008729047537472986,
+        "frecuencia_max_izquierda": 59.034519069400105,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 159.92890666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 159.43268946000197,
+            "potencia": 0.008729047537472986,
+            "fondo": 4.3784401351250004e-07,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 318.86537892000393,
+            "potencia": 0.002197428538289811,
+            "fondo": 3.5013622109256767e-07,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 478.2980683800059,
+            "potencia": 0.00042758955411505774,
+            "fondo": 4.124729281659726e-07,
+            "umbral": 16.713348981902108,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 637.6320379084536,
+            "potencia": 0.0002454757463747543,
+            "fondo": 2.8395875672045695e-07,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 797.0647273684556,
+            "potencia": 7.697079935669956e-05,
+            "fondo": 1.7034614860934647e-07,
+            "umbral": 17.221092928153293,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 956.4974168284576,
+            "potencia": 0.000901849282835202,
+            "fondo": 1.298198065758734e-07,
+            "umbral": 17.403928753206674,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.008729047537472986,
+        "max_izquierda": 0.0009950554161319313,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.008729047537472986,
+        "frecuencia_max_izquierda": 59.034519069400105,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR007_2.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 157.76282666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.25131423700125,
+            "potencia": 0.006822441324964996,
+            "fondo": 3.8670748684533527e-07,
+            "umbral": 15.599232563132718,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 314.5026284740025,
+            "potencia": 0.0019078035351586466,
+            "fondo": 2.1609674551729354e-07,
+            "umbral": 16.29237970168975,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 471.8527807463507,
+            "potencia": 0.0005548120933705016,
+            "fondo": 4.1232980793140593e-07,
+            "umbral": 16.697844795796943,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 629.104094983352,
+            "potencia": 0.0003426551715505693,
+            "fondo": 2.1777783658986463e-07,
+            "umbral": 16.98161296200946,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 786.3554092203532,
+            "potencia": 0.00014904701589836834,
+            "fondo": 2.475829662752614e-07,
+            "umbral": 17.205540515405897,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 943.6067234573544,
+            "potencia": 0.0007629866217432595,
+            "fondo": 2.587875234648544e-07,
+            "umbral": 17.38838439898539,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.006822441324964996,
+        "max_izquierda": 0.0012666384676443083,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.006822441324964996,
+        "frecuencia_max_izquierda": 58.215602819354956,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 157.76282666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.25131423700125,
+            "potencia": 0.006822441324964996,
+            "fondo": 3.8670748684533527e-07,
+            "umbral": 15.599232563132718,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 314.5026284740025,
+            "potencia": 0.0019078035351586466,
+            "fondo": 2.1609674551729354e-07,
+            "umbral": 16.29237970168975,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 471.8527807463507,
+            "potencia": 0.0005548120933705016,
+            "fondo": 4.1232980793140593e-07,
+            "umbral": 16.697844795796943,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 629.104094983352,
+            "potencia": 0.0003426551715505693,
+            "fondo": 2.1777783658986463e-07,
+            "umbral": 16.98161296200946,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 786.3554092203532,
+            "potencia": 0.00014904701589836834,
+            "fondo": 2.475829662752614e-07,
+            "umbral": 17.205540515405897,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 943.6067234573544,
+            "potencia": 0.0007629866217432595,
+            "fondo": 2.587875234648544e-07,
+            "umbral": 17.38838439898539,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.006822441324964996,
+        "max_izquierda": 0.0012666384676443083,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.006822441324964996,
+        "frecuencia_max_izquierda": 58.215602819354956,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR007_3.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 155.32598666666667,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 154.8792013886744,
+            "potencia": 0.003323063996911039,
+            "fondo": 4.87952267556493e-07,
+            "umbral": 15.567483867528003,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 309.6595647420018,
+            "potencia": 0.00408894117456918,
+            "fondo": 2.585185951346442e-07,
+            "umbral": 16.268663176080505,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 464.5387661306762,
+            "potencia": 0.0012286141336595566,
+            "fondo": 4.81365916471265e-07,
+            "umbral": 16.676791387194896,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 619.3191294840036,
+            "potencia": 0.00027441013839804216,
+            "fondo": 2.963655513560514e-07,
+            "umbral": 16.965802356318815,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 774.1983308726781,
+            "potencia": 8.103627647772701e-05,
+            "fondo": 2.187326706164464e-07,
+            "umbral": 17.18974239879768,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 928.9786942260055,
+            "potencia": 0.00018849823403404109,
+            "fondo": 2.1328980768764455e-07,
+            "umbral": 17.372594597476166,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.003323063996911039,
+        "max_izquierda": 0.0009347954559041153,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.003323063996911039,
+        "frecuencia_max_izquierda": 57.326060501232384,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 155.32598666666667,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 154.8792013886744,
+            "potencia": 0.003323063996911039,
+            "fondo": 4.87952267556493e-07,
+            "umbral": 15.567483867528003,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 309.6595647420018,
+            "potencia": 0.00408894117456918,
+            "fondo": 2.585185951346442e-07,
+            "umbral": 16.268663176080505,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 464.5387661306762,
+            "potencia": 0.0012286141336595566,
+            "fondo": 4.81365916471265e-07,
+            "umbral": 16.676791387194896,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 619.3191294840036,
+            "potencia": 0.00027441013839804216,
+            "fondo": 2.963655513560514e-07,
+            "umbral": 16.965802356318815,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 774.1983308726781,
+            "potencia": 8.103627647772701e-05,
+            "fondo": 2.187326706164464e-07,
+            "umbral": 17.18974239879768,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 928.9786942260055,
+            "potencia": 0.00018849823403404109,
+            "fondo": 2.1328980768764455e-07,
+            "umbral": 17.372594597476166,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.003323063996911039,
+        "max_izquierda": 0.0009347954559041153,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.003323063996911039,
+        "frecuencia_max_izquierda": 57.326060501232384,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR014_0.mat",
+    "tipo_final": "B",
+    "calidad_final": {
+      "grado": "ND",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "ND",
+        "motivo": "menos_de_dos_armonicas",
+        "frecuencia_base": 70.54688,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.22932212955416,
+            "potencia": 1.898838717558012e-05,
+            "fondo": 6.953659507917736e-05,
+            "umbral": 12.826645100980057,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 140.71612215463725,
+            "potencia": 7.28546873653043e-05,
+            "fondo": 4.293149595720249e-05,
+            "umbral": 13.519791609493604,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 207.6879663886625,
+            "potencia": 5.2260773703517694e-05,
+            "fondo": 1.500557061793848e-05,
+            "umbral": 13.83824515732673,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 283.68972220480345,
+            "potencia": 2.2053809335205615e-05,
+            "fondo": 1.222771852669309e-05,
+            "umbral": 14.148399955294273,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 346.89910327961377,
+            "potencia": 7.910729136151286e-06,
+            "fondo": 4.285142596234063e-06,
+            "umbral": 14.384788657900646,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 425.1583369912837,
+            "potencia": 1.3067797568704901e-05,
+            "fondo": 3.1043820171159044e-06,
+            "umbral": 14.531392093506115,
+            "significativa": false
+          }
+        ],
+        "identificadas": [],
+        "primera_identificada": false,
+        "potencia_primera": 1.898838717558012e-05,
+        "max_izquierda": 0.00027870299727567727,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 1.898838717558012e-05,
+        "frecuencia_max_izquierda": 64.71436633849628,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "ND",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "ND",
+        "motivo": "menos_de_dos_armonicas",
+        "frecuencia_base": 70.54688,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.22932212955416,
+            "potencia": 1.898838717558012e-05,
+            "fondo": 6.953659507917736e-05,
+            "umbral": 12.826645100980057,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 140.71612215463725,
+            "potencia": 7.28546873653043e-05,
+            "fondo": 4.293149595720249e-05,
+            "umbral": 13.519791609493604,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 207.6879663886625,
+            "potencia": 5.2260773703517694e-05,
+            "fondo": 1.500557061793848e-05,
+            "umbral": 13.83824515732673,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 283.68972220480345,
+            "potencia": 2.2053809335205615e-05,
+            "fondo": 1.222771852669309e-05,
+            "umbral": 14.148399955294273,
+            "significativa": false
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 346.89910327961377,
+            "potencia": 7.910729136151286e-06,
+            "fondo": 4.285142596234063e-06,
+            "umbral": 14.384788657900646,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 425.1583369912837,
+            "potencia": 1.3067797568704901e-05,
+            "fondo": 3.1043820171159044e-06,
+            "umbral": 14.531392093506115,
+            "significativa": false
+          }
+        ],
+        "identificadas": [],
+        "primera_identificada": false,
+        "potencia_primera": 1.898838717558012e-05,
+        "max_izquierda": 0.00027870299727567727,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 1.898838717558012e-05,
+        "frecuencia_max_izquierda": 64.71436633849628,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR014_1.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        3,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 159.92890666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.0150779453105,
+            "potencia": 5.311958783666682e-07,
+            "fondo": 2.499222793947534e-07,
+            "umbral": 15.614736748376286,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 316.4835164835165,
+            "potencia": 4.820524895285574e-06,
+            "fondo": 1.5875046247103131e-07,
+            "umbral": 16.307883887579518,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 476.24635829286996,
+            "potencia": 5.429970460742375e-06,
+            "fondo": 1.2352574584171685e-07,
+            "umbral": 16.713348981902108,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 637.3830820342448,
+            "potencia": 1.0646883024220072e-05,
+            "fondo": 1.720714321743038e-07,
+            "umbral": 17.00486982368904,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 806.4686940966011,
+            "potencia": 1.37122500264682e-05,
+            "fondo": 1.2454178142785082e-07,
+            "umbral": 17.22724679362587,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 977.0263225146947,
+            "potencia": 3.0807635504135875e-06,
+            "fondo": 1.3775326059019063e-07,
+            "umbral": 17.4090569695029,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 5.311958783666682e-07,
+        "max_izquierda": 0.0002845881366912464,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 4.820524895285574e-06,
+        "frecuencia_max_izquierda": 28.753386148734986,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        5,
+        0
+      ],
+      "familia": "BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 69.60416,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 69.18476871965244,
+            "potencia": 3.5249814682591754e-05,
+            "fondo": 1.7858549828496845e-07,
+            "umbral": 14.772554097955737,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 138.17326859187324,
+            "potencia": 7.964855603189476e-07,
+            "fondo": 3.2075637855951456e-07,
+            "umbral": 15.465701182509028,
+            "significativa": false
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 207.65244058267314,
+            "potencia": 5.014536569129804e-07,
+            "fondo": 1.5601102062537173e-07,
+            "umbral": 15.883000715508983,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 282.33273703041147,
+            "potencia": 2.103398162580611e-06,
+            "fondo": 1.0314396131517555e-07,
+            "umbral": 16.167737262058083,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 348.4753386148735,
+            "potencia": 1.0995351324624709e-06,
+            "fondo": 7.977409575896068e-08,
+            "umbral": 16.39617649123026,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 409.31868131868134,
+            "potencia": 1.9205280372155092e-07,
+            "fondo": 3.219186569145404e-08,
+            "umbral": 16.576147864443204,
+            "significativa": false
+          }
+        ],
+        "identificadas": [
+          1,
+          4
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 3.5249814682591754e-05,
+        "max_izquierda": 3.3263637488229986e-05,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 3.5249814682591754e-05,
+        "frecuencia_max_izquierda": 28.753386148734986,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR014_2.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "PD",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 158.03358666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.88049938110188,
+            "potencia": 0.0014775483684703894,
+            "fondo": 5.963096115009539e-06,
+            "umbral": 15.599232563132718,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 315.8593666745908,
+            "potencia": 0.00041621738469241196,
+            "fondo": 1.252274111270427e-06,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 473.73986605569263,
+            "potencia": 7.846032985450126e-06,
+            "fondo": 2.3238306453019473e-07,
+            "umbral": 16.703039612528958,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 631.7187333491815,
+            "potencia": 1.99851580373683e-05,
+            "fondo": 2.612337864530176e-07,
+            "umbral": 16.98942550158218,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 789.5992327302833,
+            "potencia": 4.853175621616319e-05,
+            "fondo": 2.8670252333184097e-07,
+            "umbral": 17.21179053564606,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 947.4797321113853,
+            "potencia": 3.192999971703456e-06,
+            "fondo": 6.23324032935754e-08,
+            "umbral": 17.396186779160477,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.0014775483684703894,
+        "max_izquierda": 0.0028566182396303754,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.0014775483684703894,
+        "frecuencia_max_izquierda": 70.43142526907722,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 158.03358666666665,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.88049938110188,
+            "potencia": 0.0014775483684703894,
+            "fondo": 5.963096115009539e-06,
+            "umbral": 15.599232563132718,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 315.8593666745908,
+            "potencia": 0.00041621738469241196,
+            "fondo": 1.252274111270427e-06,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 473.73986605569263,
+            "potencia": 7.846032985450126e-06,
+            "fondo": 2.3238306453019473e-07,
+            "umbral": 16.703039612528958,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 631.7187333491815,
+            "potencia": 1.99851580373683e-05,
+            "fondo": 2.612337864530176e-07,
+            "umbral": 16.98942550158218,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 789.5992327302833,
+            "potencia": 4.853175621616319e-05,
+            "fondo": 2.8670252333184097e-07,
+            "umbral": 17.21179053564606,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 947.4797321113853,
+            "potencia": 3.192999971703456e-06,
+            "fondo": 6.23324032935754e-08,
+            "umbral": 17.396186779160477,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.0014775483684703894,
+        "max_izquierda": 0.0028566182396303754,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.0014775483684703894,
+        "frecuencia_max_izquierda": 70.43142526907722,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR014_3.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        6,
+        12
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 155.7772533333333,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 155.75708722372144,
+            "potencia": 1.6715041413613882e-07,
+            "fondo": 1.170137489947206e-09,
+            "umbral": 15.583484207498005,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 311.41521822938466,
+            "potencia": 5.432014136960523e-08,
+            "fondo": 4.529289957119182e-10,
+            "umbral": 16.276631345388324,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 467.1723054531061,
+            "potencia": 1.2559874107348128e-09,
+            "fondo": 2.0766641427440518e-11,
+            "umbral": 16.68209643927328,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 622.9293926768275,
+            "potencia": 1.4620846021858332e-10,
+            "fondo": 7.318248508488202e-12,
+            "umbral": 16.969778504613455,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 766.712777515498,
+            "potencia": 1.766562256971522e-11,
+            "fondo": 2.4959503943276363e-12,
+            "umbral": 17.1929220516607,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 920.4907403780539,
+            "potencia": 6.100203860373763e-12,
+            "fondo": 8.552608379139053e-13,
+            "umbral": 17.375243605610017,
+            "significativa": false
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 1.6715041413613882e-07,
+        "max_izquierda": 1.5069696503765807e-07,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 1.6715041413613882e-07,
+        "frecuencia_max_izquierda": 86.28982214681392,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "B",
+    "calidad_evaluacion": {
+      "grado": "PD",
+      "nodo": [
+        5,
+        3
+      ],
+      "familia": "2BSF",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "PD",
+        "motivo": "una_o_mas_armonicas_con_pico_previo_mayor",
+        "frecuencia_base": 135.59455999999997,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 134.7783689953676,
+            "potencia": 2.1427081913402778e-05,
+            "fondo": 1.1381967430616207e-05,
+            "umbral": 15.447682678751924,
+            "significativa": false
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 270.7442126074345,
+            "potencia": 9.804465230939019e-05,
+            "fondo": 2.321581060002495e-06,
+            "umbral": 16.140829810435754,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 400.57477069988846,
+            "potencia": 8.911672607402956e-06,
+            "fondo": 3.0743156353215957e-07,
+            "umbral": 16.54021585637418,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 536.6395705300137,
+            "potencia": 2.2361153328777673e-06,
+            "fondo": 8.94436618094299e-08,
+            "umbral": 16.829421150133367,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 680.422955368684,
+            "potencia": 1.693054834846495e-07,
+            "fondo": 1.6759517733753786e-08,
+            "umbral": 17.05347752177709,
+            "significativa": false
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 807.3837831374482,
+            "potencia": 2.1521412454150966e-07,
+            "fondo": 6.986630816487599e-09,
+            "umbral": 17.233363020542743,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "primera_identificada": false,
+        "potencia_primera": 2.1427081913402778e-05,
+        "max_izquierda": 0.0034690507645663373,
+        "h_referencia_izquierda": 2,
+        "potencia_referencia_izquierda": 9.804465230939019e-05,
+        "frecuencia_max_izquierda": 28.796259454957397,
+        "hay_pico_previo_mayor": true,
+        "primera_maxima_total": false,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR021_0.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 162.09498666666664,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 161.87346268913274,
+            "potencia": 0.02272833329228768,
+            "fondo": 2.453381169126408e-05,
+            "umbral": 14.93685712015409,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 323.7469253782655,
+            "potencia": 0.0022692964911400692,
+            "fondo": 1.1969072117299085e-05,
+            "umbral": 15.63000421925384,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 485.62038806739815,
+            "potencia": 1.8823710428106015e-05,
+            "fondo": 3.0220832037892403e-06,
+            "umbral": 16.035469300208607,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 647.493850756531,
+            "potencia": 0.0006319161357188179,
+            "fondo": 3.417823130489648e-06,
+            "umbral": 16.32315135908369,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 809.3673134456636,
+            "potencia": 0.0010393218392075409,
+            "fondo": 2.2388020980030335e-06,
+            "umbral": 16.54629490225188,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 971.2407761347963,
+            "potencia": 0.00013186118255577954,
+            "fondo": 1.0827692639018436e-06,
+            "umbral": 16.728616453615153,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.02272833329228768,
+        "max_izquierda": 0.004687859497430208,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.02272833329228768,
+        "frecuencia_max_izquierda": 72.09655437732003,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        2,
+        0
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 162.09498666666664,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 161.87346268913274,
+            "potencia": 0.02272833329228768,
+            "fondo": 2.453381169126408e-05,
+            "umbral": 14.93685712015409,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 323.7469253782655,
+            "potencia": 0.0022692964911400692,
+            "fondo": 1.1969072117299085e-05,
+            "umbral": 15.63000421925384,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 485.62038806739815,
+            "potencia": 1.8823710428106015e-05,
+            "fondo": 3.0220832037892403e-06,
+            "umbral": 16.035469300208607,
+            "significativa": false
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 647.493850756531,
+            "potencia": 0.0006319161357188179,
+            "fondo": 3.417823130489648e-06,
+            "umbral": 16.32315135908369,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 809.3673134456636,
+            "potencia": 0.0010393218392075409,
+            "fondo": 2.2388020980030335e-06,
+            "umbral": 16.54629490225188,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 971.2407761347963,
+            "potencia": 0.00013186118255577954,
+            "fondo": 1.0827692639018436e-06,
+            "umbral": 16.728616453615153,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 0.02272833329228768,
+        "max_izquierda": 0.004687859497430208,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 0.02272833329228768,
+        "frecuencia_max_izquierda": 72.09655437732003,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR021_1.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 160.10941333333332,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 159.71533594605236,
+            "potencia": 3.78469221276492e-06,
+            "fondo": 3.662955074922658e-09,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 319.529628110163,
+            "potencia": 9.907261164010146e-07,
+            "fondo": 1.6581399289028092e-09,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 479.2449640562154,
+            "potencia": 6.503571263868506e-07,
+            "fondo": 2.9268315648234298e-09,
+            "umbral": 16.713348981902108,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 639.059256220326,
+            "potencia": 3.7366835480441564e-07,
+            "fondo": 3.0187629008600777e-09,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 798.7745921663784,
+            "potencia": 1.2038130145078832e-07,
+            "fondo": 2.0121197494931155e-09,
+            "umbral": 17.218001735634992,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 958.4899281124308,
+            "potencia": 1.3678509854379342e-08,
+            "fondo": 3.90622992716552e-10,
+            "umbral": 17.403928753206674,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 3.78469221276492e-06,
+        "max_izquierda": 2.965545006633537e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 3.78469221276492e-06,
+        "frecuencia_max_izquierda": 88.66477138021247,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 160.10941333333332,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 159.71533594605236,
+            "potencia": 3.78469221276492e-06,
+            "fondo": 3.662955074922658e-09,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 319.529628110163,
+            "potencia": 9.907261164010146e-07,
+            "fondo": 1.6581399289028092e-09,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 479.2449640562154,
+            "potencia": 6.503571263868506e-07,
+            "fondo": 2.9268315648234298e-09,
+            "umbral": 16.713348981902108,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 639.059256220326,
+            "potencia": 3.7366835480441564e-07,
+            "fondo": 3.0187629008600777e-09,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 798.7745921663784,
+            "potencia": 1.2038130145078832e-07,
+            "fondo": 2.0121197494931155e-09,
+            "umbral": 17.218001735634992,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 958.4899281124308,
+            "potencia": 1.3678509854379342e-08,
+            "fondo": 3.90622992716552e-10,
+            "umbral": 17.403928753206674,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 3.78469221276492e-06,
+        "max_izquierda": 2.965545006633537e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 3.78469221276492e-06,
+        "frecuencia_max_izquierda": 88.66477138021247,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "48k_DE/IR021_2.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 158.12384,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.73859182901074,
+            "potencia": 5.672935117190055e-06,
+            "fondo": 4.582513735425853e-09,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 315.5748546127144,
+            "potencia": 8.935882264702656e-07,
+            "fondo": 1.8965446796633477e-09,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 473.3134464417251,
+            "potencia": 4.888871741232965e-07,
+            "fondo": 3.448364086655109e-09,
+            "umbral": 16.70820758254381,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 631.0520382707358,
+            "potencia": 4.5954272047020526e-07,
+            "fondo": 3.055895625401484e-09,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 788.7906300997465,
+            "potencia": 9.718106878897778e-08,
+            "fondo": 1.723078117215262e-09,
+            "umbral": 17.221092928153293,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 946.5292219287574,
+            "potencia": 1.67694377342987e-08,
+            "fondo": 3.7889016183717865e-10,
+            "umbral": 17.401354749247123,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 5.672935117190055e-06,
+        "max_izquierda": 3.656604392771102e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 5.672935117190055e-06,
+        "frecuencia_max_izquierda": 70.22541642418497,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": null,
+    "calidad_evaluacion": null
+  },
+  {
+    "archivo": "48k_DE/IR021_3.mat",
+    "tipo_final": "IR",
+    "calidad_final": {
+      "grado": "D",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 158.12384,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.73859182901074,
+            "potencia": 5.672935117190055e-06,
+            "fondo": 4.582513735425853e-09,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 315.5748546127144,
+            "potencia": 8.935882264702656e-07,
+            "fondo": 1.8965446796633477e-09,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 473.3134464417251,
+            "potencia": 4.888871741232965e-07,
+            "fondo": 3.448364086655109e-09,
+            "umbral": 16.70820758254381,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 631.0520382707358,
+            "potencia": 4.5954272047020526e-07,
+            "fondo": 3.055895625401484e-09,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 788.7906300997465,
+            "potencia": 9.718106878897778e-08,
+            "fondo": 1.723078117215262e-09,
+            "umbral": 17.221092928153293,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 946.5292219287574,
+            "potencia": 1.67694377342987e-08,
+            "fondo": 3.7889016183717865e-10,
+            "umbral": 17.401354749247123,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 5.672935117190055e-06,
+        "max_izquierda": 3.656604392771102e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 5.672935117190055e-06,
+        "frecuencia_max_izquierda": 70.22541642418497,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    },
+    "tipo_evaluacion": "IR",
+    "calidad_evaluacion": {
+      "grado": "D",
+      "nodo": [
+        4,
+        3
+      ],
+      "familia": "BPFI",
+      "p_prueba": 1.0752688172043012e-05,
+      "evidencia": {
+        "grado": "D",
+        "motivo": "primera_dominante_a_izquierda_y_dos_o_mas_armonicas",
+        "frecuencia_base": 158.12384,
+        "armonicas": [
+          {
+            "h": 1,
+            "frecuencia_hz": 157.73859182901074,
+            "potencia": 5.672935117190055e-06,
+            "fondo": 4.582513735425853e-09,
+            "umbral": 15.614736748376286,
+            "significativa": true
+          },
+          {
+            "h": 2,
+            "frecuencia_hz": 315.5748546127144,
+            "potencia": 8.935882264702656e-07,
+            "fondo": 1.8965446796633477e-09,
+            "umbral": 16.3001618418062,
+            "significativa": true
+          },
+          {
+            "h": 3,
+            "frecuencia_hz": 473.3134464417251,
+            "potencia": 4.888871741232965e-07,
+            "fondo": 3.448364086655109e-09,
+            "umbral": 16.70820758254381,
+            "significativa": true
+          },
+          {
+            "h": 4,
+            "frecuencia_hz": 631.0520382707358,
+            "potencia": 4.5954272047020526e-07,
+            "fondo": 3.055895625401484e-09,
+            "umbral": 16.997177478224952,
+            "significativa": true
+          },
+          {
+            "h": 5,
+            "frecuencia_hz": 788.7906300997465,
+            "potencia": 9.718106878897778e-08,
+            "fondo": 1.723078117215262e-09,
+            "umbral": 17.221092928153293,
+            "significativa": true
+          },
+          {
+            "h": 6,
+            "frecuencia_hz": 946.5292219287574,
+            "potencia": 1.67694377342987e-08,
+            "fondo": 3.7889016183717865e-10,
+            "umbral": 17.401354749247123,
+            "significativa": true
+          }
+        ],
+        "identificadas": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "primera_identificada": true,
+        "potencia_primera": 5.672935117190055e-06,
+        "max_izquierda": 3.656604392771102e-06,
+        "h_referencia_izquierda": 1,
+        "potencia_referencia_izquierda": 5.672935117190055e-06,
+        "frecuencia_max_izquierda": 70.22541642418497,
+        "hay_pico_previo_mayor": false,
+        "primera_maxima_total": true,
+        "dominancia": "solo_izquierda",
+        "min_armonicas_d": 2,
+        "min_armonicas_pd": 1
+      }
+    }
+  },
+  {
+    "archivo": "Normal/Normal_0.mat",
+    "tipo_final": "N",
+    "calidad_final": {
+      "grado": "ND",
+      "nodo": null,
+      "familia": null
+    },
+    "tipo_evaluacion": null,
+    "calidad_evaluacion": null
+  },
+  {
+    "archivo": "Normal/Normal_1.mat",
+    "tipo_final": "N",
+    "calidad_final": {
+      "grado": "ND",
+      "nodo": null,
+      "familia": null
+    },
+    "tipo_evaluacion": null,
+    "calidad_evaluacion": null
+  },
+  {
+    "archivo": "Normal/Normal_2.mat",
+    "tipo_final": "N",
+    "calidad_final": {
+      "grado": "ND",
+      "nodo": null,
+      "familia": null
+    },
+    "tipo_evaluacion": null,
+    "calidad_evaluacion": null
+  },
+  {
+    "archivo": "Normal/Normal_3.mat",
+    "tipo_final": "N",
+    "calidad_final": {
+      "grado": "ND",
+      "nodo": null,
+      "familia": null
+    },
+    "tipo_evaluacion": "N",
+    "calidad_evaluacion": {
+      "grado": "ND",
+      "nodo": null,
+      "familia": null
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "version": "compacto_anidado_v1",
+  "dimensiones": 189,
+  "representacion": "tres bandas con fundamental y otra armónica coherentes por cada una de cinco familias; nueve estadísticas globales",
+  "seleccion": "misma validación anidada, mismos tres clasificadores y prefijo 2s",
+  "codigo_sha256": "82e3be7e2f5b09432ad7b3effad19568558d0e10870dd064152a80cb637d8bdf",
+  "seleccion_sha256": "7e65cc01a8a72423fd120d6e58b3582da39c84f490f9b95550f8b568742f4bd5",
+  "rasgos_origen_sha256": "eeb75ee128aa4b2484b4ba182fdbd07ab3ed9db690212f8f47558f60860b16b1"
+}
